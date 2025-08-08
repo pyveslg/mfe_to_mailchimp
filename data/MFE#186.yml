@@ -1,0 +1,31 @@
+---
+title: je suis passionné
+preview_text: Today, learn how to be 100% involved
+color: "#e4f27d"
+goal: être entier
+challenge:
+  state: 'En ce moment, vous êtes passionné par un projet personnel. Vous allez passer
+    le week-end à y travailler. Votre collègue vous demande pourquoi. Vous expliquez
+    :'
+  options:
+  - option: Je suis à fond dans mon projet !
+    correct: true
+  - option: Je suis au maximum dans mon projet !
+explanation:
+  fr: |-
+    Eh oui !
+    être à fond signifie être passionné, être pleinement impliqué dans quelque chose.
+    Cette expression informelle est très appréciée par les Parisiens !
+  en: |-
+    When Parisians are 100% passionate and involved in their projects, ”ils sont à fond” (= they are flat out).
+    It's a pretty much used informal idiom !
+words:
+- fr: Je suis passionné.
+  en: I'm passionate.
+- fr: Profite à fond de tes vacances.
+  en: Get the most out of your holidays.
+- fr: Je suis carrément d’accord !
+  en: I totally agree! (informal)
+- fr: Je crois grave à ton idée.
+  en: I seriously believe in your idea. (very informal)
+end_question: Et vous, dans quoi êtes-vous à fond ?

@@ -1,0 +1,30 @@
+---
+title: je connais la chanson
+preview_text: Today, learn how to musically complain
+color: "#f9ffea"
+goal: vous plaindre en musique
+challenge:
+  state: 'Vous avez un problème avec un collègue qui répète toujours la même requête
+    pendant les réunions. Vous dites :'
+  options:
+  - option: J’aimerais qu’il change de disque.
+    correct: true
+  - option: J’aimerais qu’il change de musique.
+explanation:
+  fr: Eh oui ! L’expression changer de disque signifie parler d’autre chose, changer
+    de sujet. Elle fait référence aux disques, écoutés sur les tourne-disques, qui
+    répétaient mécaniquement la même chanson.
+  en: "“Changer de disque” (to change the record) is a useful colloquial idiom when
+    you want someone to speak about another topic or to stop repeating the same thing
+    again and again."
+words:
+- fr: Je connais la chanson.
+  en: I have heard it all before.
+- fr: C’est toujours le même refrain...
+  en: It's always the same old tune...
+- fr: C’est très bien, le seul bémol est l’horaire.
+  en: Excellent. The only downside is the schedule.
+- fr: Vous devriez accorder vos violons.
+  en: You should get your stories straight.
+end_question: "Et vous, vous venez apprendre une nouvelle chanson française lors du
+  prochain Singing in French ? \U0001F449 https://googl/YWny9v"

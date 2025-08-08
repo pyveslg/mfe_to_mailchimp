@@ -1,0 +1,28 @@
+---
+title: comme ci, comme ça
+preview_text: Today, learn how not to feel so well
+color: "#ff8162"
+goal: ne pas aller bien
+challenge:
+  state: 'Vous n’êtes pas en forme en ce moment. Vous dites :'
+  options:
+  - option: Ça peut aller…
+    correct: true
+  - option: Ça peut faire…
+explanation:
+  fr: |-
+    Eh oui ! ça peut aller est une expression courante
+    pour dire que ça ne va pas très bien.
+  en: |-
+    ”ça peut aller” is a common idiom to mean one is not doing/feeling very well.
+    When someone answers this to your “ça va?”, then you know that there is something wrong with them and that you can ask them what's wrong (if you feel so!).
+words:
+- fr: Bof !
+  en: Meh!
+- fr: Comme ci, comme ça.
+  en: so-so.
+- fr: Ça va moyennement.
+  en: I am not really doing well.
+- fr: Ça pourrait aller mieux.
+  en: It could be better.
+end_question: Et vous, comment vous allez en ce moment ?

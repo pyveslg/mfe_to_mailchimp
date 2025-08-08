@@ -1,0 +1,27 @@
+---
+title: l'avenir nous le dira
+preview_text: "Today, learn to foretell! \U0001F52E"
+color: "#ffcef3"
+goal: prédire l'avenir
+challenge:
+  state: 'Vous recevez deux bonnes nouvelles consécutives, vous dites :'
+  options:
+  - option: Jamais deux sans trois !
+    correct: true
+  - option: Les choses arrivent par trois !
+explanation:
+  fr: Eh oui ! jamais deux sans trois est une expression populaire légèrement superstitieuse…
+    cela suppose que ce qui arrive 2 fois peut arriver 3 fois.
+  en: |-
+    “jamais deux sans trois” underlies that anything happening twice is likely to happen a third time.
+    French people can show themselves quite superstitious sometimes...
+words:
+- fr: Il a beaucoup d’intuition.
+  en: He's highly intuitive.
+- fr: Je suis prêt à parier qu’il va gagner !
+  en: I'm willing to bet on his victory!
+- fr: Un malheur n'arrive jamais seul.
+  en: Misfortunes never come singly.
+- fr: Seul l’avenir nous le dira…
+  en: Time alone will tell...
+end_question: Et vous, êtes-vous superstitieux ?

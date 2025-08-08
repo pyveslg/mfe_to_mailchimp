@@ -1,0 +1,28 @@
+---
+title: j’habite la Ville Lumière
+preview_text: "Today, learn to tell where you live... \U0001F4CD"
+color: "#d6e4f0"
+goal: dire où vous habitez
+challenge:
+  state: 'Vous parlez de votre nouvelle vie, vous dites :'
+  options:
+  - option: J’adore vivre en Paris !
+  - option: J’adore vivre à Paris !
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Devant une ville, on utilise toujours la préposition à.
+    Ne confondez pas avec le pays… par exemple : “J’habite à Paris, en France.”
+  en: |-
+    Before naming a town, the “à” preposition is always required.
+    Be careful! It doesn't work the same with the countries!
+words:
+- fr: Je vis en France.
+  en: I live in France.
+- fr: J’habite la Ville Lumière.
+  en: I live in the City of Light.
+- fr: Montpellier est la ville de mon enfance.
+  en: Montpellier is the city of my childhood.
+- fr: "“Où se trouve le cœur, là est ma maison.” (Pline l’Ancien)"
+  en: "“Home is where your heart is.” (Pline the Elder)"
+end_question: Et vous, dans quelle ville habitez-vous ?

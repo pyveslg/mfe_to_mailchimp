@@ -1,0 +1,24 @@
+---
+title: je suis là
+preview_text: Today, learn how to have a change of scenery
+color: "#dbe9b7"
+goal: changer d’horizon
+challenge:
+  state: 'Vous désignez la direction et dites :'
+  options:
+  - option: C’est là !
+    correct: true
+  - option: C’est là-bas !
+explanation:
+  fr: Eh oui ! là-bas indique généralement un lieu que l’on ne peut pas voir directement.
+  en: "“là-bas” stands for a place that one cannot directly see. (~ similar to there)"
+words:
+- fr: Je suis là !
+  en: I am here!
+- fr: Tu peux laisser ton manteau là.
+  en: You can leave your jacket here.
+- fr: On se retrouve là-bas directement ?
+  en: Shall we meet directly over there?
+- fr: Va voir là-bas si j’y suis… (*)
+  en: get lost! (*informal and rude)
+end_question: Et vous, parlez-nous de votre pays d’enfance !

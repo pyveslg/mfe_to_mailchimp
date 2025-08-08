@@ -1,0 +1,31 @@
+---
+title: c’est la belle vie !
+preview_text: ''
+color: "#e81148"
+goal: philosopher une bonne fois pour toute*
+challenge:
+  state: 'Pour dire que vous êtes heureux dans votre nouvelle ville, vous dites :'
+  options:
+  - option: La vie à Paris, c’est extraordinaire !
+  - option: Une vie à Paris, c’est extraordinaire !
+explanation:
+  fr: |-
+    Eh oui ! mais le sens est différent...
+    a) signifie la vie en général, autrement dit : "vivre à Paris, c'est extraordinaire".
+    b) signifie une vie en particulier, autrement dit : "vivre une vie entière à Paris, c'est extraordinaire".
+  en: |-
+    Both can be used ? Indeed ! But both have different meanings
+    a) means life in general... "living in Paris is extraordinary"
+    b) means a life in particular... "Living a whole life in Paris is extraordinary"
+    A little bit tricky right ?
+words:
+- fr: C’est la belle vie !
+  en: That's a good life!
+- fr: Elle vit au jour le jour.
+  en: She's living from day to day.
+- fr: Le bonheur est fait de petites choses.
+  en: Happiness is made up of little things.
+- fr: Il fait le bien autour de lui.
+  en: He brings happiness to people who are around him.
+end_question: Et vous, parler français vous apporte une joie de vivre ou la joie de
+  vivre ?

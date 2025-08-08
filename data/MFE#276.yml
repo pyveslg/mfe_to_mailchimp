@@ -1,0 +1,26 @@
+---
+title: j’apprends en faisant
+preview_text: Today, learn how to learn by doing
+color: "#ffeed0"
+goal: apprendre en faisant
+challenge:
+  state: 'Vous êtes très bon dans votre travail mais vous n’avez pas de qualification
+    ou de diplôme en relation. Vous dites :'
+  options:
+  - option: J’ai appris sur le champ.
+    correct: true
+  - option: J’ai appris sur le tas.
+explanation:
+  fr: Eh oui ! apprendre sur le tas est une expression courante qui signifie apprendre
+    par la pratique, sans formation spécifique.
+  en: "”apprendre sur le tas” is a common idiom meaning that one learns by doing."
+words:
+- fr: J’ai tout appris sur le tas.
+  en: I learnt everything in the field.
+- fr: Je me suis formé sur le tas.
+  en: I learnt on the job.
+- fr: J’apprends en faisant.
+  en: I learn by doing.
+- fr: C’est en faisant qu’on devient forgeron.
+  en: Practice makes perfect.
+end_question: Et vous, comment avez-vous appris votre métier ?

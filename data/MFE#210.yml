@@ -1,0 +1,28 @@
+---
+title: j’arrive
+preview_text: Today, learn how to be cut off
+color: "#faf5af"
+goal: être interrompu
+challenge:
+  state: 'Il demande s’il vous dérange. Vous répondez :'
+  options:
+  - option: Non, je suis préparant le petit-déjeuner.
+  - option: Non, je suis en train de préparer le petit-déjeuner.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! être en train de + verbe permet de décrire une action en cours.
+    Attention, cette structure est très occasionnelle en français. Elle est utile pour insister sur le processus de l’action. Plus généralement, les français utilisent le présent pour parler d’une action présente.
+  en: |-
+    ”être en train de” is followed by a verb. It's the French equivalent of the English present progressive (to be [do]-ing something). But usually French people use the present tense instead.
+    eg: “Je suis en train de marcher” > “je marche (en ce moment)”.
+words:
+- fr: J’arrive !
+  en: I'm coming!
+- fr: Je le fait en ce moment-même.
+  en: I am doing it right now.
+- fr: Je suis justement en train de le faire !
+  en: That's exactly what I'm doing!
+- fr: Qu’est-ce qu’il se passe ?
+  en: What's happening?
+end_question: Et vous, qu’êtes-vous en train de faire ?

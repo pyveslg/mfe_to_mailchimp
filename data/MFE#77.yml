@@ -1,0 +1,27 @@
+---
+title: on a refait le monde
+preview_text: "Today, learn how to socialize in French...\U0001F378"
+color: "#ff8585"
+goal: sociabiliser
+challenge:
+  state: 'Le week-end dernier vous êtes allé au bar avec des amis. Vous dites :'
+  options:
+  - option: J’ai eu un verre avec des amis.
+  - option: J’ai pris un verre avec des amis.
+    correct: true
+explanation:
+  fr: Eh oui ! En français, la locution est “prendre un verre”. Nous restons donc
+    mystérieux… L’histoire ne dit pas si nous avons le verre ni même si nous le buvons.
+  en: |-
+    “prendre un verre” means to have a drink. Socializing is a serious matter.
+    That's why we thought it was of the highest importance that you would know the right way to say it...
+words:
+- fr: Ça te dirait d’aller prendre un verre ?
+  en: Would you fancy going out for a drink?
+- fr: Allez, trinquons à l’amitié !
+  en: Let's toast to friendship!
+- fr: Nous avons discuté autour d’un verre.
+  en: We caught up over a drink.
+- fr: On a refait le monde toute la soirée.
+  en: We spent the whole night remaking the world.
+end_question: Allez, à lundi pour prendre un autre French Expresso !

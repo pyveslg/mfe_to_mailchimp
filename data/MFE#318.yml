@@ -1,0 +1,26 @@
+---
+title: j’ai envie de lire un livre
+preview_text: Today, learn how to be lazy
+color: "#f9f9f9"
+goal: être paresseux
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: Je resterais bien à la maison !
+    correct: true
+  - option: Je resterais à la maison !
+explanation:
+  fr: 'Eh oui ! La structure [verbe au conditionnel] + bien permet d’exprimer une
+    envie ou un désir. Par exemple : Je boirais bien un chocolat chaud.'
+  en: A verb conjugated at a conditional tense and immediately followed by “bien”
+    is a common and natural way to express a wish, hope or desire.
+words:
+- fr: J’aimerais bien rester à la maison.
+  en: I would like to stay at home.
+- fr: J’ai envie de lire un livre.
+  en: I fancy reading a book.
+- fr: Je ferais bien une sieste !
+  en: I would fancy taking a nap!
+- fr: J’irais bien faire un tour.
+  en: I feel like taking a walk around.
+end_question: Et vous, qu’aimeriez-vous faire aujourd’hui ?

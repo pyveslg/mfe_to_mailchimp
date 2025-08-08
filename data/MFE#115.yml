@@ -1,0 +1,29 @@
+---
+title: "je partage complètement ton avis \U0001F44D"
+preview_text: Today, learn how to admit the truth
+color: "#e9d2b3"
+goal: admettre la vérité
+challenge:
+  state: 'Votre ami vous dit que Paris est la plus belle ville du monde. Vous dites
+    :'
+  options:
+  - option: Je d’accord avec toi !
+    correct: true
+  - option: Je suis d’accord avec toi !
+explanation:
+  fr: "Eh oui! Paris est la plus belle ville du monde !\nOh pardon… \U0001F643  \n\nEh
+    oui! être d’accord signifie donner son consentement ou son approbation.\nD’accord
+    n’est pas un verbe : \nêtre est donc nécessaire pour construire cette courte phrase."
+  en: |-
+    Paris might be the most beautiful city in the world but that's not the topic right now... “être d'accord” means “to agree”. ”D'accord” is not a verb. So in a conjugated sentence, “être” is absolutely necessary!
+    “D'accord” can be used alone to just say “OK”.
+words:
+- fr: D’accord !
+  en: All right!
+- fr: On est d’accord sur tout.
+  en: We agree on everything.
+- fr: J’ai besoin de ton accord.
+  en: I need your consent.
+- fr: On attend d’avoir l’aval du responsable.
+  en: We're waiting for the manager to give his endorsement.
+end_question: Paris, la plus belle ville du monde ? Êtes-vous d’accord ?

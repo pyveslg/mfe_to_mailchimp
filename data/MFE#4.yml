@@ -1,0 +1,33 @@
+---
+title: Je le fais par passion !
+preview_text: ''
+color: "#33a7ae"
+goal: |-
+  parler au féminin
+  une bonne fois pour toute*
+challenge:
+  state: 'Votre ami vous invite chez lui. Pour faire un compliment sur sa maison,
+    vous dites :'
+  options:
+  - option: J'aime beaucoup le décoration.
+  - option: J'aime beaucoup la décoration.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Tous les mots qui se terminent par "-tion" ou "-sion" sont féminins !
+    Ainsi on dit : une question, une action, une condition, une expression, une session.
+    Mais on dit : un avion, un camion,...!
+    Simple comme bonjour, non ?
+  en: |-
+    All the words finishing by "-tion" or "-sion" are feminine in French.
+    Who said French was difficult, huh?
+words:
+- fr: Puis-je poser une question ?
+  en: May I ask something?
+- fr: Je le fais par passion !
+  en: I do it out of passion!
+- fr: Il se met vraiment beaucoup de pression.
+  en: He puts a really high pressure on himself.
+- fr: Il faut savoir résister à la tentation !
+  en: One should resist temptation!
+end_question: Alors, trouverez-vous une exception ?

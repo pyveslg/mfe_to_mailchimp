@@ -1,0 +1,31 @@
+---
+title: Je le ferai demain...
+preview_text: Today, learn how to be idle 
+color: "#6fa3a9"
+goal: être paresseux
+challenge:
+  state: 'Aujourd’hui, vous deviez faire le ménage mais vous étiez trop fatigué… Vous
+    dites :'
+  options:
+  - option: Je n’ai fait rien !
+  - option: Je n’ai rien fait !
+explanation:
+  fr: |-
+    Eh oui ! Les deux éléments de la négation (dans notre exemple : ne + rien) se placent toujours autour du premier verbe conjugué !
+    Observez plutôt : “je ne fais(1) pas de sport” > “je n’ai(1) pas fait(2) de sport”.
+  en: |-
+    In French, the negative form requires the use of 2 parts : ne (or n') + something else. E.g: ne + pas.
+    Where to put them? They always surround the first conjugated verb.
+words:
+- fr: Je le ferai demain !
+  en: I'll do it tomorrow!
+- fr: Il n'a pas bougé de chez lui.
+  en: He has'nt left his flat.
+- fr: Tu n'as toujours pas rangé tes affaires !
+  en: You still haven't tidied your things up!
+- fr: Je n'ai rien envie de faire !
+  en: I don't feel like doing anything!
+end_question: |-
+  Alors, pour être heureux,
+  il faut ou il ne faut pas
+  être paresseux?

@@ -1,0 +1,30 @@
+---
+title: j’ai besoin de récupérer
+preview_text: "Today, learn how to lie still and quiet \U0001F4A4"
+color: "#59a985"
+goal: rester au calme
+challenge:
+  state: 'Votre collègue vous demande ce que vous avez fait ce week-end. Vous dites
+    :'
+  options:
+  - option: Rien de particulier, je suis resté.
+  - option: Rien de particulier, je me suis reposé.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! se reposer signifie arrêter de travailler pour éliminer la fatigue.
+    Rester est un faux ami en anglais !
+    Ce verbe signifie principalement : ne pas changer (de place, de personne...).
+  en: |-
+    “Se reposer” means “to have a rest”. “rester” in French is a synonym of to stay or remain.
+    Olala, those false friends are so exhausting...Time to have a rest, isn't?
+words:
+- fr: Je vais me reposer un peu.
+  en: I'll take a little rest.
+- fr: J’ai besoin de récupérer.
+  en: I need to recover.
+- fr: Je reprendrai ce travail à tête reposée.
+  en: I'll work on it later with a fresh mind.
+- fr: Rien de tel que les vacances pour recharger les batteries.
+  en: Nothing greater than holidays to recharge one's batteries.
+end_question: Et vous, vous êtes-vous bien reposé ce week-end ?

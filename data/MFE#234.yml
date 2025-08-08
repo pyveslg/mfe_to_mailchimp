@@ -1,0 +1,26 @@
+---
+title: "  j’ai croisé la voisine"
+preview_text: Today, learn how to experience coincidences
+color: "#b7f3f5"
+goal: vivre des coïncidences
+challenge:
+  state: 'Quand vous rentrez chez vous, vous dites :'
+  options:
+  - option: Je suis tombé sur Jean.
+    correct: true
+  - option: J’ai couru sur Jean.
+explanation:
+  fr: 'Eh oui ! tomber sur signifie rencontrer une personne ou trouver quelque chose
+    par coïncidence. Par exemple : Je suis tombée sur cette boutique l’année dernière.'
+  en: "”tomber sur” is a common French idiom to use when you meet someone or find
+    something out by chance."
+words:
+- fr: J’ai vu Aline au supermarché.
+  en: I met/saw Aline at the supermarket.
+- fr: J’ai croisé la voisine chez le coiffeur.
+  en: I run into the neighbour at the hairdresser.
+- fr: Devine sur qui je suis tombé !
+  en: Guess whom I came across!
+- fr: Ah, tu tombes bien ! Tu vas pouvoir nous aider…
+  en: Ah! Just the man we need! You're going to help us...
+end_question: Et vous, tombez-vous souvent par hasard sur des amis à Paris ?

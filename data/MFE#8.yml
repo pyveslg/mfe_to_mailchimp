@@ -1,0 +1,30 @@
+---
+title: C’est toi qui décide
+preview_text: ''
+color: "#ff9251"
+goal: |-
+  exprimer votre indifférence
+  une bonne fois pour toute*
+challenge:
+  state: 'Pour dire que vous n’avez pas de préférence, vous dites :'
+  options:
+  - option: Tu choisis, c'est égal.
+  - option: Tu choisis, ça m'est égal.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Ça m'est égal est une expression familière pour dire
+    que toutes les options proposées vous conviennent
+    et que le choix de l'option finale vous importe peu.
+  en: "“ça m'est égal“ is a colloquial expression to say that all the proposed options
+    are OK for you and that you don't bother which of them will be chosen at the end."
+words:
+- fr: On fera comme tu voudras.
+  en: We will do it as you like.
+- fr: C’est toi qui décide.
+  en: You decide.
+- fr: Je m’en fiche !
+  en: I don't care!
+- fr: Qu’importe !
+  en: Whatever!
+end_question: Et vous, vous préférez le beurre doux ou le beurre demi-sel ?

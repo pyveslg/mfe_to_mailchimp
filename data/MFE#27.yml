@@ -1,0 +1,28 @@
+---
+title: ça me tient à cœur
+preview_text: ''
+color: "#517fff"
+goal: avoir de l'attachement
+challenge:
+  state: 'Pour dire que quelque chose est important pour vous, vous dites :'
+  options:
+  - option: Je tiens à participer à cet événement.
+    correct: true
+  - option: J’insiste pour participer à cet événement.
+explanation:
+  fr: "Eh oui ! \"tenir à\" exprime : \n- la volonté de faire quelque chose  ~ ex
+    : \"je tiens à t'aider.\"\n- ou l'attachement à quelque chose ou à quelqu'un ~
+    ex : \"je tiens à toi.\"\nIl peut donc être suivi d'un verbe ou d'un nom."
+  en: |-
+    “tenir à" is a French idiom used to either show your willingness to do something ~ e.g. I want to help you ~ or to show your attachment to something or someone ~ e.g. I am attached to you.
+    It can be followed by either a verb or a name.
+words:
+- fr: J’aimerais tellement venir.
+  en: I would love to come.
+- fr: Ça compte beaucoup pour moi.
+  en: It's very important to me.
+- fr: Ça me tient à cœur.
+  en: I feel really concerned about that.
+- fr: Je tiens à toi comme à la prunelle de mes yeux.
+  en: You are the apple of my eye.
+end_question: Et vous, à quoi et à qui tenez-vous le plus ?

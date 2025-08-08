@@ -1,0 +1,28 @@
+---
+title: je crois que c’est bon
+preview_text: Today, learn how to give one's impressions
+color: "#ddf796"
+goal: donner vos impressions
+challenge:
+  state: 'Vous regardez par la fenêtre. Le ciel est gris, très nuageux. Vous dites
+    :'
+  options:
+  - option: On dirait qu’il va pleuvoir.
+    correct: true
+  - option: On parlerait qu’il va pleuvoir.
+explanation:
+  fr: "Eh oui ! on dirait que est une structure courante\npour exprimer une apparence
+    ou une impression.\nPar exemple : On dirait que les Parisiens ne sont jamais contents\n(mais
+    c’est faux \U0001F609)"
+  en: "“on dirait que” is a common structure used to express one's feeling or impression
+    about something."
+words:
+- fr: Je crois que c’est bon !
+  en: I think it's good!
+- fr: Ça a l’air bien !
+  en: It sounds/looks good!
+- fr: J’ai l’impression qu’il fait froid dehors.
+  en: It looks cold outside.
+- fr: On dirait qu’il a peur.
+  en: He looks frightened.
+end_question: Alors, quelles sont vos impressions sur les Parisiens ?

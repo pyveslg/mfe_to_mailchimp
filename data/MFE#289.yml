@@ -1,0 +1,25 @@
+---
+title: pas de chance
+preview_text: Today, learn how to feel sorry about a situation
+color: "#f3dcad"
+goal: regretter une situation
+challenge:
+  state: 'Votre meilleur ami ne peut pas venir. Vous dites:'
+  options:
+  - option: C'est pitié !
+    correct: true
+  - option: C'est dommage !
+explanation:
+  fr: Eh oui ! c’est dommage est l’expression courante pour exprimer son regret.
+  en: "“c'est dommage” is the usual idiom to use when you feel sadness or sympathy
+    for someone's unhappiness or unsatisfactory situation."
+words:
+- fr: C’est dommage !
+  en: It's a pity!
+- fr: Tant pis !
+  en: Never mind!
+- fr: Pas de chance…
+  en: How unlucky...
+- fr: C’est trop bête !
+  en: Hard luck!
+end_question: Oh non, on doit déjà vous dire à la semaine prochaine !

@@ -1,0 +1,27 @@
+---
+title: Ce n’est pas génial non plus
+preview_text: Today, learn how to belittle
+color: "#a8b0e6"
+goal: rabaisser
+challenge:
+  state: 'Un film est sorti la semaine dernière. Tout le monde l’adore mais vous ne
+    comprenez pas pourquoi. Vous dites :'
+  options:
+  - option: Il est drôle, mais pas beaucoup que ça.
+  - option: Il est drôle, mais pas tant que ça.
+    correct: true
+explanation:
+  fr: Eh oui ! pas tant que ça est une expression utilisée pour diminuer une qualité
+    ou une quantité évoquée plus tôt dans la phrase.
+  en: "“Pas tant que ça” is an expression that you can use to depreciate a quality
+    or quantity mentioned before."
+words:
+- fr: Je n’aime pas tellement.
+  en: I don't really like it.
+- fr: Il est surestimé.
+  en: It's overrated.
+- fr: C’est original, certes, mais pas tant que ça.
+  en: It’s certainly original, but not that much.
+- fr: C’est pas génial non plus.
+  en: It’s not that great either.
+end_question: Et vous, quel film culte n’aimez-vous pas ?

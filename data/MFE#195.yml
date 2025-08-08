@@ -1,0 +1,29 @@
+---
+title: j’hésite encore
+preview_text: "Today, learn how to be indecisive \U0001F914"
+color: "#f9b3b3"
+goal: être indécis
+challenge:
+  state: 'Vous êtes souvent indécis quand vous devez choisir et décider. Vous dites
+    :'
+  options:
+  - option: J’ai du mal à prendre une décision.
+    correct: true
+  - option: J’ai du mal à faire une décision.
+explanation:
+  fr: |-
+    Eh oui ! prendre une décision signifie faire un choix, décider.
+    Attention, en français, nous prenons une décision, nous ne la faisons pas !
+  en: |-
+    “prendre une décision” means to make a decision...
+    In French, we “take” a decision. we don't ”make” (= faire) it.
+words:
+- fr: J’hésite encore…
+  en: I'm still hesitating...
+- fr: J’ai peur de prendre une décision hâtive.
+  en: I'm afraid of making a hasty decision.
+- fr: Je ne suis pas décidé.
+  en: I've made my mind up yet.
+- fr: Je ne prends jamais de décision à la légère.
+  en: I never make decisions lightly.
+end_question: Et vous, prenez-vous facilement vos décisions ?

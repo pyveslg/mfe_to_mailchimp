@@ -1,0 +1,33 @@
+---
+title: qu'en pensez-vous
+preview_text: Today, learn how to seek approval
+color: "#ffebb7"
+goal: demander l’approbation
+challenge:
+  state: 'Vous en êtes sûr ! Le couple de patineurs artistiques français a fait une
+    des meilleures performances aux Jeux Olympiques d’hiver 2018. Vous dites :'
+  options:
+  - option: Le couple français était très bon, n’est-ce pas ?
+    correct: true
+  - option: Le couple français était très bon, n’était-il pas ?
+explanation:
+  fr: Eh oui ! En français, l’expression interrogative n’est-ce pas ? est considérée
+    comme un adverbe. Elle est donc invariable. Ainsi, le sujet ou le temps de la
+    phrase qui précède n’entraînent pas de changement.
+  en: “n'est-ce-pas ?” is the French equivalent of ”is it? / isn't it?". It's very
+    usefully to ask the people you're talking to whether they agree or not. The great
+    news is that “n'est-ce-pas ?” always remains the same, whatever the subject or
+    the sentence tense.
+words:
+- fr: Vous êtes d'accord, pas vrai ?
+  en: You agree, don't you?
+- fr: Qu'en pensez-vous ?
+  en: What do you think about it ?
+- fr: Vous n'êtes pas d'accord ?
+  en: Don't you agree?
+- fr: Tu vois ce que je dire, hein ?
+  en: |-
+    You see what I mean, huh ?
+    not so polite as you can guess but pretty much used!
+end_question: Parfois, le français et l'anglais sont très différents, n'est-ce pas
+  ?

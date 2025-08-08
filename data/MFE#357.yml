@@ -1,0 +1,32 @@
+---
+title: tu peux le faire
+preview_text: Today, learn how to motivate yourself
+color: "#f1d4d4"
+goal: vous motiver
+challenge:
+  state: 'C’est dur mais vous êtes motivé. Vous dites :'
+  options:
+  - option: Je suis si motivé donc je suis sûr de réussir !
+  - option: Je suis si motivé que je suis sûr de réussir !
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! La structure si … que permet d’introduire une conséquence.
+    Après si, on place toujours un adjectif ou un adverbe.
+    Par exemple : Il est si rapide qu’il a déjà fini.
+    Il travaille si rapidement qu’il a déjà fini.
+  en: |-
+    The structure “si...que”  is often used to introduce a consequence.
+    In that case, “si” is always followed by an adjective or an adverb
+words:
+- fr: Tu peux le faire !
+  en: You can do it !
+- fr: Elle est si motivée qu’elle ne s’arrête jamais de travailler.
+  en: She is so motivated that she never stops working.
+- fr: J’ai tellement travaillé que j’ai eu une promotion.
+  en: I worked so much that I got promoted.
+- fr: Il va devoir se surpasser.
+  en: He'll have to go the extra mile.
+end_question: |-
+  Et vous,
+  toujours motivé(e) pour apprendre le français ?

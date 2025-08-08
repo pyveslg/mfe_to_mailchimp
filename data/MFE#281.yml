@@ -1,0 +1,29 @@
+---
+title: Y’a plus qu’à essayer
+preview_text: Today, learn how not to give solutions
+color: "#a7d7c5"
+goal: donner des solutions
+challenge:
+  state: 'Votre collègue voudrait faire des promenades dans la forêt. Vous dites :'
+  options:
+  - option: Tu suffis de prendre le RER pour Rambouillet.
+  - option: Il suffit de prendre le RER pour Rambouillet.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! il suffit de est toujours conjugué avec il.
+    C’est une structure impersonnelle.
+    Il suffit de introduit une chose simple et nécessaire pour réaliser un projet ou une intention.
+  en: "”il suffit de” always conjugates with ”il” in French. It is known as an impersonal
+    structure. ”il suffit de” is followed by a verb and means a simple and necessary
+    thing to achieve/do something."
+words:
+- fr: Tu dois seulement demander.
+  en: You just have to ask.
+- fr: Tout ce que tu dois faire c’est prendre rendez-vous !
+  en: All what you need to do is to schedule a meeting!
+- fr: Il suffit de réserver !
+  en: You only have to book!
+- fr: Y’a plus qu’à essayer !
+  en: All what we have to do is to try!
+end_question: Alors, comment vous allez mémoriser ces nouvelles phrases ?

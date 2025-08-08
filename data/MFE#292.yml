@@ -1,0 +1,32 @@
+---
+title: je le lui ai déjà dit
+preview_text: Today, learn to give information
+color: "#c8e6f5"
+goal: transmettre une info
+challenge:
+  state: 'Votre chef vous demande si vous pouvez envoyer le contrat à un nouveau client.
+    Vous dites :'
+  options:
+  - option: Je l’enverrai le contrat demain !
+    correct: true
+  - option: Je lui enverrai le contrat demain !
+explanation:
+  fr: |-
+    Eh oui ! lui remplace à un nouveau client.
+    Les compléments [à + personne]
+    sont remplacés par les pronoms lui (singulier) ou leur (pluriel).
+    Je téléphone à ma mère : Je lui téléphone.
+    Je téléphone à mes parents : Je leur téléphone.
+  en: |-
+    In this example, “lui” stands for “à un nouveau client” (= to a new customer).
+    More generally, you can substitute “lui” (singular form) or “leur” (plural form) for any [“à” + someone/many people] complements .
+words:
+- fr: Je lui parle souvent.
+  en: I often talk to him.
+- fr: Je leur en parlerai plus tard.
+  en: I will tell him about it later.
+- fr: Je le lui ai déjà dit.
+  en: I already told him about it.
+- fr: Il fait tout par lui-même.
+  en: He makes everything by himself.
+end_question: Et vous, avez-vous transmis Mon French Expresso à vos amis ?

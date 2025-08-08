@@ -1,0 +1,27 @@
+---
+title: je fais comme je peux
+preview_text: Today, learn how to make do with very little
+color: "#f2f4fb"
+goal: faire avec peu de moyens
+challenge:
+  state: 'Vous estimez que non mais c’est suffisant pour communiquer. Vous dites :'
+  options:
+  - option: Je me démêle !
+    correct: true
+  - option: Je me débrouille !
+explanation:
+  fr: Eh oui ! se débrouiller signifie réussir à faire quelque chose avec le peu de
+    moyens que nous avons.
+  en: |-
+    ”se débrouiller” means that you can deal with something,
+    usually by having just enough of something you need.
+words:
+- fr: Je fais comme je peux !
+  en: I do as I can!
+- fr: Je me débrouille comme je peux.
+  en: I get by.
+- fr: Je m’en sors !
+  en: I handle it!
+- fr: Je fais avec les moyens du bord.
+  en: I make do with what's to hand.
+end_question: Et vous, vous vous débrouillez en français ?

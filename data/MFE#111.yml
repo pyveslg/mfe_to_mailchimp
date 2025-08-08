@@ -1,0 +1,33 @@
+---
+title: je suis mort d’inquiétude
+preview_text: Today, learn how to be anxious
+color: "#bd4682"
+goal: être anxieux
+challenge:
+  state: 'Au travail, vous devez faire une présentation en français devant des clients
+    importants. Vous êtes anxieux. Vous dites :'
+  options:
+  - option: Je suis un peu stressant.
+    correct: true
+  - option: Je suis un peu stressé.
+explanation:
+  fr: |-
+    Eh oui! “stressé” se réfère à votre état. “stressant” se réfère à l’impact que vous ou qu’une personne ou situation extérieure peut avoir (par exemple : “Cette situation est stressante.”). En général :
+    -é = l’état : fatigué, irrité, engagé…
+    -ant = l’impact : fatigant, irritant, engageant…
+  en: A lot of adjective in French can either end with “-é” or “-ant”. “-é” refers
+    to a state. “-ant” refers to the impact. If you are tired, you are ”fatigué”.
+    But if you get tired by something or someone, then the situation or the person
+    is “fatigante”...
+words:
+- fr: Ça me rend nerveux.
+  en: It makes me nervous.
+- fr: J’ai le trac quand je parle en public.
+  en: I have a bad case of butterflies in my stomach when speaking in public.
+- fr: J’appréhende la réunion.
+  en: I'm dreading the meeting.
+- fr: Je suis mort d’inquiétude !
+  en: I'm dead worried!
+end_question: |-
+  Et vous,
+  cela vous inquiète de parler français en public ?

@@ -1,0 +1,29 @@
+---
+title: il se pourrait qu’il y ait des grèves
+preview_text: Today, learn how not to be sure
+color: "#4abec0"
+goal: ne pas être sûr
+challenge:
+  state: 'Vous avez rendez-vous avec un client. Votre collègue vous demande combien
+    de temps va durer la réunion. Vous estimez :'
+  options:
+  - option: La réunion devra durer 1 heure.
+  - option: La réunion devrait durer 1 heure.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! devrait est le verbe devoir conjugué au conditionnel.
+    Dans ce contexte, ce temps permet d’introduire une information approximative ou incertaine : La réunion dure probablement 1 heure. = La réunion devrait durer 1 heure.
+  en: |-
+    “devrait” is the verb “devoir” (should) conjugated at the conditional form.
+    In this context, it introduces something which is approximate or unsure.
+words:
+- fr: Je devrais rentrer pour 20h.
+  en: I should be back home at 8pm.
+- fr: Je demanderai éventuellement de l’aide.
+  en: I might ask for some help.
+- fr: Il arrive qu’il neige en mars.
+  en: Sometimes, it snows in March.
+- fr: Il se pourrait qu’il y ait des grèves.
+  en: There could be strikes.
+end_question: Et vous, que faites-vous cet été ?

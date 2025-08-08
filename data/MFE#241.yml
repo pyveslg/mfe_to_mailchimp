@@ -1,0 +1,32 @@
+---
+title: c’est sûr et certain
+preview_text: Today, learn how to fully agree
+color: "#a2f1f8"
+goal: être totalement d’accord
+challenge:
+  state: 'Votre ami s’installe à Paris. Il hésite à prendre des cours pour apprendre
+    le français. Vous répondez :'
+  options:
+  - option: Ça t’aidera définitivement !
+    correct: true
+  - option: Ça t’aidera, sans aucun doute !
+explanation:
+  fr: |-
+    Eh oui ! sans aucun doute signifie qu’une chose est absolument certaine.
+    Attention, définitivement est un faux ami et signifie pour toujours.
+  en: |-
+    “sans aucun doute” is used when something is 100% sure. It's an equivalent of “definitely”.
+    Which is not equivalent to “définitivement” ! The latter is used when something is permanent.
+    It's an equivalent of ”permanently/for good”.
+words:
+- fr: C’est sûr !
+  en: Sure!
+- fr: C’est sûr et certain !
+  en: It's absolutely certain!
+- fr: Ça ne fait aucun doute.
+  en: No doubt about it.
+- fr: C’est sans conteste notre meilleure idée.
+  en: This is without contest our best idea.
+end_question: |-
+  Et vous,
+  recommanderiez-vous Mon French Expresso pour apprendre le français ?

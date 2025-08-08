@@ -1,0 +1,30 @@
+---
+title: "je suis sous l’eau \U0001F30A"
+preview_text: Today, learn how to get busy
+color: "#24bddf"
+goal: vous faire servir
+challenge:
+  state: 'Vous essayez de l’aider. Vous lui demandez :'
+  options:
+  - option: Qu’est-ce que tu as à faire ?
+    correct: true
+  - option: Qu’est-ce que tu dois faire ?
+    correct: true
+explanation:
+  fr: "Eh oui ! Comme en anglais, avoir à + infinitif exprime l’obligation et la contrainte.
+    C’est donc un synonyme de devoir. \nAttention, en général, on place le complément
+    entre avoir et à :\navoir + complément + à + infinitif\nPar exemple :\n“J’ai des
+    courses à faire” | “J’ai un rapport à terminer” | “J’ai des détails à régler”."
+  en: "“avoir à” means “to have to” or “must”. So “devoir” and “avoir à” are both
+    synonyms. Please notice how the sentence is usually built with “avoir à” : avoir
+    + complement (noun) + à + infinitive verb."
+words:
+- fr: Je suis débordé.
+  en: I'm overwhelmed.
+- fr: J’ai beaucoup de choses à faire.
+  en: I have a lot to deal with.
+- fr: On a du pain sur la planche !
+  en: We have a lot on our plate!
+- fr: Je suis sous l’eau !
+  en: I'm totally snowed under!
+end_question: Et vous, avez-vous beaucoup de choses à faire cette semaine ?

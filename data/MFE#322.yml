@@ -1,0 +1,28 @@
+---
+title: j’ai un rhume
+preview_text: "Today, learn how to get a cold \U0001F927"
+color: "#d7c79e"
+goal: avoir un rhume
+challenge:
+  state: 'Vous avez un rhume. Vous dites :'
+  options:
+  - option: J’ai attrapé un rhume.
+    correct: true
+  - option: J’ai chopé un rhume.
+explanation:
+  fr: |-
+    Eh oui ! attraper et choper sont deux verbes synonymes.
+    Attention, choper est un mot informel. Il est souvent utilisé entre amis.
+  en: |-
+    When you get sick, ”vous avez attrapé” or “vous avez chopé” an infection (a cold, a virus...).
+    ”choper” is frequently used but informal and should be used only with friends and relatives.
+words:
+- fr: J’ai un rhume.
+  en: I've got a cold.
+- fr: Je suis enrhumé.
+  en: I've got a cold.
+- fr: J’ai chopé froid !
+  en: I caught a cold! (informal)
+- fr: J’ai pris froid.
+  en: I caught a cold.
+end_question: Et vous, vous attrapez souvent des rhumes ?

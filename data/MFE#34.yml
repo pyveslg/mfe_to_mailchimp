@@ -1,0 +1,29 @@
+---
+title: c’est plein à craquer ici
+preview_text: ''
+color: "#5c4162"
+goal: être dans la foule
+challenge:
+  state: 'Vous prenez le métro à 8h30 à Châtelet. Vous dites :'
+  options:
+  - option: Il y a beaucoup de monde !
+    correct: true
+  - option: Il y a beaucoup du monde !
+explanation:
+  fr: |-
+    Eh oui ! devant un nom, les adverbes de quantité sont suivis de de, même si le nom est pluriel ou féminin...
+    Observez : "Il y a trop de gens ici" ou "Il reste très peu de places"...
+    Attention, devant un voyelle, de devient d' : "j'ai plein d'amis sur Facebook !".
+  en: Before a noun, quantity adverbs (trop, peu, plein, beaucoup,...) are followed
+    by “de” + noun, no matter this noun is masculine, feminine or plural... Watchout,
+    if this noun starts with a vowel, “de” becomes “ d' ”.
+words:
+- fr: La salle est pleine, il n’y a plus de place.
+  en: The room is packed. There is no room left.
+- fr: C’est plein à craquer ici.
+  en: It's crowded out down here.
+- fr: Il y a un de ces mondes sur ce marché !
+  en: This market is so overcrowded!
+- fr: J’ai pris un bain de foule le 14 juillet.
+  en: On last July 14th, I mingled with the crowd / took a bath with the crowd.
+end_question: Et vous, quel était votre dernier bain de foule ?

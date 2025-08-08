@@ -1,0 +1,28 @@
+---
+title: il reste des croissants
+preview_text: Today, learn how to ask for more
+color: "#e46161"
+goal: en demander plus
+challenge:
+  state: 'Votre ami vous sert un café au lait. Il vous demande si c'est suffisant.
+    Vous répondez :'
+  options:
+  - option: Un peu plus de lait s'il te plaît.
+    correct: true
+  - option: Un peu plus du lait s'il te plaît.
+explanation:
+  fr: |-
+    Eh oui! **Les adverbes de quantité** (_un peu_, _trop_, _assez_, _plus_, _moins_...) **sont immédiatement suivis de** _**de**_, même si le nom est pluriel ou féminin…
+    Observez : _Il reste un peu **de** chocolat. J'ai mis trop **de** sucre._
+  en: Quantity pronouns (a little/few, too much, enough, more, less...) are always directly followed by “de” in French, whatever the noun is masculine, feminine, singular or plural!
+words:
+- fr: Avec ou sans sucre, votre café ?
+  en: Would you like your coffee with or without sugar?
+- fr: Il reste des croissants ?
+  en: Is there any croissant left?
+- fr: J'aimerais faire davantage de sport !
+  en: I would love to do more sport(s)!
+- fr: J'ai ajouté un soupçon de cannelle à la recette.
+  en: I've added a hint of cinnamon to the recipe .
+end_question: Et vous, après ce 100ème Mon French Expresso (et oui déjà!), avez-vous
+  plus de confiance en français ?

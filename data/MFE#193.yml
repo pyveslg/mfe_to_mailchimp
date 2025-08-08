@@ -1,0 +1,27 @@
+---
+title: tu exagères
+preview_text: Today, learn how to detect lies
+color: "#e8fcf7"
+goal: faire face au mensonge
+challenge:
+  state: 'Votre ami aime avoir raison… Même quand il a tort, il trouve toujours de
+    faux prétextes pour se justifier. Vous lui dites :'
+  options:
+  - option: Tu es en mauvaise foi.
+  - option: Tu es de mauvaise foi.
+    correct: true
+explanation:
+  fr: Eh oui ! être de mauvaise foi est une expression qui qualifie une personne qui
+    n’est pas sincère et qui affirme une chose en sachant que c’est faux.
+  en: "“être de mauvaise foi” is a French idiom that qualifies someone who's lying
+    or who claiming something that she or he knows not being true."
+words:
+- fr: Tu exagères.
+  en: You are exaggerating.
+- fr: T’abuses, c’est totalement faux.
+  en: You're going to far. It's totally wrong.
+- fr: Je sais pertinemment que c’est faux.
+  en: I know perfectly well that it is untrue.
+- fr: C’est de la mauvaise foi, je n’en crois pas un mot.
+  en: It's a lie. I can't believe a word of it.
+end_question: Et vous, êtes-vous toujours de bonne foi ?

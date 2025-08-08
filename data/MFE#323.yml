@@ -1,0 +1,27 @@
+---
+title: j’ai envie de chocolat
+preview_text: Today, learn how to find comfort
+color: "#ffa372"
+goal: trouver du réconfort
+challenge:
+  state: 'Il fait 5º dehors. Vous voulez boire une boisson chaude. Vous dites :'
+  options:
+  - option: Je boirais un chocolat chaud !
+    correct: true
+  - option: Je boirais bien un chocolat chaud !
+explanation:
+  fr: |-
+    Eh oui ! La structure [verbe au conditionnel] + bien permet d’exprimer un désir.
+    Par exemple : “J’irais bien dans le Sud.” ou “Je mangerais bien une raclette.”
+  en: Verb conjugated at the conditional tense + ”bien”  (I would fancy...) is a very
+    natural structure to use when one wants to have or do something.
+words:
+- fr: J’irais bien au hammam.
+  en: I would fancy going to hammam.
+- fr: J’ai envie de chocolat.
+  en: I am craving for chocolate.
+- fr: Je me ferais bien un plateau-télé !
+  en: I wouldn't mind having a TV dinner!
+- fr: Un bon chocolat chaud, ça me dirait bien.
+  en: A good hot chocolate... That I could drink.
+end_question: Et vous, qu’est-ce que vous aimeriez faire ce matin ?

@@ -1,0 +1,29 @@
+---
+title: je n’ai même pas pu essayer
+preview_text: Today, learn how to feel frustrated
+color: "#f9f8eb"
+goal: être frustré
+challenge:
+  state: 'On vous parle souvent en anglais. Vous dites :'
+  options:
+  - option: Je n’ai pas de chance de parler français.
+    correct: true
+  - option: Je n'ai pas l'occasion de parler français.
+explanation:
+  fr: |-
+    Eh oui! “chance” est un faux ami !
+    Ce terme exprime soit la probabilité de succès (“Au loto, il y a peu de chance de gagner…”), soit un destin favorable (“J’ai beaucoup de chance dans la vie.”).
+    Une “occasion” est une circonstance favorable pour faire quelque chose que vous voulez faire.
+  en: |-
+    In French, “chance” is not a synonym of opportunity.
+    “occasion” would be the correct term. “chance” in French is related to luck.
+words:
+- fr: C’était l’occasion d’essayer !
+  en: This was an opportunity to try!
+- fr: Tu dois saisir cette opportunité.
+  en: You have to seize this opportunity.
+- fr: Je n’ai même pas pu essayer.
+  en: I could not even get a chance to try.
+- fr: J’aurai dû sauter sur l’occasion.
+  en: I should have jumped at the chance.
+end_question: Et vous, avez-vous souvent l’occasion de parler français ?

@@ -1,0 +1,27 @@
+---
+title: nous verrons le moment venu
+preview_text: Today, learn how to talk about the news
+color: "#ffdc76"
+goal: parler de l'actualité
+challenge:
+  state: 'Vous n’avez pas vu votre ami depuis un mois. Vous lui demandez :'
+  options:
+  - option: Qu’est-ce que tu fais au moment ?
+  - option: Qu’est-ce que tu fais en ce moment ?
+explanation:
+  fr: |-
+    Eh oui !
+    “en ce moment ”est synonyme de actuellement et se réfère à la période actuelle.
+    “Au moment” se réfère à un moment spécifique et doit être suivi d’un complément : « Au moment de partir » ou « Au moment où il est arrivé ».
+  en: "What's the right moment in French? \n“en ce moment” is a synonym of “now”.
+    “Au moment de” or “au moment où” refers to a specific moment."
+words:
+- fr: Je passe un bon moment.
+  en: I'm having a good time.
+- fr: J’ai beaucoup de travail ces jours-ci.
+  en: I have a lot of work these days.
+- fr: Nous verrons le moment venu.
+  en: We shall see when the time comes.
+- fr: Je n’ai rien de prévu pour le moment.
+  en: I've got no plans at the moment.
+end_question: Et vous, qu’est-ce que vous faites en ce moment ?

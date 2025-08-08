@@ -1,0 +1,30 @@
+---
+title: je passe Noël en famille
+preview_text: Today, learn how to finish your year
+color: "#8bc34a"
+goal: terminer l'année
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: Qu’est-ce que tu fais pour Noël et le Nouvel An ?
+    correct: true
+  - option: Qu’est-ce que tu fais pour les fêtes ?
+explanation:
+  fr: |-
+    Eh oui ! L’expression les fêtes fait référence à la période
+    autour de Noël et du Nouvel An.
+  en: "“les fêtes” is the correct French idiom to directly refer to the period that
+    leads up to Christmas and ends just after New Year. Usually, the period matches
+    school holidays."
+words:
+- fr: Je rentre à Noël.
+  en: I go home for Christmas.
+- fr: Je reste à Paris pour les fêtes.
+  en: I stay in Paris during Christmastime.
+- fr: Je passe Noël en famille.
+  en: I celebrate Christmas with my family.
+- fr: Je n’ai rien de prévu pour la période de Noël.
+  en: I have no plan for Christmas time.
+end_question: |-
+  On vous souhaite de très belles fêtes !
+  Et à l’année prochaine!

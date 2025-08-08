@@ -1,0 +1,31 @@
+---
+title: autant que faire se peut
+preview_text: ''
+color: "#ff08ca"
+goal: |-
+  être fort
+  une bonne fois pour toute*
+challenge:
+  state: 'Pour dire que vous êtes capable de faire quelque chose, vous dites :'
+  options:
+  - option: Je peux de trouver une solution.
+  - option: Je peux trouver une solution.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! pouvoir est un verbe dit "semi-auxiliaire"
+    comme devoir, aller, vouloir, aimer, détester, souhaiter, préférer, savoir, penser.
+    Après ces verbes (très utiles au quotidien !), il n'y a pas de préposition.
+  en: |-
+    “pouvoir” is a "semi-auxiliaire" verb.
+    This kind of verbs are never followed by any preposition.
+words:
+- fr: On peut le faire !
+  en: We can do it!
+- fr: Allez, tu vas y arriver !
+  en: Come on, you'll make it!
+- fr: Franchement, je m’en sens capable.
+  en: I honestly don't feel like I can make it.
+- fr: Autant que faire se peut.
+  en: As far as possible.
+end_question: 'Parler français : vous aussi, vous pouvez le faire !'

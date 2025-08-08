@@ -1,0 +1,30 @@
+---
+title: personne au monde ne peut dire le contraire
+preview_text: Today, learn how to generalize
+color: "#fcffbf"
+goal: généraliser
+challenge:
+  state: 'Votre ami est choqué de voir des personnes traverser la route quand le piéton
+    est rouge. Vous dites :'
+  options:
+  - option: À Paris, toutes les personnes le font !
+  - option: À Paris, tout le monde le fait !
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! tout le monde est une locution idéale pour parler des personnes, en général. Par exemple : Tout le monde aime les crêpes !
+    toutes les personnes désigne l’ensemble des personnes d’un groupe.
+    Par exemple : Toutes les personnes présentes ici ont un rendez-vous.
+  en: "“tout le monde” refers to everybody or everyone in general  (“everybody likes
+    pancakes”).\n“toutes les personnes” refers to a designated group of people\n(“Everyone
+    who's reading this will be fluent in French.”) \U0001F61C"
+words:
+- fr: C’est toujours la même chose !
+  en: It's always the same!
+- fr: Ce problème concerne beaucoup de monde.
+  en: This issue involves a lot of people.
+- fr: C’est pour tout le monde pareil !
+  en: It's the same for everyone!
+- fr: Il n’y en a pas un pour rattraper l’autre.
+  en: They're all just as bad as each other.
+end_question: Allez, c'est bientôt le week-end pour tout le monde !

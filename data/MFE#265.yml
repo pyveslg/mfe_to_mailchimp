@@ -1,0 +1,31 @@
+---
+title: je le ferai plus tard
+preview_text: Today, learn how to make plans
+color: "#d1f4fa"
+goal: faire des projets
+challenge:
+  state: 'Vous pensez à la retraite et à vos projets. Vous dites :'
+  options:
+  - option: Je voyagrai en Asie à la retraite.
+    correct: true
+  - option: Je voyagerai en Asie à la retraite.
+explanation:
+  fr: |-
+    Eh oui ! Le futur simple est construit avec l’infinitif + la terminaison :
+    [voyager] + -ai, -as, -a, -ons, -ez, -ont.
+    Attention à quelques exceptions courantes :
+    Être (> je serai) | Aller (> j’irai) | Faire (je ferai) | Voir (je verrai)
+  en: |-
+    In French, the future tense is built with a infinitive verb + a termination.
+    Some usual verbs do not follow this rule yet like
+    “être” (to be), “aller” (to go), “faire” (to do/to make) and “voir” (to see)
+words:
+- fr: Je le ferai plus tard.
+  en: I will do it later.
+- fr: On verra ça demain !
+  en: We'll see tomorrow!
+- fr: Je partirai quand tout sera prêt.
+  en: I will leave when everything's ready.
+- fr: Je ne prendrai jamais l’avion !
+  en: I will never take the plane.
+end_question: Et vous, continuerez-vous encore à parler français à la retraite ?

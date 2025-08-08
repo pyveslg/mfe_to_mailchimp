@@ -1,0 +1,27 @@
+---
+title: alors, quoi de neuf
+preview_text: Today, learn how to ask about someone
+color: "#ffe2e2"
+goal: demander des nouvelles
+challenge:
+  state: 'Vous retrouvez un ami que vous n’avez pas vu depuis 2 ans. Vous demandez
+    :'
+  options:
+  - option: Qu’est-ce qu’il s’est passé pour toi ?
+  - option: Qu’est-ce que tu deviens ?
+    correct: true
+explanation:
+  fr: Eh oui ! Qu’est-ce que tu deviens ? est une question courante pour demander
+    des nouvelles après une longue période.
+  en: "”Qu'est-ce que tu deviens” is the commonly used French question to ask about
+    someone you haven't seen for a long time."
+words:
+- fr: Comment ça va ?
+  en: How is it going?
+- fr: Alors, quoi de neuf ?
+  en: What's up?
+- fr: Tu en es où dans tes projets ?
+  en: What's going on with your projects?
+- fr: Qu’est-ce que tu fais de beau ?
+  en: What are you up to?
+end_question: Et vous, quoi de neuf aujourd'hui?

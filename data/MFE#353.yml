@@ -1,0 +1,30 @@
+---
+title: bien sûr
+preview_text: Today, learn how to comfort someone
+color: "#eeeeee"
+goal: rassurer
+challenge:
+  state: 'Votre ami a un rendez-vous important. Il est inquiet et vous demande si
+    vous pouvez venir avec lui. Pour le rassurer, vous dites :'
+  options:
+  - option: Évident !
+  - option: Évidemment !
+    correct: true
+explanation:
+  fr: Eh oui ! évident est un adjectif. Ici, vous avez besoin de l’adverbe évidemment
+    qui permet de confirmer avec certitude.
+  en: |-
+    “évident” (= obvious) is an adjective.
+    Here, you need the expression “évidemment”, in order to confirm with certainty.
+words:
+- fr: Bien sûr !
+  en: Of course !
+- fr: Tu peux me faire confiance.
+  en: You can trust me.
+- fr: Tu peux compter sur moi.
+  en: You can count on me.
+- fr: Je serai là, bien évidemment !
+  en: I’ll be there, of course !
+end_question: |-
+  Et vous,
+  êtes-vous un(e) ami(e) digne de confiance ?

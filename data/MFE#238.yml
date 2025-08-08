@@ -1,0 +1,27 @@
+---
+title: on ne va pas baisser les bras
+preview_text: Today, learn how to give up
+color: "#fbd5fb"
+goal: abandonner
+challenge:
+  state: 'Votre collègue est préoccupé. Il a oublié de corriger une faute d’orthographe
+    dans un mail pour un client. Vous pensez que ce n’est pas important. Vous dites
+    :'
+  options:
+  - option: Laisse tomber, ce n’est pas grave.
+    correct: true
+  - option: Laisse aller, ce n’est pas grave.
+explanation:
+  fr: Eh oui ! laisser tomber est une expression courante qui signifie abandonner,
+    ne pas continuer une action ou un projet.
+  en: "”laisser tomber” is a common idiom, synonym of “abandonner” (= to give up)."
+words:
+- fr: Je laisse tomber !
+  en: I let it go!
+- fr: J’abandonne, ça ne marchera jamais !
+  en: I give up as it will never work.
+- fr: Lâche prise, on s’en moque !
+  en: Take it easy, we just don't give a damn !
+- fr: On ne va pas baisser les bras maintenant !
+  en: We can't throw in the towel now!
+end_question: Et vous, laissez-vous facilement tomber vos idées ?

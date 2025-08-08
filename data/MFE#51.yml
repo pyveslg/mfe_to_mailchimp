@@ -1,0 +1,30 @@
+---
+title: les enfants vont à merveille
+preview_text: ''
+color: "#bd4682"
+goal: aller bien
+challenge:
+  state: 'Aujourd’hui, vous allez très bien. Vous dites :'
+  options:
+  - option: Je suis en pleine forme !
+    correct: true
+  - option: Je suis très bien !
+explanation:
+  fr: |-
+    Eh oui ! "être en pleine forme" est une expression très utilisée.
+    Elle exprime le fait d'être en bonne santé et que tout va bien !
+  en: |-
+    “être en pleine forme” is a typical French idiom to mean
+    that you're in a good shape and that everything's fine for you.
+words:
+- fr: Ça va, j’ai la forme !
+  en: I am ok!
+- fr: J’ai la patate en ce moment !
+  en: I am currently on top form ! (casual)
+- fr: Les enfants vont à merveille.
+  en: Children are doing great.
+- fr: Tout va pour le mieux.
+  en: Everything goes perfectly well.
+end_question: |-
+  Et vous,
+  vous avez la forme aujourd'hui ?

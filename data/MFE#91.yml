@@ -1,0 +1,28 @@
+---
+title: ça mérite de se pencher sur la question
+preview_text: Today, learn how to ask questions ❓
+color: "#e9dcbe"
+goal: avoir des questions
+challenge:
+  state: 'Un nouveau collègue arrive dans l’entreprise. Il vous demande beaucoup d’informations.
+    Vous dites :'
+  options:
+  - option: Il demande beaucoup de questions.
+  - option: Il pose beaucoup de questions.
+    correct: true
+explanation:
+  fr: 'Eh oui ! Deux locutions existent en français : poser une question et demander
+    quelque chose. Il n’est pas possible de cumuler demander et question…'
+  en: |-
+    A French ”pose une question” or “demande quelque chose” when she/he has a question.
+    But she/he cannot “demander une question”!
+words:
+- fr: Excusez-moi, j’ai une question.
+  en: Sorry, I have a question.
+- fr: Puis-je vous demander un renseignement.
+  en: May I ask you for information.
+- fr: Je me demande comment faire.
+  en: I wonder how to do.
+- fr: Ça mérite de se pencher sur la question.
+  en: It's worth considering this request.
+end_question: Et vous, vous posez-vous d’autres questions sur le français ?

@@ -1,0 +1,29 @@
+---
+title: écoute ce qu’il raconte
+preview_text: Today, learn how to stay focused
+color: "#eed9f5"
+goal: rester concentré
+challenge:
+  state: 'Votre enfant a de mauvais résultats à ses dictées. Il fait beaucoup d’erreurs
+    entre le pluriel et le singulier... Vous dites :'
+  options:
+  - option: Il ne fait pas assez attention.
+    correct: true
+  - option: Il ne paie pas assez attention.
+explanation:
+  fr: "Eh oui ! faire attention signifie être attentif, se concentrer pour bien réaliser
+    une action. Dans une phrase, vous utilisez la préposition à.  \nPar exemple :
+    Je fais attention à l’origine des fruits que j’achète."
+  en: |-
+    ”faire attention” means to pay attention to someone or something.
+    In a full sentence, the ”à” preposition has to be added : “faire attention à quelque chose ou à quelqu'un”
+words:
+- fr: Écoute ce qu’il raconte !
+  en: Listen to what he's saying!
+- fr: Ne fais pas attention, ce n’est pas grave…
+  en: Never mind, it doesn't matter...
+- fr: Pardon, je n’ai pas suivi. Tu peux répéter ?
+  en: Sorry I was not listening. Could you repeat please ?
+- fr: Fais gaffe quand tu traverses !
+  en: Be careful when you cross the street!
+end_question: Et vous, faites-vous toujours attention aux beautés de Paris ?

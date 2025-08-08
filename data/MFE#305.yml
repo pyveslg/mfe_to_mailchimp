@@ -1,0 +1,30 @@
+---
+title: ça avance
+preview_text: Today, learn how to follow the steps
+color: "#d3f6f3"
+goal: suivre les étapes
+challenge:
+  state: 'Pour prendre des nouvelles, vous demandez :'
+  options:
+  - option: Tu es où dans ton projet ?
+  - option: Tu en es où dans ton projet ?
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! La structure en être (à) est souvent utilisée
+    pour indiquer une étape dans un projet ou un programme.
+
+    Par exemple : Tu en es où dans la série Black Mirror ?
+    – J’en suis à la saison 3.
+  en: "“en être (à)” is a commonly used phrase to specify a stage in a project, a
+    program or even a series!"
+words:
+- fr: Ça avance ?
+  en: How are things progressing?
+- fr: Comment ça se passe ?
+  en: How is it going?
+- fr: J’en suis au début.
+  en: I am just at the beginning.
+- fr: Alors, t’en es où ?
+  en: So, where are you with this?
+end_question: Et vous, vous en êtes où dans votre découverte de Paris ?

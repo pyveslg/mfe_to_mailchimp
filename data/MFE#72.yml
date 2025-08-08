@@ -1,0 +1,31 @@
+---
+title: Ça ne me dit vraiment rien.
+preview_text: "Today, learn how to erase a memory... \U0001F644"
+color: "#f6f6e3"
+goal: oublier un souvenir
+challenge:
+  state: 'Votre sœur vous rappelle un moment de votre enfance mais vous l’avez oublié.
+    Vous dites :'
+  options:
+  - option: Ça ne me revient pas.
+  - option: Je ne m’en rappelle pas.
+explanation:
+  fr: |-
+    Eh oui ! Les deux réponses sont possibles !
+    “Ça ne me revient pas” signifie que ce souvenir ne revient pas à votre mémoire.
+    “Je ne m’en rappelle pas” signifie que vous ne retrouvez pas ce souvenir dans votre mémoire. Malheureusement, dans les deux cas, le souvenir a disparu…
+  en: "Both answers are indeed possible (quite tricky for a Friday, isn't it?). “Je
+    ne me rappelle pas” : you kind of accept that you cannot recall the memory. “Ça
+    ne me revient pas” : your mind is the one who cannot bring the memory back (not
+    you...). Slight difference huh? But, anyway, in both cases, the memory is lost.
+    \U0001F644"
+words:
+- fr: Je ne me souviens pas de mes 4 ans.
+  en: I cannot remember being 4 years old.
+- fr: Désolé, ça ne me dit vraiment rien.
+  en: Sorry, it does not ring a bell for me.
+- fr: Ce bijou ne te rappelle rien ?
+  en: Does this jewel remind you of anything?
+- fr: Je ne sais plus, j'ai un trou de mémoire.
+  en: I can't remember. I'm having a memory lapse.
+end_question: Et vous, que faisiez-vous le 5 janvier 1995 ?

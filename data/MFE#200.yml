@@ -1,0 +1,33 @@
+---
+title: on est déjà passé par là
+preview_text: Today, learn how to relate your experiences
+color: "#aec5e5"
+goal: raconter vos expériences
+challenge:
+  state: 'Un collègue vous demande si vous avez passé une bonne soirée. Vous dites
+    :'
+  options:
+  - option: Oui, j’ai allé au cinéma.
+  - option: Oui, je suis allé au cinéma.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! aller est un verbe de direction !
+    Comme les verbes : partir, arriver, venir, entrer…
+    Il est donc conjugué avec l’auxiliaire être au passé composé.
+    Je suis allé(e) / tu es allé(e) / il est allé / elle est allée / nous sommes allé(e)s / vous êtes allé(e)s / ils sont allés / elles sont allées
+  en: "”aller” (= to go), like every other verbs introducing an idea of direction,
+    conjugates with “être” at the perfect tense. (not with ”avoir”!). E.g: je vais
+    > je suis allé(e)."
+words:
+- fr: Je suis sorti hier.
+  en: I went out yesterday.
+- fr: On est déjà passé par là.
+  en: We've already come here.
+- fr: Tu y es retourné sans moi ?
+  en: You went back there without me?
+- fr: Je suis rentré seulement hier de voyage.
+  en: I just got back yesterday from vacation.
+end_question: |-
+  Et vous,
+  où êtes-vous allé hier ?

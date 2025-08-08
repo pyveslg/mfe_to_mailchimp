@@ -1,0 +1,28 @@
+---
+title: je n’étais pas au courant
+preview_text: Today, learn how to get informed
+color: "#fff8a6"
+goal: découvrir des informations
+challenge:
+  state: 'Vous découvrez cette information. Vous dites :'
+  options:
+  - option: Ah, je n’ai pas su !
+    correct: true
+  - option: Ah, je ne savais pas !
+explanation:
+  fr: |-
+    Eh oui ! Dans ce contexte, on utilise l’imparfait ! L’imparfait est utilisé pour parler d’une habitude ou une période longue et indéfinie du passé. Dans cet exemple :
+    jusque maintenant, je ne savais pas qu'il avait une réunion.
+  en: |-
+    In this context, the imperfect tense should be used.
+    This tense is used to talk about a habit or a large and undefined period in the past. In this example, the person who doesn't know about that meeting haven't been knowing it for an undefined amount of time.
+words:
+- fr: Je ne savais pas.
+  en: I did not know.
+- fr: Je n’étais pas au courant !
+  en: I was not aware of it!
+- fr: Je n’en avais aucune idée.
+  en: I did not have a clue.
+- fr: Je n’en avais pas entendu parler.
+  en: I hadn't heard about it.
+end_question: Alors, le saviez-vous ?

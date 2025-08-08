@@ -1,0 +1,34 @@
+---
+title: on mange en terrasse
+preview_text: Today, learn how to eat outside
+color: "#e6dbf7"
+goal: manger dehors
+challenge:
+  state: 'Il fait beau, chaud et c’est vendredi. C’est le moment idéal pour inviter
+    vos amis à manger sur le bord de la Seine autour d’un pique-nique. Vous proposez
+    :'
+  options:
+  - option: Allez, on a un pique-nique !
+  - option: Allez, on fait un pique-nique !
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! faire un pique-nique signifie prendre un repas en plein air.
+    Quand il fait beau et chaud à Paris, cette activité est pratiquée partout : sur les bords du Canal Saint Martin, les berges de la Seine, les parcs, les escaliers du Sacré-Cœur…
+  en: "”faire un pique-nique” is the usual way to say ”to picnic”. As soon as sun
+    shines on Paris, Parisians love to picnic with friends and relative : next to
+    the Canal Saint-Martin, on the Seine banks, in the main Parisian parks, and even
+    in the steps of the Sacré-Coeur... A Parisian lifestyle that you definitely should
+    experience!"
+words:
+- fr: J’adore pique-niquer.
+  en: I love to picnic.
+- fr: On mange en terrasse ?
+  en: Shall we eat outside ?
+- fr: On se fait un apéro sur le quai de Seine ?
+  en: What about having an aperitif on the Seine banks?
+- fr: Rien de tel que de manger à l’ombre d’un chêne.
+  en: Nothing better than eating in the shade of an oak tree.
+end_question: |-
+  Et vous
+  où ferez-vous votre prochain pique-nique ?

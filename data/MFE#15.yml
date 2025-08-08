@@ -1,0 +1,30 @@
+---
+title: j’en ai entendu parler
+preview_text: ''
+color: "#40ff46"
+goal: partager une bonne fois pour toute* votre connaissance
+challenge:
+  state: 'Pour demander à quelqu''un de vous aider à trouver une solution, vous dites
+    :'
+  options:
+  - option: Est-ce que tu sais comment je peux faire?
+    correct: true
+  - option: Est-ce que tu connais comment je peux faire ?
+explanation:
+  fr: |-
+    Eh oui ! devant un adverbe interrogatif comme
+    quand, où, comment, pourquoi, qui, que, quel, etc,
+    on emploie toujours savoir, et non connaître.
+  en: |-
+    Before an interrogative adverb like when, where, how, why, who, what, which...
+    we always use the French verb "savoir". "Connaître" cannot apply.
+words:
+- fr: Je sais !
+  en: I know!
+- fr: Je te connais bien.
+  en: I do know you well.
+- fr: Je suis au courant !
+  en: I know! (I heard about it).
+- fr: J’en ai entendu parler.
+  en: I heard about it.
+end_question: Alors, savez-vous comment utiliser connaître?

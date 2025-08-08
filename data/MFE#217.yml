@@ -1,0 +1,27 @@
+---
+title: ça m’énerve
+preview_text: Today, learn how to be angry
+color: "#efc792"
+goal: être en colère
+challenge:
+  state: 'Vous avez oublié l’anniversaire de votre sœur. Vous réalisez cela deux jours
+    en retard. Vous n’êtes pas content de vous. Vous dites :'
+  options:
+  - option: Je m’y veux !
+  - option: Je m’en veux !
+    correct: true
+explanation:
+  fr: Eh oui ! en vouloir à quelqu’un de est une structure courante pour exprimer
+    un mécontentement, de l’irritation ou de la colère.
+  en: "“en vouloir à quelqu'un de” is a common structure to show one's resentment,
+    discontent or anger towards someone (including oneself...)."
+words:
+- fr: Ça m’énerve !
+  en: It's getting on my nerve!
+- fr: Tu lui en veux encore ?
+  en: Are you still angry with him ?
+- fr: Il t’en veut d’avoir raté le rendez-vous.
+  en: He resents you for missing the meeting.
+- fr: Les embouteillages me rendent fou
+  en: Traffic jams drive me nuts!
+end_question: Et vous, vous vous êtes levé(e) à quelle heure ce matin ?

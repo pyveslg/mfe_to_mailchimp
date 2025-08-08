@@ -1,0 +1,28 @@
+---
+title: je me charge du dossier
+preview_text: Today, learn how to have responsibilities
+color: "#e2ded3"
+goal: avoir des responsabilités
+challenge:
+  state: 'Vous dirigez un nouveau projet dans votre entreprise. Le directeur vous
+    rencontre. Vous vous présentez :'
+  options:
+  - option: Je suis le responsable pour le projet.
+    correct: true
+  - option: Je suis le responsable du projet.
+explanation:
+  fr: |-
+    Eh oui ! L'utilisation des prépositions en français et en anglais est (parfois…) différente. Après responsable, la préposition appropriée est de :
+    être responsable de quelque chose.
+  en: Whereas in English you responsible for something, in French you are “responsable
+    de quelque chose!”.
+words:
+- fr: Je suis responsable de la logistique.
+  en: I am in charge of the logistics operations.
+- fr: Je me charge du dossier.
+  en: I take care of the case.
+- fr: Je m’en occupe.
+  en: I am on it.
+- fr: J’en prends la responsabilité.
+  en: I take the whole responsibility for it.
+end_question: Et vous, quelles sont vos responsabilités dans votre travail ?

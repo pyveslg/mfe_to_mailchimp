@@ -1,0 +1,31 @@
+---
+title: tu voudrais qu’on y aille
+preview_text: Today, learn how to want something
+color: "#ffceea"
+goal: désirer
+challenge:
+  state: 'Votre ami est un peu déprimé. Vous lui proposez de sortir mais il préfère
+    rester chez lui. Pour insister, vous dites :'
+  options:
+  - option: Allez, j’aimerais que tu sortes un peu.
+    correct: true
+  - option: Allez, j’aimerais que tu sors un peu.
+explanation:
+  fr: |-
+    Eh oui ! que tu sortes est conjugué au subjonctif.
+    La structure j’aimerais que permet d’introduire un souhait ou un désir.
+    Pour toutes ces structures (j’aimerais que / je voudrais que / je préfère que…), le verbe qui suit est conjugué au subjonctif.
+  en: The verbs following sentences that introduce an idea of desire or wish (j'aimerais
+    que, je voudrais que, je préfère que...) conjugate in the subjonctive tense.
+words:
+- fr: J’aimerais bien que tu viennes.
+  en: I would like you to come.
+- fr: Je ne veux pas que tu sois en retard.
+  en: I don't want you to be late.
+- fr: Tu voudrais qu’on y aille ?
+  en: Would you like to go there ?
+- fr: Que veux-tu que j’y fasse ?
+  en: What do you want me to do about it ?
+end_question: |-
+  Et vous,
+  sur quel thème aimeriez-vous qu’on écrive ?

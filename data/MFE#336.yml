@@ -1,0 +1,30 @@
+---
+title: ça me touche
+preview_text: Today, learn how to release your emotions
+color: "#fff591"
+goal: faire parler vos émotions
+challenge:
+  state: 'Vous regardez le film Intouchable avec un ami. Il pleure à la fin. Vous
+    dites :'
+  options:
+  - option: Oh ! Tu es sensible.
+    correct: true
+  - option: Oh ! Tu es sensitif.
+explanation:
+  fr: |-
+    Eh oui ! Attention aux faux amis !
+    En français, quelqu’un qui est sensible,
+    c’est quelqu’un qui a beaucoup d’émotions.
+  en: Careful ! « sensible » is a false friend. In French, someone sensitive is “sensible”.
+words:
+- fr: Je suis très sensible.
+  en: I am very sensitive.
+- fr: Il est hypersensible.
+  en: He is highly sensitive.
+- fr: Ça me touche.
+  en: That means a lot.
+- fr: Elle est à fleur de peau.
+  en: She has a thin skin.
+end_question: |-
+  Et vous,
+  êtes-vous plutôt peu ou très sensible ?

@@ -1,0 +1,29 @@
+---
+title: ça te plairait ?
+preview_text: Today, learn how to ask somebody for advice
+color: "#eaec96"
+goal: demander un avis
+challenge:
+  state: 'Vous lui demander son opinion. Vous dites :'
+  options:
+  - option: Qu’est-ce que tu penses ?
+    correct: true
+  - option: Qu’est-ce que tu en penses ?
+explanation:
+  fr: |-
+    Eh oui ! en reprend un complément précédé par la préposition de, d' ou des.
+    Il se place alors juste devant le verbe.
+    Dans notre exemple : “Qu’est-ce que tu penses d’aller au cinéma samedi ?”  => ”Qu’est-ce que tu en penses ?”
+  en: |-
+    Instead of repeating a whole sentence, you can use “en” to refer to a complement that is preceded by “de”, “d' ” or ”des”. In the exemple above, the complement would be ”d'aller au cinéma samedi”.
+    ”en” must be placed then before the verb.
+words:
+- fr: Qu’en penses-tu ?
+  en: What do you think about it?
+- fr: Tu veux en discuter ?
+  en: Do you want to talk about it?
+- fr: Ça te plairait ?
+  en: Would you like it?
+- fr: Qu’est-ce que tu en dis ?
+  en: What do you think about it?
+end_question: Et vous, le cinéma français, qu’est-ce que vous en pensez ?

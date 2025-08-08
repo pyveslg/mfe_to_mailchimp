@@ -1,0 +1,30 @@
+---
+title: ça pue
+preview_text: Today, learn how to be discomfited
+color: "#f1f0d1"
+goal: être indisposé
+challenge:
+  state: 'Vous notez une mauvaise odeur. Vous dites :'
+  options:
+  - option: Ça sent mal.
+    correct: true
+  - option: Ça sent mauvais.
+explanation:
+  fr: |-
+    Eh oui ! mauvais est un adjectif, il qualifie un nom.
+    Dans cette phrase, il qualifie implicitement l’odeur : il y a une mauvaise odeur.
+    mal est un adverbe, il modifie le sens du verbe.
+    Par exemple : je sens mal = je ne sens pas très bien les odeurs.
+  en: |-
+    “mauvais” (= bad) is an adjective: it qualifies a noun
+    whereas ”mal” (=badly) is an adverb and modifies the meaning of the verb.
+words:
+- fr: Ça sent mauvais.
+  en: It smells bad.
+- fr: Ça sent bon.
+  en: It smells good.
+- fr: Ça pue !
+  en: It stinks!
+- fr: Il y a une odeur forte.
+  en: There is a strong odour.
+end_question: Et vous, aimez-vous l’odeur du camembert ?

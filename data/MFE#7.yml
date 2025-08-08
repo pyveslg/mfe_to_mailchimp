@@ -1,0 +1,32 @@
+---
+title: j'adore me lever de bonne heure
+preview_text: ''
+color: "#cfedf2"
+goal: |-
+  parler de votre réveil
+  une bonne fois pour toute*
+challenge:
+  state: 'Pour parler de vos habitudes matinales, vous dites :'
+  options:
+  - option: Le matin, je me lève à 8 heures.
+    correct: true
+  - option: Le matin, je lève à 8 heures.
+explanation:
+  fr: |-
+    Eh oui ! Le verbe se lever est pronominal car il a un sens réfléchi (comme un miroir !). Dans la phrase, je est à la fois le sujet et l'objet de l'action.
+    Implicitement, je me lève signifie je lève moi-même.
+    Observez la différence avec : je lève ma fille à 8 heures.
+  en: |-
+    “se lever“ is a pronominal verb as it has a reflective meaning (like a mirror!).
+    In the sentence, “je” is both subject and object of the action.
+    Implicitly, I wake up means I wake up myself.
+words:
+- fr: En général, je suis matinal.
+  en: I am a morning person.
+- fr: Pas de réveil ! Demain, je fais la grasse matinée.
+  en: Alarm clock turned off! Tomorrow, I will sleep in.
+- fr: J'adore me lever de bonne heure !
+  en: I love waking up early!
+- fr: Oups ! J'ai eu une panne de réveil...
+  en: Oops! I overslept...
+end_question: Et vous, en général, à quelle heure vous levez-vous ?

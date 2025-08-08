@@ -1,0 +1,30 @@
+---
+title: Elle a filé sans dire au revoir.
+preview_text: Today, learn how to leave in French
+color: "#d988bc"
+goal: partir
+challenge:
+  state: 'Vous partez de votre bureau. Vous dites à vos collègues :'
+  options:
+  - option: Allez, j’y vais !
+    correct: true
+  - option: Allez, je pars !
+explanation:
+  fr: |-
+    Eh oui ! “j’y vais” est une expression courante utilisée au moment d’un départ.
+    La phrase “Je pars”, sans complément, peut laisser une impression un peu dramatique ou solennelle.
+  en: |-
+    ”J'y vais” is a common French idiom you use when you're bound to go somewhere else.
+    “Je pars", used alone, is correct as well but sounds very dramatic or solemn (like in this song for example...)
+words:
+- fr: Je file, au revoir !
+  en: I'm moving now, bye bye!
+- fr: Je m'en vais. À demain !
+  en: I'm going. See you tomorrow!
+- fr: Elle a filé sans même dire au revoir.
+  en: She's gone without even so much as a goodbye.
+- fr: Il est parti comme un voleur !
+  en: He slipped away.
+end_question: |-
+  Allez, on y va !
+  À la semaine prochaine !

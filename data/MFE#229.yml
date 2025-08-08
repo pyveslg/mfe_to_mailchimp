@@ -1,0 +1,29 @@
+---
+title: j’ai eu mon diplôme
+preview_text: "Today, learn how to finish the school year \U0001F393"
+color: "#fef9c1"
+goal: finir l’année scolaire
+challenge:
+  state: 'C’est la fin de l’année scolaire et la période des examens. Votre enfant
+    a eu des résultats moyens cette année. Vous dites :'
+  options:
+  - option: J’espère qu’il passera ses examens.
+    correct: true
+  - option: J’espère qu’il réussira ses examens.
+explanation:
+  fr: |-
+    Eh oui ! réussir un examen signifie le passer avec succès.
+    Passer un examen signifie simplement se présenter à un examen.
+  en: |-
+    ”passer un examen” is a false friend !
+    It means “to take an exam”. But if you pass it, then you would say “réussir un examen”.
+words:
+- fr: J’ai eu mon diplôme!
+  en: I've graduated!
+- fr: J’ai eu mon diplôme avec mention.
+  en: I graduated with honours.
+- fr: Je me suis donné du mal mais j’ai réussi !
+  en: I worked so hard and I passed !
+- fr: J’ai bachoté mes matières.
+  en: I crammed my subjects.
+end_question: Et vous, passez-vous des examens cette année ?

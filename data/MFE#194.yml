@@ -1,0 +1,26 @@
+---
+title: je suis matinal
+preview_text: Today, learn how to be a morning person
+color: "#97db9f"
+goal: être du matin
+challenge:
+  state: 'Vous aimez commencer tôt la journée. Vous dites :'
+  options:
+  - option: Le matin, je me lève tôt.
+    correct: true
+  - option: Dans le matin, je me lève tôt.
+explanation:
+  fr: |-
+    Eh oui ! le matin, l’après-midi et le soir ne sont pas précédés d’une préposition.
+    Par exemple : Le matin, je prends le métro et le soir, je rentre en vélib.
+  en: Moments of the day (“le matin”, “l'après-midi” ou “le soir”) take no preposition.
+words:
+- fr: Le matin, je commence à 9h.
+  en: In the mornings, I start at 9 a.m.
+- fr: Demain matin, je m’occupe des courses.
+  en: I'll do the shopping tomorrow morning.
+- fr: Je suis matinal.
+  en: I'm a morning person.
+- fr: J’aime me lever de bon matin.
+  en: I like to get out of bed early in the morning.
+end_question: Et vous, à quelle heure vous levez-vous le matin ?

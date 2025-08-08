@@ -1,0 +1,28 @@
+---
+title: faisons la paix
+preview_text: ''
+color: "#c6ffd3"
+goal: être pacifique une bonne fois pour toute*
+challenge:
+  state: 'En France, le 8 mai est un jour férié. On célèbre la fin de :'
+  options:
+  - option: la première guerre mondiale en 1918.
+  - option: la seconde guerre mondiale en 1945.
+    correct: true
+explanation:
+  fr: Eh oui ! le 8 mai 1945, à 15h, le général de Gaulle fait sonner les cloches
+    des églises françaises pour annoncer la capitulation de l'Allemagne nazie face
+    aux Alliés. C'est un jour férié pour célébrer la victoire et la paix !
+  en: |-
+    On May 8th, 1945, at 3pm, French general de Gaulle makes the church bells ring throughout the country to announce the capitulation of Nazi Germany and the Allied victory.
+    Since, it's been a day off to celebrate this historical event and... peace!
+words:
+- fr: Faisons la paix !
+  en: Let's make peace!
+- fr: C'est de bonne guerre...
+  en: It's fair game...
+- fr: Laisse-moi en paix !
+  en: Leave me alone!
+- fr: J'aimerais trouver un point d'entente.
+  en: I would like to find common ground.
+end_question: Allez, on vous laisse en paix pour aujourd'hui ! ;)

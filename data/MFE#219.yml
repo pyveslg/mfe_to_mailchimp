@@ -1,0 +1,27 @@
+---
+title: c'est du pareil au même
+preview_text: Today, learn how to copy
+color: "#e8f0b8"
+goal: reproduire
+challenge:
+  state: 'Votre ami commande un café au serveur. Vous prenez un café aussi. Vous dites
+    :'
+  options:
+  - option: La même chose, s’il vous plaît.
+    correct: true
+  - option: La même, s’il vous plaît.
+explanation:
+  fr: Eh oui ! La même chose est une expression courante pour exprimer ou demander
+    quelque chose d’identique.
+  en: "”La même chose” is a very useful idiom to say and ask for the same thing that
+    was just said or asked before."
+words:
+- fr: Pareil !
+  en: Same for me!
+- fr: Je prendrai la même chose.
+  en: I'll have the same.
+- fr: C’est toujours la même chose avec lui...
+  en: It's always the same with him...
+- fr: Quai de Loire ou Quai de Seine, c’est du pareil au même !
+  en: Quai de Loire or Quai de Seine, it's all the same!
+end_question: Nous, on trouve que les week-ends sont trop courts Et vous ?

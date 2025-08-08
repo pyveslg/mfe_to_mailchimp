@@ -1,0 +1,29 @@
+---
+title: il n’y a pas de réseau
+preview_text: Today, learn how to look for something
+color: "#fff8a1"
+goal: chercher quelque chose
+challenge:
+  state: 'Vous êtes au café et vous avez besoin d’accéder à internet. Vous demandez
+    :'
+  options:
+  - option: C’est du wifi ?
+    correct: true
+  - option: Il y a du wifi ?
+explanation:
+  fr: |-
+    Eh oui ! il y a indique l’existence de quelque chose ou de quelqu’un.
+    Contrairement à l’anglais, l'expression est construite avec avoir (et non être).
+  en: |-
+    “il y a” is the French equivalent of “there is / there are”.
+    Note that no matter what the following word is, “il y a” is always in the singular form in French!
+words:
+- fr: Il y a beaucoup de monde.
+  en: There are so many people.
+- fr: Il n’y a pas de réseau.
+  en: There is no signal.
+- fr: Il y a un sac dans le salon. À qui est-il ?
+  en: There is a bag in the living-room. Whose is this?
+- fr: Tant qu’il y a de la vie, il y a de l’espoir.
+  en: Where there's life, there's hope.
+end_question: Alors, il y a d'autres questions à ce sujet?

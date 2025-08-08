@@ -1,0 +1,14 @@
+---
+title: il agit au jour le jour
+preview_text: "Today, learn how to comment your schedule \U0001F5D3️"
+color: "#e1eacd"
+goal: commenter votre agenda
+challenge:
+  state: 'Vous allez visiter le musée d’Orsay ce week-end. Vous dites :'
+  options:
+  - option: Je vais à Orsay samedi.
+    correct: true
+  - option: Je vais à Orsay le samedi.
+explanation: 
+words: 
+end_question: Et vous, que faites-vous samedi ?

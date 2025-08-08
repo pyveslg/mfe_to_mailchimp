@@ -1,0 +1,28 @@
+---
+title: j’ai fait tout ça pour rien
+preview_text: Today, learn how to have insisted
+color: "#f0d9f7"
+goal: avoir insisté
+challenge:
+  state: 'Vous développez une solution technique. Vous avez réalisé plusieurs tentatives
+    mais aucune ne fonctionne. Vous dites :'
+  options:
+  - option: J’ai beau essayer, rien ne marche !
+    correct: true
+  - option: J’ai bon essayer, rien ne marche !
+explanation:
+  fr: Eh oui ! avoir beau faire quelque chose signifie faire quelque chose avec détermination
+    mais sans succès.
+  en: "“avoir beau” is always followed by a verb of action like ”faire”, “essayer”,
+    “dire”. It means that you do what you do with determination but without being
+    successful so far."
+words:
+- fr: Je voudrais pourtant.
+  en: I wish yet.
+- fr: Malgré tous mes efforts, j’ai échoué.
+  en: Despite all my efforts, I failed.
+- fr: J’ai fait tout ça pour rien.
+  en: I did all that for nothing.
+- fr: Qu’importe mon travail, il n’est jamais content.
+  en: Whatever my work is, he's never happy with it.
+end_question: Et vous, vos efforts pour apprendre le français fonctionnent ?

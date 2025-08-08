@@ -1,0 +1,30 @@
+---
+title: la vie est belle
+preview_text: Today, learn how to be on vacation
+color: "#faf5ef"
+goal: être en vacances
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: Ça prend du bien !
+  - option: Ça fait du bien !
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! ça fait du bien
+    est une expression courante pour exprimer le contentement et la satisfaction.
+  en: |-
+    When something makes you feel happy, relax and satisfied,
+    you can used the much common “ça fait du bien”.
+words:
+- fr: La vie est belle !
+  en: Life is beautiful!
+- fr: C’est trop bien !
+  en: It's so good!
+- fr: Ça fait du bien !
+  en: It feels good!
+- fr: Ça fait un bien fou !
+  en: It does wonders!
+end_question: |-
+  Alors,
+  heureux d'être en été ?

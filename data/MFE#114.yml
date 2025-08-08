@@ -1,0 +1,31 @@
+---
+title: c'est le tien
+preview_text: Today, learn how to be honest
+color: "#f9f8eb"
+goal: être honnête
+challenge:
+  state: 'Votre collègue vous a prêté un stylo. Vous dites :'
+  options:
+  - option: Tiens, je te retourne ton stylo.
+    correct: true
+  - option: Tiens, je te rends ton stylo.
+explanation:
+  fr: |-
+    Eh oui! rendre signifie rapporter à une personne un objet qui lui appartient.
+    Le verbe retourner n’est pas adapté dans ce contexte :
+    “retourner le stylo” signifierait “tourner le stylo dans une position inversée”.
+  en: When you return something to someone, you should use the verb ”rendre” in French.
+    “Retourner” doesn't fit in this context. It would mean that you turn something
+    around or over.
+words:
+- fr: C’est le tien ?
+  en: Is it yours?
+- fr: Je dois rendre les livres à la bibliothèque.
+  en: I must return the books to the library.
+- fr: Je t’ai ramené ta veste.
+  en: I brought your jacket.
+- fr: Il ne m’a pas rendu la monnaie.
+  en: He didn't give me my change.
+end_question: |-
+  Et vous,
+  avez-vous des livres à rendre à des amis ?

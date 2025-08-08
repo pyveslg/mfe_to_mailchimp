@@ -1,0 +1,28 @@
+---
+title: c’est comme ça
+preview_text: Today, learn how to resign yourself
+color: "#e099fc"
+goal: vous résigner
+challenge:
+  state: 'Vous avez un rendez-vous avec un client. Un stagiaire devait venir avec
+    vous mais finalement il ne peut pas. Vous dites :'
+  options:
+  - option: Tant mal.
+  - option: Tant pis.
+    correct: true
+explanation:
+  fr: Eh oui ! tant pis est une expression courante pour exprimer la résignation ou
+    l’indifférence face à un fait.
+  en: |-
+    “tant pis” is a much used idiom to show resignation or indifference.
+    ”never mind” could be one of its English equivalents.
+words:
+- fr: C’est comme ça...
+  en: That's the way it goes...
+- fr: Tant pis pour toi !
+  en: Tough on you!
+- fr: Tant pis, ce sera pour une autre fois.
+  en: Never mind, maybe another time.
+- fr: Tant pis, ce n’est que partie remise.
+  en: It's ok, it's only a matter of time.
+end_question: Oh non! Le week-end est déjà terminé

@@ -1,0 +1,29 @@
+---
+title: Courage
+preview_text: Today, learn how to wish the best
+color: "#cff6cf"
+goal: souhaiter le meilleur
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: Pourvu qu'il se rétablit vite !
+    correct: true
+  - option: Pourvu qu'il se rétablisse vite !
+explanation:
+  fr: |-
+    Eh oui ! Pour exprimer un souhait ou un espoir,
+    on utilise souvent l'expression pourvu que.
+    L'expression est toujours suivie du subjonctif.
+  en: |-
+    “Pourvu que” is commonly used to express a wish or a hope.
+    It is always followed by a verb at the subjonctive tense.
+words:
+- fr: Courage !
+  en: Keep going! Be strong !
+- fr: J’espère que tu iras mieux.
+  en: I hope you’ll get better.
+- fr: J’aimerais que ça aille mieux.
+  en: I would like it to get better.
+- fr: Pourvu qu’il se rétablisse vite !
+  en: I hope he recovers at the earliest!
+end_question: Pourvu qu'un vaccin contre le Covid-19 soit vite trouvé !

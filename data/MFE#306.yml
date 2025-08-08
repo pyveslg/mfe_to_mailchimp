@@ -1,0 +1,27 @@
+---
+title: impressionnant
+preview_text: Today, learn how to congratulate
+color: "#f6edcf"
+goal: féliciter
+challenge:
+  state: 'Vous êtes impressionné. Vous dites :'
+  options:
+  - option: Chapeau !
+    correct: true
+  - option: Béret !
+explanation:
+  fr: |-
+    Eh oui ! chapeau ! est une expression
+    souvent utilisée pour exprimer son admiration et ses félicitations.
+  en: "“chapeau” means “hat”. “chapeau !” is a great idiom to congratulate someone
+    and show them your admiration."
+words:
+- fr: Bravo !
+  en: Well done!
+- fr: Chapeau !
+  en: Hats off to you!
+- fr: Impressionnant !
+  en: Impressive!
+- fr: Quelle prouesse !
+  en: What a feat!
+end_question: Il y a 50 ans, l'homme marchait sur la Lune pour la première fois !

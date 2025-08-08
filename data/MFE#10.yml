@@ -1,0 +1,28 @@
+---
+title: il a une curiosité insatiable
+preview_text: ''
+color: "#86ebd7"
+goal: exprimer une bonne fois pour toute* votre appétit
+challenge:
+  state: 'Pour dire qu''il est l''heure de manger, vous dites :'
+  options:
+  - option: J'ai faim.
+    correct: true
+  - option: Je suis faim.
+explanation:
+  fr: |-
+    Eh oui ! Ce n'est pas comme en anglais...
+    Pour exprimer la faim ou la soif, on utilise toujours le verbe avoir.
+  en: |-
+    Do not fall into the trap !
+    In French, to say if we are hungry or thirsty, we always use the verb "avoir"... not "être" !
+words:
+- fr: J'ai une faim de loup !
+  en: I am very hungry!
+- fr: Ces chips m'ont donné soif...
+  en: These crisps made me thirsty.
+- fr: Il a une curiosité insatiable !
+  en: He shows an insatiable curiosity.
+- fr: Ce livre m'a déçu. Je suis resté sur ma faim.
+  en: This book disappointed me and left me unsatisfied.
+end_question: Et vous, reprendrez-vous un French Expresso ?

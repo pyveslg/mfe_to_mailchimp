@@ -1,0 +1,28 @@
+---
+title: il faut être patient
+preview_text: Today, learn how to be patient
+color: "#fab95b"
+goal: patienter
+challenge:
+  state: 'Vous devez juste être patient. Vous dites :'
+  options:
+  - option: C'est une question de temps !
+    correct: true
+  - option: C'est une matière de temps !
+explanation:
+  fr: Eh oui ! c'est une question de est une expression commune qui introduit l’élément
+    dont vous dépendez.
+  en: "“c'est une question de” is a common idiom that always introduces the element
+    on which you depend to achieve something."
+words:
+- fr: Il faut être patient.
+  en: One needs to be patient.
+- fr: Il suffit d'attendre un peu !
+  en: All you need is to wait a little bit!
+- fr: Il ne reste plus qu'à patienter.
+  en: We can do little but wait.
+- fr: Ce n'est plus qu'une question de temps !
+  en: It is just a matter of time!
+end_question: |-
+  Et vous,
+  vous parlez français comme un Parisien ?

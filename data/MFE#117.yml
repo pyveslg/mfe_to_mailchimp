@@ -1,0 +1,30 @@
+---
+title: on commence quand tu veux
+preview_text: "Today, learn how to give the go-ahead \U0001F3C1"
+color: "#9bb4da"
+goal: donner le départ
+challenge:
+  state: 'Vous organisez une fête. Vos invités vous demandent à quelle heure ils peuvent
+    arriver. Vous répondez :'
+  options:
+  - option: De 20h.
+    correct: true
+  - option: À partir de 20h.
+explanation:
+  fr: |-
+    Eh oui! à partir de est une locution qui permet d’introduire le départ pour une durée ouverte. Par exemple : “On est ouvert à partir de 8h.”
+    De est suivi de à et introduit une durée fermée.
+    Par exemple : “On est ouvert de 8h à 13h.”
+  en: "“à partir de 13h” would be the equivalent of “as from/as of 13h”. “de” is used
+    with ”à” for a duration for which one knows the beginning and the end. The equivalent
+    would be “from...to...”."
+words:
+- fr: C’est parti !
+  en: Here we go!
+- fr: On commence quand tu veux.
+  en: We start whenever you want.
+- fr: À partir de ce moment-là, c’était différent.
+  en: Since then, it hasn't been the same anymore.
+- fr: Rappelle-moi dès que tu reçois ce message.
+  en: Please call me back as soon as you get the text.
+end_question: Allez, à lundi prochain, à partir de 7h30 !

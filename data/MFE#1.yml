@@ -1,0 +1,30 @@
+---
+title: C'est un plaisir de vous rencontrer !
+preview_text: ''
+color: "#f9dc24"
+goal: présenter une bonne fois pour toute* quelqu'un
+challenge:
+  state: 'Pour présenter votre mari à vos collègues, vous dites :'
+  options:
+  - option: Il est mon mari.
+  - option: C'est mon mari.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Devant un nom, on utilise “c'est...”.
+    Mais si vous décrivez la personne, vous utilisez “il est...” ou “elle est...“.
+    Exemple : Mon mari?  Il est formidable! *
+  en: "Before a noun, always use “c'est...”. \nBut if you describe someone, you have
+    to use “il est” (he is) or \"elle est” (she is). \nE.g. My husband ? he is fantastic!"
+words:
+- fr: Voici Pierre ! C'est mon ami.
+  en: Here is Pierre! He is my friend.
+- fr: Je vous présente Annie.
+  en: Let me introduce you to Annie.
+- fr: C'est un plaisir de vous rencontrer.
+  en: It's such a pleasure to meet you.
+- fr: Allô ? C'est Jean à l'appareil.
+  en: Hello, Jean speaking.
+- fr: On peut se tutoyer.
+  en: Let's use the informal “you”.
+end_question: Alors, qui est la personne à côté de vous ?

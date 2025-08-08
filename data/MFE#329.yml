@@ -1,0 +1,29 @@
+---
+title: je fais attention à mon poids
+preview_text: Today, learn how to stay trim
+color: "#ffcc00"
+goal: rester svelte
+challenge:
+  state: 'Vous avez un peu trop mangé pendant les fêtes. Vous dites :'
+  options:
+  - option: Je dois faire attention...
+    correct: true
+  - option: Je dois faire gaffe...
+explanation:
+  fr: |-
+    Eh oui ! faire gaffe est un synonyme informel de faire attention.
+    Cette expression est souvent utilisée pour solliciter la vigilance d’une personne.
+  en: |-
+    “faire gaffe” is a commonly-used synonym of ”faire attention” (= to be careful).
+    Bear in mind however that it is more informal.
+words:
+- fr: Fais gaffe, ça pique !
+  en: Watchout, it's stinging!
+- fr: Ne fais pas attention, ce n’est pas grave…
+  en: Don't pay attention, it does not matter...
+- fr: Je fais attention à mon poids !
+  en: I'm watching my weight!
+- fr: Je fais gaffe à ma ligne !
+  en: I'm watching my figure!
+end_question: On vous souhaite une bonne année 2020 et du succès pour vos résolutions
+  !

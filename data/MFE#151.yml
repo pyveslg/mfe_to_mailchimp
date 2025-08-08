@@ -1,0 +1,29 @@
+---
+title: je n'ai d'yeux que pour toi
+preview_text: Today, learn how to have romantic nights...
+color: "#ecfafb"
+goal: avoir des soirées romantiques
+challenge:
+  state: 'Un collègue vous demande si vous avez fait quelque chose de spécial. Vous
+    dites :'
+  options:
+  - option: Nous avons dîné en intimité.
+  - option: Nous avons dîné en amoureux.
+    correct: true
+explanation:
+  fr: Eh oui ! en amoureux est la locution idéale pour qualifier toutes ces activités
+    romantiques que vous faites à deux.
+  en: When you want to highlight anything you did with your loved one, “en amoureux”
+    is the perfect French match. You go to restaurant ”en amoureux”, you go for a
+    walk ”en amoureux”, you go on holidays ”en amoureux”... and you even might learn
+    French “en amoureux”! Ah c'est beau l'amour !
+words:
+- fr: Allons au restaurant !
+  en: Let's go to a restaurant!
+- fr: Et si on sortait en amoureux ce soir ?
+  en: And what about going out tonight, just the two of us?
+- fr: On se fait un dîner aux chandelles ?
+  en: Would you fancy going out for a candlelit dinner ?
+- fr: Ce soir, je n'ai d'yeux que pour toi...
+  en: I have only eyes for you tonight...
+end_question: Et vous, qu'avez-vous fait pour la Saint-Valentin ?

@@ -1,0 +1,28 @@
+---
+title: il en faut peu pour être heureux
+preview_text: Today, learn how to forget all your worries
+color: "#f1e189"
+goal: oublier tous vos soucis
+challenge:
+  state: 'Il ne se préoccupe de rien. Vous dites :'
+  options:
+  - option: En ce moment, il vit d’amour et d’eau fraîche.
+    correct: true
+  - option: En ce moment, il vit d’amour uniquement.
+explanation:
+  fr: Eh oui ! vivre d’amour et d’eau fraîche est une expression utilisée pour décrire
+    les personnes qui se contentent des sentiments et ne font pas attention aux réalités
+    matérielles.
+  en: |-
+    “Vivre d’amour et d’eau fraîche” is an expression used
+    to describe people living on love alone and forgetting reality.
+words:
+- fr: Il est insouciant.
+  en: He is carefree.
+- fr: On ne peut pas vivre d’amour et d’eau fraîche.
+  en: You cannot live on love alone.
+- fr: Je vis au jour le jour.
+  en: I live from day to day.
+- fr: Il en faut peu pour être heureux.
+  en: A little goes a long way.
+end_question: Et vous, vous êtes plutôt insouciant ou plutôt prudent ?

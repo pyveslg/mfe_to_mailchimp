@@ -1,0 +1,30 @@
+---
+title: c’est du super boulot
+preview_text: Today, learn how to encourage
+color: "#fff0f8"
+goal: encourager
+challenge:
+  state: 'Pour le complimenter, vous dites :'
+  options:
+  - option: Tu as assuré !
+    correct: true
+  - option: Tu as rassuré !
+explanation:
+  fr: |-
+    Eh oui ! assurer a plusieurs sens.
+    Au sens informel, ce verbe signifie faire du très bon travail.
+  en: |-
+    Whereas “assurer” has various meanings in French, it means ”to do a great job” in a informal register.
+    It's commonly used in the professional context as well.
+words:
+- fr: C’est génial !
+  en: That's awesome!
+- fr: C’est du super boulot !
+  en: This is really good job!
+- fr: Tu assures dans ton travail !
+  en: You do great at work!
+- fr: J’ai fait un très bon travail.
+  en: I did a great job.
+end_question: |-
+  Et vous,
+  vous assurez en français ?

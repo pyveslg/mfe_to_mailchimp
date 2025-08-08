@@ -1,0 +1,28 @@
+---
+title: tout est à proximité
+preview_text: Today, learn how to be near
+color: "#32d1eb"
+goal: être à côté
+challenge:
+  state: 'Vous invitez des amis à dîner. Vous mettez du pain sur la table et vos invités
+    l’apprécient beaucoup. Il demande où vous l’avez acheté. Vous dites :'
+  options:
+  - option: Dans la boulangerie du coin.
+    correct: true
+  - option: Dans la boulangerie de l’angle.
+explanation:
+  fr: Eh oui ! du coin est une expression courante pour qualifier un commerce qui
+    se situe à proximité.
+  en: |-
+    “du coin” is useful idiom that qualifies any local shops located next to where you are or live.
+    Eg: une boulangerie du coin = a local bakery.
+words:
+- fr: J’aime beaucoup ce coin.
+  en: I love this place.
+- fr: Je fais mes courses dans le quartier.
+  en: I do my shopping in the neighborhood.
+- fr: C’est commode, tout est à proximité.
+  en: It's convenient. Everything is near.
+- fr: Le café est juste au coin de la rue.
+  en: The café is just on the street corner.
+end_question: Et vous, où faites-vous vos courses en général ?

@@ -1,0 +1,27 @@
+---
+title: on a pris ma commande
+preview_text: "Today, learn how to get served \U0001F37D️"
+color: "#f7f2c1"
+goal: vous faire servir
+challenge:
+  state: 'Vous êtes au café. Un serveur vous demande si vous avez déjà commandé. Il
+    dit :'
+  options:
+  - option: On s’occupe de vous ?
+    correct: true
+  - option: On vous sert ?
+explanation:
+  fr: Eh oui ! s’occuper de quelqu’un signifie offrir ses services à quelqu’un.
+  en: “S'occuper de” is often used by shopkeepers when they're ready to serve their
+    customers (“À nous! Maintenant, je m'occupe de vous!") or ask them if they are
+    you being served (“On s'occupe de vous?”).
+words:
+- fr: Non, pas encore.
+  en: No, not yet.
+- fr: On a pris ma commande.
+  en: My order has been taken.
+- fr: Je m’occupe de vous dans 1 minute !
+  en: I'll attend to you in a minute!
+- fr: Je suis à vous dans un instant !
+  en: I'll attend to you in a moment!
+end_question: Un autre mon French Expresso ? On s’occupe de vous dès lundi !

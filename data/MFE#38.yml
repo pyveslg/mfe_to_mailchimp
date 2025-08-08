@@ -1,0 +1,29 @@
+---
+title: je meurs de chaud
+preview_text: ''
+color: "#1ee494"
+goal: supporter la chaleur
+challenge:
+  state: 'La température est trop élevée. Vous dites :'
+  options:
+  - option: J’ai chaud.
+    correct: true
+  - option: Je suis chaud.
+explanation:
+  fr: "Eh oui ! avant une sensation physique, on utilise avoir\nex : j'ai chaud /
+    j'ai froid / j'ai mal.... \n\"Je suis chaud\" est une expression informelle et
+    peut avoir deux sens :\n\"je suis motivé\" ou \"je suis excité (sexuellement)\"
+    !\nDonc prudence ;-)"
+  en: |-
+    To express a physical sensation, the verb “avoir” should be used. “Je suis chaud” is an informal idiom which has 2 meanings : it means either that your are motivated or that your are sexually excited...
+    So be careful ;)
+words:
+- fr: Je meurs de chaud.
+  en: I am extremely hot.
+- fr: Ces exercices physiques me donnent chaud.
+  en: These physical exercises make me hot.
+- fr: Il fait tellement chaud, je sue à grosse goutte.
+  en: It's so hot. I am sweating bullets.
+- fr: Il gagne sa vie à la sueur de son front.
+  en: He earns his money by the sweat of his brow.
+end_question: Et vous, comment vous vous sentez par ce temps ?

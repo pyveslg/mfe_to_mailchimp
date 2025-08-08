@@ -1,0 +1,28 @@
+---
+title: ça peut arriver d'un jour à l'autre
+preview_text: "Today, learn how to ask the date \U0001F4C5"
+color: "#d5f7ff"
+goal: demander la date
+challenge:
+  state: 'Vous demandez la date à votre collègue. Vous dites :'
+  options:
+  - option: Quel jour sommes-nous ?
+    correct: true
+  - option: Quel journée sommes-nous ?
+explanation:
+  fr: |-
+    Eh oui ! **_jour_** et **_journée_** sont bien différents...
+    **_Jour_** désigne **une unité de temps**. Le terme est utilisé pour **compter les jours** – _Je pars 3 jours à Toulouse._ – ou **indiquer une date** – _Quel jour arrives-tu ?_
+    **_Journée_** souligne **la durée ou le contenu** : _J’ai travaillé toute la journée_.
+  en: |-
+    “Jour” is used to indicate a time unit (a number of days or a date) while “Journée” refers to a time span.
+words:
+- fr: J’ai passé une bonne journée.
+  en: I had a good day.
+- fr: Elle a pris un jour de congés.
+  en: She took a day off.
+- fr: À ce jour, nous n’avons toujours rien reçu.
+  en: We haven't received anything yet.
+- fr: Ça peut arriver d’un jour à l’autre.
+  en: It can happen overnight.
+end_question: "Allez, bonne journée \U0001F609"

@@ -1,0 +1,28 @@
+---
+title: il faut rester calme
+preview_text: Today, learn how to adapt to strikes
+color: "#c06c84"
+goal: vous adapter à la grève
+challenge:
+  state: 'Vous devez changer de moyen de transport. Vous dites :'
+  options:
+  - option: Il faut que je prends un taxi.
+  - option: Il faut que je prenne un taxi.
+    correct: true
+explanation:
+  fr: "Eh oui ! il faut que exprime une nécessité : il faut que = C’est nécessaire
+    que… \nCette structure est suivie du subjonctif :\nIl faut que + [sujet] + [verbe
+    au subjonctif] + [complément]\nPar exemple : prendre un taxi > Il faut que je
+    prenne un taxi."
+  en: "”il faut que” refers to a necessity. It is always followed by a subject and
+    a verb at the subjonctive tense."
+words:
+- fr: Il faut rester calme.
+  en: Please, keep calm.
+- fr: Il faut que je parte plus tôt.
+  en: I have to leave earlier.
+- fr: Il faut que tu viennes à vélo.
+  en: You have to ride your bike.
+- fr: Il faudrait que tu fasses du télétravail.
+  en: You'd have to work remotely.
+end_question: Et vous, quelles sont vos solutions face à la grève ?

@@ -1,0 +1,32 @@
+---
+title: attends, je lis mon French Expresso
+preview_text: Today, learn how to describe what's happening
+color: "#f6f6f6"
+goal: décrire le présent
+challenge:
+  state: 'Vous regardez par la fenêtre. Il commence à pleuvoir dehors. Vous dites
+    :'
+  options:
+  - option: Il pleut !
+    correct: true
+  - option: Il est pleuvoir !
+explanation:
+  fr: |-
+    Eh oui ! Le présent continu n’existe pas en français !
+    En général, nous utilisons le présent simple pour parler d’une action présente.
+    Par exemple : “Je regarde un film.”
+    Plus rarement, pour insister sur l’action, on utilise l’expression être en train de.
+    Par exemple : “Pas maintenant, je suis en train de regarder un film.”
+  en: |-
+    The present continuous tense does not exist in French.
+    The present tense is mainly used to speak about an action that is happening/taking place. More rarely and mainly to insist on the action, “être en train de” + infinitive verb can be used.
+words:
+- fr: Attends, je lis mon French Expresso !
+  en: Wait, I'm reading mon French Expresso!
+- fr: Je travaille encore sur ce projet.
+  en: I'm still working on this project.
+- fr: À quoi tu penses ?
+  en: What are you thinking about?
+- fr: Qu’est-ce qui se passe ?
+  en: What's happening?
+end_question: Et vous, que faites-vous en ce moment ?

@@ -1,0 +1,30 @@
+---
+title: mes meilleurs vœux
+preview_text: Today, learn how to start a new year for good
+color: "#ffdd00"
+goal: "(bien) commencer l'année"
+challenge:
+  state: 'C’est la nouvelle année. Vous retrouvez vos collègues après deux semaines
+    de vacances. Vous dites :'
+  options:
+  - option: Bonne année !
+    correct: true
+  - option: Joyeuse année !
+explanation:
+  fr: Eh oui ! Bonne année est la formule la plus courante et la plus simple pour
+    présenter ces vœux.
+  en: "“Bonne année” is the simplest and most common way to wish a happy New Year
+    to someone. Note that in France, you have until the 31st of January to give your
+    best wishes. No rush then, but don't be too late! \U0001F609"
+words:
+- fr: Bonne année et bonne santé !
+  en: Happy New Year!
+- fr: Bonne et heureuse année !
+  en: Happy and Prosperous New Year!
+- fr: Mes meilleurs vœux !
+  en: All my best wishes!
+- fr: Je vous présente mes meilleurs vœux pour cette nouvelle année.
+  en: I give you my best wishes for the new year.
+end_question: |-
+  Bonne année !
+  Nos meilleurs vœux de joie et de réussite pour 2018 pour vous et votre famille!

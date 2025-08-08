@@ -1,0 +1,31 @@
+---
+title: je m'y mets tout de suite
+preview_text: Today, learn how to accept challenges...
+color: "#7bcecc"
+goal: accepter des missions
+challenge:
+  state: 'Votre responsable vous demande de faire une présentation devant des clients.
+    Vous dites :'
+  options:
+  - option: Oui, je m’en occupe !
+    correct: true
+  - option: Oui, je me l’occupe !
+explanation:
+  fr: |-
+    Eh oui ! en reprend un complément précédé par la préposition de.
+    Dans notre exemple : “Je m’occupe de faire la présentation.” = “Je m’en occupe.”
+  en: |-
+    This mysterious usage of “en”, revealed at last! ”en” stands for a verb complement preceded by ”de”.
+    Look carefully at the examples above to make sure it's cristal clear to you!
+words:
+- fr: Je m’en charge !
+  en: I handle it!
+- fr: Ok, laisse-moi faire !
+  en: Alright, let me do it!
+- fr: Oui, je m’y mets tout de suite !
+  en: Yes, I am getting right on it
+- fr: C’est moi qui ai pris en charge le dossier.
+  en: I took charge of the case.
+end_question: |-
+  Et vous,
+  vous vous occupez parfois d'arroser les plantes à la maison ?

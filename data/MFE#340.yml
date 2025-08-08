@@ -1,0 +1,29 @@
+---
+title: merci infiniment
+preview_text: "Today, learn how to be grateful \U0001F64F"
+color: "#f8e1f4"
+goal: être reconnaissant
+challenge:
+  state: 'Vous voulez prendre un café. Vous n’avez pas de monnaie pour la machine
+    à café. Un collègue vous donne 2€. Vous dites :'
+  options:
+  - option: À cause de toi, je peux boire mon café !
+    correct: true
+  - option: Grâce à toi, je peux boire mon café !
+explanation:
+  fr: |-
+    Eh oui ! grâce à est une formule utilisée pour parler d’une cause positive.
+    Elle exprime de la gratitude. Au contraire, à cause de exprime une cause négative. Attention à ne pas les confondre !
+  en: "With “grâce à”, you can mention a positive cause that you are thankful for.
+    (=“thanks to”) \nOn the contrary, « à cause de » is used to evoke a negative cause.
+    (=”because of”)"
+words:
+- fr: Merci de votre aide.
+  en: Thanks for your help.
+- fr: Merci infiniment.
+  en: Thank you very much.
+- fr: J’ai réussi grâce à toi.
+  en: I have made it thanks to you.
+- fr: Je te suis très reconnaissant(e).
+  en: I am very grateful to you.
+end_question: Et vous, quelqu’un vous a aidé cette semaine ?

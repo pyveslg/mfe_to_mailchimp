@@ -1,0 +1,28 @@
+---
+title: je travaille dans le droit
+preview_text: Today, learn how to show interest in someone else
+color: "#ffed78"
+goal: vous intéresser à l'autre
+challenge:
+  state: 'Vous faites connaissance. Vous demandez :'
+  options:
+  - option: Qu’est-ce que tu fais pour vivre ?
+    correct: true
+  - option: Qu’est-ce que tu fais dans la vie ?
+explanation:
+  fr: Eh oui! “Qu’est-ce que tu fais dans la vie ?” est une question couramment utilisée
+    pour une première rencontre. Elle permet de s’informer sur la profession et les
+    loisirs de son interlocuteur.
+  en: |-
+    When you meet someone in France, the question “qu'est-ce que tu fais dans la vie?” is one of the very first questions you are asked. It can be sometimes surprising... But you can answer as you wish saying something about your job, your passions, your leisures or whatever which is meaningful to you in your life!
+    Someone is just trying to get to know you better!
+words:
+- fr: Je suis médecin.
+  en: I am a doctor.
+- fr: Tu travailles dans quoi ?
+  en: What do you do for a living?
+- fr: Dans quel secteur tu travailles ?
+  en: What area do you work in?
+- fr: Je travaille dans le droit.
+  en: I work in the legal industry.
+end_question: Et vous, que faites-vous dans la vie ?

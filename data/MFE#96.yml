@@ -1,0 +1,27 @@
+---
+title: finalement, allons-y
+preview_text: Today, learn how to get moody
+color: "#ffcd38"
+goal: être lunatique
+challenge:
+  state: 'mais finalement vous décidez de visiter Bordeaux. Vous dites :'
+  options:
+  - option: J’ai changé d’idée.
+  - option: J’ai changé d’avis.
+    correct: true
+explanation:
+  fr: Eh oui! changer d’avis est une expression couramment utilisée pour annoncer
+    un changement de décision ou de point de vue.
+  en: |-
+    If you change your mind then, in French, “vous changez d'avis”.
+    As it is a normal thing, it's a very usual idiom!
+words:
+- fr: Ça change tout !
+  en: That changes everything!
+- fr: Finalement, allons-y !
+  en: Ok. Let's go then!
+- fr: Tout bien réfléchi, faisons comme ça.
+  en: All things considered, let's do it this way.
+- fr: Il a changé d’avis en cours de route.
+  en: He's changed horses in midstream
+end_question: Et vous, changez-vous souvent d’avis ?

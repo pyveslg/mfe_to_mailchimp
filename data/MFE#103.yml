@@ -1,0 +1,31 @@
+---
+title: c'est aussi simple que cela
+preview_text: Today, learn how to draw parallels
+color: "#f8ecfd"
+goal: faire des parallèles
+challenge:
+  state: 'Votre ami a visité Nantes. À son retour, il déclare qu’il préfère la Loire
+    à la Seine. Vous n’êtes pas d’accord. Vous dites :'
+  options:
+  - option: La Seine est autant belle que la Loire.
+    correct: true
+  - option: La Seine est aussi belle que la Loire.
+explanation:
+  fr: |-
+    Eh oui! “aussi...que” et “autant...que”sont utilisés pour comparer deux choses égales. Aussi s’utilise devant un adjectif :
+    “Le musée d’Orsay est aussi passionnant que le Louvre.”
+    Autant s’utilise après un verbe : “j’aime autant le musée d’Orsay que le Louvre.”
+  en: "“aussi...que” & “autant...que” are used to compare two similar things. However,
+    “aussi” should be used before an adjective whereas “autant” is to be used after
+    a verb."
+words:
+- fr: C’est la même chose !
+  en: It's the same!
+- fr: Ils sont aussi beaux l’un que l’autre.
+  en: One's more handsome than the next.
+- fr: C’est aussi simple que cela !
+  en: It's as easy as that!
+- fr: Cette forêt me fait penser à Brocéliande.
+  en: This forest reminds me of Brocéliande.
+end_question: Alors, vivre à Paris, est-ce aussi stimulant que de vivre à la maison
+  ?

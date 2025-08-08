@@ -1,0 +1,30 @@
+---
+title: j’aime bronzer sur la plage
+preview_text: Today, learn how to enjoy a sunbath⛱️☀️
+color: "#f6fa84"
+goal: profiter du soleil
+challenge:
+  state: 'Votre collègue arrive au bureau. Il a passé le week-end au soleil et il
+    a la peau bronzée. Vous dites :'
+  options:
+  - option: Tu as pris des couleurs !
+    correct: true
+  - option: Tu as eu des couleurs !
+explanation:
+  fr: |-
+    Eh oui ! prendre des couleurs est un synonyme poétique du verbe bronzer.
+    Cette expression est couramment utilisée en été !
+  en: |-
+    “prendre des couleurs” is a French poetic synonym of ”bronzer” (= to tan).
+    When you come back from a sunny holiday, at least one of your French colleagues or friends will use it!
+    Try it after your summer break!
+words:
+- fr: J’aime bronzer sur la plage.
+  en: I like lying in the sun at the beach.
+- fr: Je rêve d’un bain de soleil.
+  en: I dream of sunbathing.
+- fr: J’ai pris un coup de soleil.
+  en: I got sunburnt.
+- fr: Ma peau ne garde pas le bronzage.
+  en: My skin doesn't remain tanned.
+end_question: Et vous, avez-vous pris le soleil ce week-end ?

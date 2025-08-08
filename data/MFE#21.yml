@@ -1,0 +1,34 @@
+---
+title: je me rappelle de tout
+preview_text: ''
+color: "#c8ff46"
+goal: |-
+  parler d'un souvenir
+  une bonne fois pour toute*
+challenge:
+  state: 'Pour parler d’un souvenir d’enfance, vous dites :'
+  options:
+  - option: Quand j’ai été petit, je jouais dans le jardin.
+  - option: Quand j’étais petit, je jouais dans le jardin.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui !
+    pour parler d'une période passée, indéfinie dans le temps, on utilise l'imparfait.
+    "Être petit" : on ne sait pas à quel âge ça commence ni à quel âge ça finit exactement...
+    "j'étais" est donc la seule possibilité.
+  en: |-
+    To talk about an indefinite past period, we used the imperfect tense.
+    To be a child... no one knows exactly at which age it starts and when it really finishes...
+    Imperfect tense is the only option left.
+words:
+- fr: Je me rappelle de tout.
+  en: I can remember everything.
+- fr: Tu as raison, ça me revient maintenant.
+  en: You're right, I can remember now.
+- fr: Je m’en souviens comme si c’était hier.
+  en: I remember this like it was yesterday.
+- fr: Ce souvenir est resté gravé.
+  en: This stayed etched in my memory.
+end_question: Et vous, quand vous étiez enfant, quelle était votre activité favorite
+  ?

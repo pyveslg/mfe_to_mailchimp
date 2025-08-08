@@ -1,0 +1,27 @@
+---
+title: je confonds toujours les deux
+preview_text: "Today, learn how to stop being confused by confusion \U0001F914"
+color: "#f5eeee"
+goal: être déconcerté
+challenge:
+  state: 'Votre ami essaye de vous expliquer la différence entre le « tu » et le «
+    vous » en français mais il ne trouve pas les mots… Vous dites :'
+  options:
+  - option: Je ne comprends pas, c’est confusant.
+  - option: Je ne comprends pas, c’est confus.
+    correct: true
+explanation:
+  fr: Eh oui ! Vous pouvez “être confus” lorsqu'une situation n’est pas claire et
+    qu’elle crée une mécompréhension. Attention, le terme “confusant” n’existe pas
+    en français.
+  en: "We hope that the above explanation is not too confusing... \U0001F609"
+words:
+- fr: Pardon, je les confonds toujours.
+  en: Sorry, I always mix them up.
+- fr: Ce plan induit en erreur.
+  en: This plan is misleading.
+- fr: Cette explication porte à confusion.
+  en: This explanation is confusing.
+- fr: Attendez, je me mélange les pinceaux !
+  en: Wait, I'm getting confused!
+end_question: Alors on espère que cette explication ne porte pas à confusion !

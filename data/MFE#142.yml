@@ -1,0 +1,30 @@
+---
+title: désolé, je n'ai pas compris
+preview_text: Today, learn how to misunderstand...
+color: "#a2cf87"
+goal: ne pas comprendre
+challenge:
+  state: 'Un commerçant vous donne des explications sur un produit mais vous ne comprenez
+    pas bien. Vous voulez qu’il répète. Vous dites :'
+  options:
+  - option: Comment ?
+    correct: true
+  - option: Pardon, vous pouvez répéter s’il vous plaît ?
+    correct: true
+explanation:
+  fr: "Eh oui ! Les deux phrases sont équivalentes (malgré la différence de longueur
+    \U0001F609 ) !\n“Comment ?” est une formule courte, efficace et polie pour exprimer
+    que vous n’avez pas compris et inviter votre interlocuteur à répéter."
+  en: "French sentences can be short as well sometimes! \n”Comment?” is one of those
+    to politely ask someone for repeating, \nas you either did not heard or understood
+    well what has been said. Quite handy, right?"
+words:
+- fr: Quoi ?
+  en: What?
+- fr: Pardon ?
+  en: Pardon ?
+- fr: Désolé, je n’ai pas compris.
+  en: Sorry, I did not understand.
+- fr: Vous pourriez répéter s’il vous plaît ?
+  en: May you please repeat again?
+end_question: Alors c'était facile hein ?

@@ -1,0 +1,30 @@
+---
+title: à la prochaine
+preview_text: Today, learn how to nonchalantly leave
+color: "#dbf1f2"
+goal: partir nonchalamment
+challenge:
+  state: 'Vous êtes chez un ami. Quand vous partez, vous dites :'
+  options:
+  - option: À toute !
+    correct: true
+  - option: À plus !
+explanation:
+  fr: |-
+    Eh oui ! Ces deux expressions sont informelles mais souvent utilisées.
+    Ce sont des abréviations :
+    À toute = À tout à l’heure.
+    À plus = À plus tard.
+  en: "“À toute” and “À plus” are two informal but common idioms to say goodbye to
+    someone. ”à toute” is the shortened form of ”à toute à l'heure” and ”à plus” stands
+    for ”à plus tard”."
+words:
+- fr: Ciao !
+  en: Ciao!
+- fr: Bye !
+  en: Bye ! (We do use it in French!)
+- fr: À très vite !
+  en: See you very soon!
+- fr: À la prochaine !
+  en: See you later!
+end_question: Allez, à toute !

@@ -1,0 +1,29 @@
+---
+title: je veux quand même le faire
+preview_text: Today, learn how to persist
+color: "#ffdbc5"
+goal: persévérer
+challenge:
+  state: 'Vous voulez terminer un projet difficile à finir. Il y a beaucoup d’obstacles,
+    mais vous voulez essayer. Vous dites :'
+  options:
+  - option: Je vais essayer malgré tout.
+    correct: true
+  - option: Je vais essayer même si tout.
+explanation:
+  fr: |-
+    Eh oui ! malgré est une préposition qui introduit une concession, un compromis, qui dérange mais n’empêche pas de continuer une action.
+    Malgré est toujours suivi d’un nom.
+  en: "“malgré” is proposition that introduces a concession, a compromise, that is
+    upsetting but does not stop you from doing something. « malgré » is always followed
+    by a noun."
+words:
+- fr: Je veux quand même le faire !
+  en: I’d like to do it anyway!
+- fr: J’ai réussi malgré les difficultés.
+  en: I succeeded despite the difficulties.
+- fr: Bien que ce ne soit pas la meilleure période, nous allons en Thaïlande.
+  en: Although it’s not the best season, we’re going to Thailand.
+- fr: J’ai beau essayer, je n’y arrive pas
+  en: Try as I may, I can’t do it.
+end_question: Et vous, vous rencontrez des difficultés dans vos projets ?

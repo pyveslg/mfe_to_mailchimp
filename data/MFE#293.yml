@@ -1,0 +1,29 @@
+---
+title: entendu
+preview_text: Today, learn to confirm
+color: "#f7e0a3"
+goal: confirmer
+challenge:
+  state: 'Pour confirmer, vous dites :'
+  options:
+  - option: C’est pris !
+  - option: C’est noté !
+    correct: true
+explanation:
+  fr: Eh oui ! c’est noté est une expression courante pour indiquer que vous avez
+    compris et pris en compte une demande ou une information.
+  en: |-
+    “c'est noté” is a common French idiom to confirm to someone
+    that you understand and take into account their request or information.
+words:
+- fr: C’est bon !
+  en: It's all right!
+- fr: C’est bien noté !
+  en: It's duly noted!
+- fr: Entendu !
+  en: Got it!
+- fr: J’en prends bonne note.
+  en: I take careful note of it.
+end_question: |-
+  Allez, rendez-vous la semaine prochaine :
+  même jour, même heure !

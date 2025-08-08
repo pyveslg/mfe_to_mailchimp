@@ -1,0 +1,35 @@
+---
+title: Je suis de retour ! 
+preview_text: "\U0001F392 \U0001F342 \U0001F913 C'est la rentrée! Mon French Expresso
+  is getting back to its regular daily publication. We are so happy! Enjoy today's
+  French hint & share it!"
+color: "#ffd2a5"
+goal: faire des aller-retour
+challenge:
+  state: 'Vous arrivez au travail après 3 semaines de vacances. Vous dites :'
+  options:
+  - option: Je reviens de vacances !
+    correct: true
+  - option: Je retourne de vacances !
+explanation:
+  fr: |-
+    Eh oui ! revenir et retourner sont presque synonymes…
+    mais attention à votre interlocuteur !
+    S’il est dans le lieu, vous revenez.
+    Par exemple, vous dites à votre collègue : “je reviens au travail demain.”
+    S’il n’est pas dans le lieu, vous retournez. Par exemple, vous dites à votre mère : “je retourne au travail demain.”
+  en: You might know the difference between “come back” and “go back”. Actually “revenir”
+    and “retourner” works the same. You should use “revenir” if your interlocutor
+    is where you come back and “retourner” if he/she is not where you go back.
+words:
+- fr: Je reviendrai plus tard.
+  en: I will come back later.
+- fr: Je suis de retour !
+  en: I'm back!
+- fr: On s'égare, revenons à nos moutons !
+  en: We're going off the subject. Let's get back to it.
+- fr: C'est un échec, on retourne à la case départ !
+  en: We failed. We are back to square one.
+end_question: |-
+  Et vous,
+  quand êtes-vous revenu(e) de vacances?

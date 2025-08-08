@@ -1,0 +1,29 @@
+---
+title: il y a une erreur dans ma commande
+preview_text: "Today, learn how to get your order delivered to you \U0001F69A"
+color: "#dde8b9"
+goal: vous faire livrer
+challenge:
+  state: 'Vous attendez le serveur mais il n’arrive pas. Vous demandez :'
+  options:
+  - option: Je commande au bar ?
+    correct: true
+  - option: J’ordonne au bar ?
+explanation:
+  fr: 'Eh oui! “commander” signifie demander la livraison d’un objet, d’un plat ou
+    d’une boisson. Ça peut être au café, au bar ou au restaurant, par exemple : “Vous
+    avez commandé ?”. Ou pour un achat à distance, par exemple : “j’ai commandé mon
+    canapé sur Internet.”.'
+  en: "When you make/place an order in a café, restaurant or at a web shopfront, you
+    should use the verb “commander”. “Ordonner” is mainly used when you give an order.
+    The waiter may not react the same way \U0001F605"
+words:
+- fr: Je vais commander des pizzas.
+  en: I'll order some pizzas.
+- fr: Pardon, j’avais commandé un demi.
+  en: Sorry, I asked for a half pint.
+- fr: Il y a une erreur dans ma commande.
+  en: My order got confused.
+- fr: Désolée, vous pouvez annuler ma commande.
+  en: I'm sorry. Be so good as to cancel my order.
+end_question: Et vous, qu’avez-vous commandé au Père-Noël ?

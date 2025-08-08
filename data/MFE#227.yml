@@ -1,0 +1,27 @@
+---
+title: je me donne à fond
+preview_text: Today, learn how to have no regrets
+color: "#fff1bc"
+goal: ne pas regretter
+challenge:
+  state: 'En ce moment, vous avez beaucoup de travail. C’est difficile de bien vous
+    organiser. Votre collègue vous demande comment vous faites. Vous répondez :'
+  options:
+  - option: Je fais mon mieux.
+  - option: Je fais de mon mieux.
+    correct: true
+explanation:
+  fr: Eh oui ! faire de son mieux est une expression courante pour exprimer que l’on
+    fait son maximum pour accomplir un travail.
+  en: "”faire de son mieux” is a common French idiom to use when one is doing his
+    best to achieve something."
+words:
+- fr: Fais de ton mieux !
+  en: Do the best you can!
+- fr: Ce sera dur mais on fera au mieux.
+  en: It will be hard but we'll do our best.
+- fr: Je me donne à fond dans mon boulot.
+  en: I go all out for my job.
+- fr: Le mieux est l’ennemi du bien.
+  en: Leave well enough alone.
+end_question: Et vous, parlez-vous un français parfait ?

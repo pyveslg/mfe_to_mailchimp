@@ -1,0 +1,30 @@
+---
+title: j’habite au cœur de Paris
+preview_text: Today, learn how to find your way
+color: "#fee4a6"
+goal: vous diriger
+challenge:
+  state: 'Votre collègue vous demande vos projets pour le week-end. Vous répondez
+    :'
+  options:
+  - option: Je vais à le musée Marmottan.
+    correct: true
+  - option: Je vais au musée Marmottan.
+explanation:
+  fr: |-
+    Eh oui ! La préposition à fusionne avec le et les :
+    [à + le] = au > On va au resto ?
+    [à + les] = aux > Je retourne souvent aux États-Unis.
+  en: |-
+    The “à” preposition merges with “le” and “les” when it precedes them.
+    [à + le] becomes ”au” and [à + les] becomes “aux”.
+words:
+- fr: Je suis allé au parc.
+  en: I went to the parc.
+- fr: J’habite au cœur de Paris.
+  en: I live in the heart of Paris.
+- fr: Allez, au boulot !
+  en: Come on, let's go back to work!
+- fr: J’irai au bout de mes idées.
+  en: I will go through with my ideas.
+end_question: Et vous, êtes-vous déjà allé au musée Marmottan?

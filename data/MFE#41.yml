@@ -1,0 +1,27 @@
+---
+title: l’appétit vient en mangeant
+preview_text: ''
+color: "#535474"
+goal: commencer un repas
+challenge:
+  state: 'Avant de commencer à manger, vous dites :'
+  options:
+  - option: Bon repas !
+  - option: Bon appétit !
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! "bon appétit" est une expression conviviale que les Français utilisent avant de partager un repas.
+    Contrairement aux idées reçues, cette expression est très utilisée en France.
+  en: "“bon appétit” is a very common idiom used before sharing a meal.  \nDon't wonder
+    too much if you should say it or not : just say it !"
+words:
+- fr: Ce repas a l’air délicieux.
+  en: This dish looks delicious.
+- fr: On prend l’apéritif tous les week-ends.
+  en: We have an aperitif every weekend.
+- fr: Ces chips m’ont ouvert l’appétit.
+  en: Eating these crisps made me hungry.
+- fr: L’appétit vient en mangeant !
+  en: "“One does not have much appetite until one starts eating!”"
+end_question: Et vous, les plats français vous mettent-ils en appétit ?

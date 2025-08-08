@@ -1,0 +1,29 @@
+---
+title: c'est possible que ça arrive
+preview_text: Today, learn how to comment a random fact
+color: "#78c2c3"
+goal: commenter un fait aléatoire
+challenge:
+  state: 'Votre ami vous demande s’il neige parfois à Paris. Vous répondez :'
+  options:
+  - option: C’est possible.
+    correct: true
+  - option: Ça arrive.
+explanation:
+  fr: |-
+    Eh oui! “arriver” a plusieurs sens en français.
+    Dans ce contexte, le verbe signifie qu’une chose se produit occasionnellement (= parfois).“C'est possible” traduit la possibilité qu'une chose se produise à un moment déterminé. Exemple : “Va-t-il neiger à Noël ? Oui, c'est possible!”
+  en: "“arriver” has different meanings in French. In this context, “ça arrive“ means
+    that something happens sometimes. “c'est possible” introduces the possibility
+    that something may happen at a specific moment."
+words:
+- fr: Ne t’inquiète pas, ça arrive !
+  en: Don't worry, it happens!
+- fr: Rien n’arrive par hasard.
+  en: Everything happens for a reason.
+- fr: Il arrive que je voyage pour le travail.
+  en: I sometimes travel for work.
+- fr: On se rejoint demain, quoi qu’il arrive.
+  en: Let's meet tomorrow, whatever happens.
+end_question: Et vous, ça vous arrive de rencontrer un ami par hasard dans la rue
+  à Paris?

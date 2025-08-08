@@ -1,0 +1,29 @@
+---
+title: tu as l’air d’aller mieux
+preview_text: Today, learn how to offer assistance
+color: "#f5587b"
+goal: proposer de l’aide
+challenge:
+  state: 'Votre ami est malade. Vous voulez l’aider. Vous dites :'
+  options:
+  - option: Tu as besoin de quelque chose ?
+    correct: true
+  - option: Tu as besoin à quelque chose ?
+explanation:
+  fr: |-
+    Eh oui ! Les structures avec avoir + nom sont suivies de la préposition de :
+    avoir besoin de / avoir envie de / avoir peur de / avoir raison de…
+  en: Any sentence structure formed with the verb ”avoir” followed by a noun is followed
+    by the ”de” preposition. This way, we say ”avoir besoin de quelque chose” (= to
+    need something), ”avoir envie de...” (= to wish), ”avoir peur de...” (= to be
+    afraid of...), “avoir raison de...” (= to be right).
+words:
+- fr: J’ai besoin de rien !
+  en: I do not need anything!
+- fr: Tu as envie de quelque chose ?
+  en: Would you like something?
+- fr: J’ai l’aide de ma famille.
+  en: My family supports me.
+- fr: Tu as l’air d’aller mieux.
+  en: You look better.
+end_question: Et vous, de quoi avez-vous besoin pour améliorer votre français ?

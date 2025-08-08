@@ -1,0 +1,27 @@
+---
+title: il peint à la manière de Cézanne
+preview_text: Today, learn how to have good manners
+color: "#efe891"
+goal: avoir de bonnes manières*
+challenge:
+  state: 'Ils s’expriment avec beaucoup d’élégance... Vous dites :'
+  options:
+  - option: J’adore leur façon de parler.
+    correct: true
+  - option: J’adore leur moyen de parler.
+explanation:
+  fr: 'Eh oui! La façon est une forme, une manière particulière d’être ou d’agir :
+    “je le fais à ma façon !”. Le moyen est la ressource utilisée pour atteindre un
+    but : “On prend un Uber, c’est le seul moyen d’arriver à l’heure !”'
+  en: "“la façon” indicates a way of being or doing something : I'm doing it my way
+    (“à ma façon”). “Moyen” refers to a resource, a mode or means to reach your goal."
+words:
+- fr: C'est une façon de faire particulière.
+  en: It's an unusual style of doing.
+- fr: Il peint à la manière de Cézanne.
+  en: He paints in the manner of Cézanne.
+- fr: De toute manière, c'est fini !
+  en: Anyway, it's over now!
+- fr: Il m'a répondu d'une façon tellement arrogante.
+  en: He answered in a such arrogant way.
+end_question: Et vous, qu'aimez-vous dans la façon d'être des Parisiens ?

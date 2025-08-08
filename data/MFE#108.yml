@@ -1,0 +1,30 @@
+---
+title: j’irais bien voir un film au ciné
+preview_text: Today, learn how to tell your wishes
+color: "#90a4ae"
+goal: dire vos souhaits
+challenge:
+  state: 'Votre ami vous demande vos projets pour la soirée. Vous dites :'
+  options:
+  - option: J’aimerais d’aller voir un concert.
+    correct: true
+  - option: J’aimerais aller voir un concert.
+explanation:
+  fr: "Eh oui! aimer est un verbe dit \"semi-auxiliaire\" \ncomme devoir, aller, vouloir,
+    pouvoir, détester, souhaiter, préférer, savoir, penser.\nAprès ces verbes (très
+    utiles au quotidien !), il n’y a jamais de préposition."
+  en: |-
+    “pouvoir” is a "semi-auxiliaire" verb.
+    This kind of verbs are never followed by any preposition.
+words:
+- fr: J’aimerais bien visiter le Louvre.
+  en: I would like to visit the Louvre.
+- fr: J’ai très envie d’une gaufre au caramel.
+  en: I would really like to eat a caramel waffle.
+- fr: J’irais bien voir un film au ciné.
+  en: I feel like going to the pictures.
+- fr: Je ne peux pas y aller, mais ce n’est pas l’envie qui m’en manque !
+  en: I can't go even if I would love it!
+end_question: |-
+  Et vous,
+  qu’est-ce que vous aimeriez faire en ce lundi ?

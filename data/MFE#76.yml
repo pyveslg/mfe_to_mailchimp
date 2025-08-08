@@ -1,0 +1,26 @@
+---
+title: il s’est décidé sur un coup de tête
+preview_text: Today, learn how to improvise in French.
+color: "#faf8d7"
+goal: improviser
+challenge:
+  state: 'Vous prenez des billets pour aller au Canada à la fin de la semaine. Vous
+    dites :'
+  options:
+  - option: Je me suis décidé à la dernière minute.
+  - option: Je me suis décidé au dernier moment.
+explanation:
+  fr: Eh oui ! à la dernière minute et au dernier moment sont deux expressions synonymes.
+    Cela signifie que quelque chose est fait juste avant qu’il soit trop tard.
+  en: Both “à la dernier minute” and “au dernier moment” common idioms mean that something
+    is done right before it gets too late to be done.
+words:
+- fr: Il part toujours au dernier moment.
+  en: He always goes at the last moment.
+- fr: Il s’est décidé sur un coup de tête.
+  en: He made his decision on a whim.
+- fr: Je n’aime pas prendre des décisions de dernière minute.
+  en: I don't like to make last-minute decisions.
+- fr: Organisons-nous, nous avons un délai serré à respecter.
+  en: Let's get organized. We have to stick to a tight timing.
+end_question: Et vous, avez-vous des plans de dernière minute pour ce week-end ?

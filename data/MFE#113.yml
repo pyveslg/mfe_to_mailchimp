@@ -1,0 +1,32 @@
+---
+title: je vais te raconter
+preview_text: "Today, learn how to confide \U0001F64A"
+color: "#f3f169"
+goal: faire des confidences
+challenge:
+  state: 'Vous voulez exposer une idée nouvelle à un collègue. Vous lui demandez :'
+  options:
+  - option: Je peux te parler d’une idée ?
+    correct: true
+  - option: Je peux te dire d’une idée ?
+explanation:
+  fr: |-
+    Eh oui! “parler de” est suivi d’un complément (un objet, une personne ou une idée). Par exemple : “Parlez-moi de vous.”.
+    “dire de” est suivi d’un verbe et implique une demande ou un ordre.
+    Par exemple : “Il m’a dit de partir.”
+  en: “Even if “parler” and “dire” are synonyms in French, they turn to be very different
+    when followed by "de". ”parler de” (to talk about some-thing/one) is followed
+    by a complement (an object, a person or an idea...) whereas “dire de”  is  followed
+    by a verb and is usually used when you want to ask someone to do something.
+words:
+- fr: Je vais te raconter !
+  en: I'll tell you!
+- fr: Je t’en parlerai plus tard.
+  en: I'll tell you about it later.
+- fr: Je vais te dire ce que j’en pense.
+  en: Let me tell you what I think about it.
+- fr: Puis-je te faire part de mon idée ?
+  en: May I share my idea with you?
+end_question: |-
+  Et vous,
+  parlez-nous de vous!

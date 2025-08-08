@@ -1,0 +1,30 @@
+---
+title: j’abandonne
+preview_text: Today, learn how to face challenges
+color: "#efee9d"
+goal: rencontrer des difficultés
+challenge:
+  state: 'Vous n’arrivez pas à finir un projet. Vous dites :'
+  options:
+  - option: Je n’arrive pas.
+  - option: Je n’y arrive pas.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! La structure utilisée ici est arriver à + infinitif.
+    Pour remplacer à + infinitif, on utilise le pronom y.
+    Par exemple : Je n’arrive pas à finir. Je n’y arrive pas.
+  en: |-
+    “arriver à + infinitif” is a structure synonymous to “réussir” (= to succeed).
+    To replace “à + infinitif” in a sentence, just use the pronoun “y”.
+words:
+- fr: J’abandonne.
+  en: I'm giving up.
+- fr: Je n’arrive pas à travailler.
+  en: I can’t work.
+- fr: Je n’y arrive pas.
+  en: I just can’t do it.
+- fr: Je ne m’en sors pas !
+  en: I can’t manage!
+end_question: Pour vous, qu’est-ce qui est difficile quand vous apprenez le français
+  ?

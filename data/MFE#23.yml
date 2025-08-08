@@ -1,0 +1,29 @@
+---
+title: je donne ma voix !
+preview_text: ''
+color: "#86bae8"
+goal: donner une bonne fois pour toute* votre vote
+challenge:
+  state: 'Pour donner votre voix au cours d’un vote, vous dites :'
+  options:
+  - option: Je vote pour !
+    correct: true
+  - option: Je vote avec !
+explanation:
+  fr: |-
+    Eh oui ! dans ce contexte, "pour" signifie "en faveur".
+    Attention, "pour" est normalement suivi d'un nom ou d'un verbe. Les expressions "être pour" et "voter pour" sont donc des exceptions.
+  en: |-
+    In this context, "pour" means "in favor of".
+    Watchout! "pour" is usually followed by a noun or a verb.
+    French idioms “être pour” and “voter pour” are exceptions.
+words:
+- fr: Je suis pour ce projet.
+  en: I'm in favour of this project.
+- fr: Je préfère m’abstenir de voter.
+  en: I prefer to abstain in the vote.
+- fr: Je n’adhère absolument pas à cette idée !
+  en: I totally disagree with this idea!
+- fr: Je donnerai mon vote au plus convaincant.
+  en: I will vote for the most convincing one.
+end_question: Et vous, que feriez-vous dimanche prochain ?

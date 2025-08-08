@@ -1,0 +1,30 @@
+---
+title: Je te dis si ça change.
+preview_text: Today, learn how to keep yourself informed
+color: "#fcf2d4"
+goal: rester informer
+challenge:
+  state: 'Un ami vous propose de déjeuner ensemble. Vous acceptez mais vous devez
+    encore confirmer l’heure exacte. Vous dites :'
+  options:
+  - option: Je te laisse au courant.
+  - option: Je te tiens au courant.
+    correct: true
+explanation:
+  fr: 'Eh oui ! tenir au courant est une expression courante qui signifie maintenir
+    quelqu’un informé. La structure peut aussi être réflexive, par exemple : on se
+    tient au courant.'
+  en: When you wish to let someone know something, ”tenir au courant quelqu'un” is
+    a perfect expression to use. In French, one can ”tenir au courant”  either someone
+    (”je te tiens au courant”) or oneself (”je me tiens au courant”).
+words:
+- fr: Je te dis si ça change.
+  en: I'll keep you posted on any updates.
+- fr: Tiens-moi au courant rapidement.
+  en: Please, let me know shortly.
+- fr: Personne ne m’a mis au courant.
+  en: No one told me.
+- fr: Je te tiens au jus à mon retour.
+  en: I'll let you know when I'm back.
+end_question: Les Français utilisent cette expression tous les jours On vous tient
+  au courant si ça change !

@@ -1,0 +1,28 @@
+---
+title: c’est toujours le même refrain
+preview_text: ''
+color: "#a10054"
+goal: être constant
+challenge:
+  state: 'Vous n’arrivez jamais à l’heure à vos rendez-vous. Vous dites :'
+  options:
+  - option: Je suis toujours en retard.
+    correct: true
+  - option: Je suis en retard toujours.
+explanation:
+  fr: |-
+    Eh oui ! toujours vient toujours après le verbe... Comme tous les autres adverbes !
+    J'espère que j'explique clairement ;-)
+  en: |-
+    The adverb “toujours" always comes after the verb... As any adverb always does.
+    By the way, “toujours” means always...
+words:
+- fr: Elle a oublié ses affaires, comme toujours !
+  en: As always, she forgot her stuff!
+- fr: Il me dérange en permanence pendant le travail.
+  en: He disturbs me at work all the time.
+- fr: Il me contredit sans cesse.
+  en: He continuously contradicts me.
+- fr: Je sais, c’est toujours le même refrain.
+  en: I know, it's always the same refrain.
+end_question: Et vous, vous arrivez toujours à l'heure ?

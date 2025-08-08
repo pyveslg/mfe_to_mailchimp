@@ -1,0 +1,29 @@
+---
+title: j'en ferai bon usage
+preview_text: Today, learn how to equip yourself
+color: "#f8b195"
+goal: vous équiper
+challenge:
+  state: 'Vous en avez besoin pour écouter des documents. Vous dites :'
+  options:
+  - option: Désolé, je les utilise.
+    correct: true
+  - option: Désolé, je m’en sers.
+explanation:
+  fr: |-
+    Eh oui! utiliser et se servir de sont synonymes. Par exemple :
+    “Je me sers de l’ordinateur pour travailler.”  =  “J’utilise l’ordinateur pour travailler.”
+    Utiliser est plus facile à conjuguer… mais se servir de est très souvent employé !
+  en: "“utiliser” and “se servir de” are synonyms and mean “to use something” or ”to
+    exploit someone”. “utiliser” is easier to conjugate but “se servir de” is really
+    often used!"
+words:
+- fr: Comment ça s’utilise ?
+  en: How is this used?
+- fr: À quoi ça sert ?
+  en: What for is it?
+- fr: Le vélo, je m’en sers tous les jours.
+  en: I ride my bicycle every day.
+- fr: Merci, j’en ferai bon usage.
+  en: Thanks, I'll make good use of it.
+end_question: Allez, on espère que vous vous servirez de ce nouveau verbe !

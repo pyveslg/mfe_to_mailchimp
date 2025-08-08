@@ -1,0 +1,28 @@
+---
+title: "j'ai la pêche \U0001F4AA"
+preview_text: Today, learn how to be in good shape
+color: "#fbf0f0"
+goal: être en forme
+challenge:
+  state: 'Il vous demande comment vous allez. Vous dites :'
+  options:
+  - option: Je vais bien !
+    correct: true
+  - option: Je suis bien !
+explanation:
+  fr: 'Eh oui ! Pour parler de la santé, le verbe approprié en français est aller
+    (et non pas être…). Si vous avez un doute, pensez à la question : “Comment ça
+    va ?” !'
+  en: "“Comment ça va?” (How are you doing?) Have you noticed that we use in French
+    the verb ”aller” to ask this ? More generally speaking, “aller” is the verb you
+    should use to speak about how you or things are going."
+words:
+- fr: Ça va ! Merci.
+  en: I'm fine! Thank you.
+- fr: Tout va bien !
+  en: Everything's all right!
+- fr: J'ai la pêche !
+  en: I feel great!
+- fr: Il se porte comme un charme.
+  en: He's fit as a fiddle.
+end_question: Et vous, comment ça va ?

@@ -1,0 +1,28 @@
+---
+title: ça vaut la peine d’essayer
+preview_text: ''
+color: "#f1e58a"
+goal: recommander un événement
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: Vas-y, ça vaut le coup !
+    correct: true
+  - option: Vas-y, ça mérite le coup !
+explanation:
+  fr: Eh oui ! ça vaut le coup signifie que c'est suffisamment intéressant pour faire
+    l'effort de le faire.
+  en: "“ça vaut le coup” is a common French idiom you can use when something is worth
+    to be done."
+words:
+- fr: Visite le musée d’Orsay, c’est incontournable !
+  en: Go and visit the Musée d'Orsay. It is unmissable!
+- fr: Tu dois absolument voir le marché des Enfants Rouges !
+  en: You definitely must visit the Enfants Rouges open air market!
+- fr: Quoi ! Tu ne connais pas Paris-plage ?!
+  en: How come? You never heard about Paris-Plage?!
+- fr: Tu ne peux pas partir sans avoir visité le Marais.
+  en: You can't leave without walking through the Marais.
+end_question: |-
+  Selon vous,
+  quels sont les lieux incontournables à Paris ?

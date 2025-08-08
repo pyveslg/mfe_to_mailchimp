@@ -1,0 +1,29 @@
+---
+title: je vais au travail même malade
+preview_text: Today, learn how to note contradictions
+color: "#e5d491"
+goal: voir des contradictions
+challenge:
+  state: 'Ce jour est particulier : c’est un jour férié mais beaucoup de Français
+    travaillent. Vous dites :'
+  options:
+  - option: C’est un jour férié mais on travaille quand même.
+    correct: true
+  - option: C’est un jour férié mais on travaille toujours.
+explanation:
+  fr: "Eh oui ! quand même est une locution couramment utilisée pour insister sur
+    une contradiction. Elle se place après le verbe. \nPar exemple : je n’aime pas
+    mais je goûte quand même."
+  en: |-
+    “quand même” is a much used locution to insist on a contradiction.
+    “quand même” is always located after the verb.
+words:
+- fr: J’irai quand même !
+  en: Anyway, I will go!
+- fr: Je vais au travail même malade.
+  en: I work even even though I feel sick.
+- fr: Il assure malgré la fatigue.
+  en: He is awesome even when tired.
+- fr: Il continue à bosser alors qu’il est en vacances.
+  en: He keeps working even if he's on holiday.
+end_question: Et vous, travaillerez-vous aujourd’hui ?

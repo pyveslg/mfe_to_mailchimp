@@ -1,0 +1,30 @@
+---
+title: j’ai bien envie de goûter cette pâtisserie
+preview_text: Today, learn how to fill you up with calorie
+color: "#bbbbbb"
+goal: faire le plein de calories
+challenge:
+  state: 'Vous avez besoin de chaleur, de réconfort et... de calories ! Vous dites
+    :'
+  options:
+  - option: Je mangerais bien un Paris-Brest !
+    correct: true
+  - option: Je mangerai bien un Paris-Brest !
+explanation:
+  fr: 'Eh oui ! La terminaison -rais marque le conditionnel à la première personne
+    du singulier (= “je”). La structure [verbe au conditionnel] + bien permet d’exprimer
+    un désir, par exemple : “J’irais bien faire du ski ce week-end” ou “Je goûterais
+    bien la fameuse fondue Suisse.”'
+  en: The “-rais” ending relates to the conditional tense for the “je“ (= I) subject.
+    The sentence structure [verb conjugated at the conditional tense] + ”bien” indicates
+    a desire for something (I would like to / I fancy...).
+words:
+- fr: J’aimerais bien faire de la luge.
+  en: I would like to go sledging.
+- fr: Je me ferais bien un cassoulet !
+  en: I fancy a cassoulet!
+- fr: J’ai bien envie de goûter cette pâtisserie.
+  en: I really would like to taste this cake.
+- fr: Un bon chocolat chaud, ça me dirait bien.
+  en: I would go for a yummy hot chocolate.
+end_question: Et vous, qu’aimeriez-vous faire par ce froid ?

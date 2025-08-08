@@ -1,0 +1,30 @@
+---
+title: c’est carrément vrai
+preview_text: Today, learn how be frank
+color: "#b9efe3"
+goal: être direct
+challenge:
+  state: 'Un ami essaye de vous persuader que le Louvre est un bâtiment du 19ème siècle.
+    Vous dites :'
+  options:
+  - option: Franchement, je ne crois pas.
+    correct: true
+  - option: Francement, je ne crois pas.
+explanation:
+  fr: |-
+    Eh oui ! Les adverbes se forment à partir du féminin de l’adjectif.
+    Dans notre exemple : Franc (adjectif au masculin) > Franche (adjectif au féminin) > (+ -ment = adverbe) Franchement.
+  en: |-
+    In French, adverbs are built this way : adjective in its feminine form + -ment.
+    franc (adjective in its masculine form) > franche (feminine form) > franchement (adverb)
+words:
+- fr: Honnêtement, j’aime beaucoup.
+  en: I honestly like it very much.
+- fr: C’est clairement une mauvaise idée !
+  en: This is obviously a bad idea!
+- fr: C’est carrément vrai !
+  en: It's absolutely true!
+- fr: À vrai dire, il a peut-être raison.
+  en: He might be right, actually.
+end_question: Alors, franchement, créer un adverbe aussi facilement, c'est top, non
+  ?

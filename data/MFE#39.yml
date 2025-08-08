@@ -1,0 +1,29 @@
+---
+title: j’ai calé un rendez-vous
+preview_text: ''
+color: "#ff8d68"
+goal: avoir des rendez-vous
+challenge:
+  state: 'Vous avez rendez-vous avec un ami. Vous dites :'
+  options:
+  - option: Je vais rencontrer un ami.
+  - option: Je vais retrouver un ami.
+    correct: true
+explanation:
+  fr: "Eh oui ! retrouver s'utilise quand la rencontre est programmée (par exemple
+    : \"J'ai retrouvé des amis pour le déjeuner.\").\nOn utilise rencontrer pour une
+    rencontre impromptue (par exemple : \"J'ai rencontré Carrie au supermarché\").
+    \nDonc, comme un rendez-vous est organisé, retrouver est la meilleure option !"
+  en: "“retrouver” someone is used when the meeting has already been forecast. ”rencontrer”
+    someone would be used when the meeting is impromptu. As a rendez-vous is set in
+    advance, ”retrouver” is the best option!"
+words:
+- fr: On se rejoint directement au cinéma.
+  en: Let's directly meet at the cinema.
+- fr: Tu viens ce soir ? On se retrouve chez Charles.
+  en: Are you coming tonight? We'll be meeting at Charles'.
+- fr: On s’est donné rendez-vous à Saint-Michel.
+  en: We planned to meet at Saint-Michel.
+- fr: J’ai calé un rendez-vous chez le médecin à 14h.
+  en: I have settled a medical appointment at 2pm.
+end_question: Et vous, avez-vous des rendez-vous aujourd'hui ?

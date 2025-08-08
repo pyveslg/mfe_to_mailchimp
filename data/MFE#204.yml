@@ -1,0 +1,27 @@
+---
+title: c’est bon pour moi !
+preview_text: Today, learn how to say yes
+color: "#faeb9e"
+goal: dire oui
+challenge:
+  state: 'Pour accepter, vous dites :'
+  options:
+  - option: Ça marche !
+    correct: true
+  - option: Ça fonctionne !
+explanation:
+  fr: Eh oui ! ça marche est une expression informelle utilisée pour exprimer son
+    accord.
+  en: "”ça marche” is very common but informal way to approve something."
+words:
+- fr: Ok !
+  en: Ok!
+- fr: C’est bon pour moi !
+  en: It's all right with me!
+- fr: Ça roule !
+  en: It's all right! Looking good!
+- fr: Ça le fait carrément !
+  en: Awesome. It's perfect.
+end_question: |-
+  Alors,
+  on reprend un French Expresso demain matin ?

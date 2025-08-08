@@ -1,0 +1,32 @@
+---
+title: on va au musée
+preview_text: Today, learn how to go to the museum
+color: "#ffd5d5"
+goal: aller au musée
+challenge:
+  state: 'Vous proposez à un ami d’aller voir cette rétrospective. Vous dites :'
+  options:
+  - option: On va voir l’exhibition sur Léonard de Vinci ?
+  - option: On va voir l’exposition sur Léonard de Vinci ?
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Dans les musées,
+    on peut voir des expositions temporaires ou permanentes.
+    Attention, exhibition est un faux ami !
+    En français, ça signifie : montrer quelque chose de façon impudique ou ostentatoire.
+  en: |-
+    ”Exhibition” is a false friend!
+    In French, it means that someone is showing something in an indecent or ostentatious way.
+words:
+- fr: On va au musée ?
+  en: What about going to the museum?
+- fr: Ça te dirait d’aller voir l’expo à Orsay ?
+  en: Would you like to attend the exhibition at musée d'Orsay?
+- fr: J’irais bien au musée de l’Orangerie.
+  en: I would fancy going to l'Orangerie museum.
+- fr: On se fait une expo ce week-end ?
+  en: What about visiting an exhibition this week-end?
+end_question: |-
+  Et vous, est-ce que vous allez voir l’exposition sur Léonard de Vinci
+  au Louvre ?

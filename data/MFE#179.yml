@@ -1,0 +1,29 @@
+---
+title: alors, comme je disais
+preview_text: Today, learn how to start again
+color: "#f9e8f6"
+goal: redémarrer
+challenge:
+  state: 'Vous menez une réunion. Un collègue entre dans la salle pour une question
+    urgente. Quand il part, vous revenez au sujet de la réunion. Vous dites :'
+  options:
+  - option: Allez, on résume !
+    correct: true
+  - option: Allez, on reprend !
+explanation:
+  fr: |-
+    Eh oui ! reprendre signifie continuer une activité ou une conversation après une brève interruption. Ce verbe est très couramment utilisé.
+    En français, résumer est exclusivement synonyme de synthétiser ou récapituler.
+  en: |-
+    “reprendre” means “to resume”. It's a very frequently used verb! Résumer” only means ”to summarize”.
+    So try not giving in to temptation to mix them up!
+words:
+- fr: C’est reparti.
+  en: Here we go again.
+- fr: J’ai repris le tennis !
+  en: I resumed tennis activities!
+- fr: Alors, comme je disais…
+  en: So, I was saying that...
+- fr: Revenons à nos moutons !
+  en: Let's get back to business!
+end_question: Allez, reprenons demain à la même heure !

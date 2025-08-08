@@ -1,0 +1,31 @@
+---
+title: je fais le pont lundi
+preview_text: Today, learn how to stop working
+color: "#f2faf7"
+goal: ne pas travailler
+challenge:
+  state: 'Demain, c’est le 1er mai, le jour de la fête du travail. Pour célébrer ça,
+    les Français ne travailleront pas toute une journée. Vous dites :'
+  options:
+  - option: Le 1er mai est un jour de vacances.
+  - option: Le 1er mai est un jour férié.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! un jour férié est un jour de célébration civile ou religieuse pendant lequel la majorité de la population active s’arrête de travailler.
+    À ne pas confondre avec les vacances qui sont des périodes de repos choisies par les travailleurs.
+  en: "”un jour férié” is a public/bank holiday, which is an official day off. 1st
+    of May is a bank holiday in France. That day, it's very common to offer a stem
+    of lily to the people you love for good luck."
+words:
+- fr: Je passe le 1er mai en famille.
+  en: On May 1st, I'll spend the day with my family.
+- fr: Je fais le pont lundi !
+  en: I make a extra long week-end!
+- fr: Je pars en congé 3 jours.
+  en: I am off for a 3-day vacation.
+- fr: Je pars en week-end prolongé.
+  en: I am off for a long week-end.
+end_question: |-
+  Et vous,
+  comment célébrerez-vous le 1er mai ?

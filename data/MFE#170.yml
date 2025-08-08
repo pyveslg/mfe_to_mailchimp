@@ -1,0 +1,26 @@
+---
+title: vous semblez étonné
+preview_text: Today, learn how to communicate on your impressions
+color: "#aed09e"
+goal: donner vos impressions
+challenge:
+  state: 'Votre collègue semble fatigué aujourd’hui. Vous demandez :'
+  options:
+  - option: Ça va ? Tu as l’air fatigué…
+    correct: true
+  - option: Ça va ? Tu regardes fatigué…
+explanation:
+  fr: Eh oui ! avoir l’air est une expression courante synonyme informel du verbe
+    sembler.
+  en: "“avoir l'air” is a useful common idiom which means to appear, look or seem.
+    “sembler” is another much used synonym."
+words:
+- fr: Vous semblez étonné.
+  en: You look surprised.
+- fr: Tu as l’air en forme !
+  en: You look to be in good shape!
+- fr: Il a toujours l’air de tout savoir.
+  en: He always seems to know everything about anything
+- fr: Ça m’en a tout l’air…
+  en: Sure, it looks like it.
+end_question: Et vous, vous avez l’air en forme aujourd’hui !

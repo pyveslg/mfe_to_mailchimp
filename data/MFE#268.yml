@@ -1,0 +1,26 @@
+---
+title: c’est marrant
+preview_text: Today, learn how to have fun
+color: "#dfbaf7"
+goal: vous amuser
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: C’est bizarre, moi aussi.
+    correct: true
+  - option: C’est drôle, moi aussi.
+explanation:
+  fr: Eh oui ! c’est drôle est une expression courante pour exprimer l’amusement et
+    la surprise face à une situation inhabituelle ou comique.
+  en: "“c'est drôle”  is a common idiom to communicate one's surprise or enjoyment
+    regarding an usual or funny situation."
+words:
+- fr: C’est marrant.
+  en: That's funny.
+- fr: Quelle drôle de coïncidence.
+  en: What a strange coincidence.
+- fr: C’est drôle comme histoire.
+  en: That's a funny story.
+- fr: Ça fait drôle de rouler à droite !
+  en: How weird is driving on the right hand side!
+end_question: Racontez-nous une histoire drôle !

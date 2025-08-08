@@ -1,0 +1,29 @@
+---
+title: voici l'appoint
+preview_text: "Today, learn how to get large banknotes \U0001F4B7 \U0001F911"
+color: "#ffe5e1"
+goal: avoir de gros billets
+challenge:
+  state: 'Vous êtes à la boulangerie. Vous achetez votre baguette et vos deux croissants.
+    Vous avez seulement un billet de 50€ pour payer. Vous dites :'
+  options:
+  - option: Désolé, je n’ai pas la monnaie.
+    correct: true
+  - option: Désolé, je n’ai pas de change.
+explanation:
+  fr: Eh oui ! En français, la monnaie désigne les petites pièces qui permettent de
+    payer la somme exacte de ses achats. Le change fait référence à la conversion
+    d’une monnaie nationale.
+  en: "“change” is a false friend in French. It only refers to international currency
+    exchange. The change you're returned after you pay or turn a large banknote into
+    smaller ones or coins is “la monnaie” in French."
+words:
+- fr: Voici l’appoint !
+  en: Here is the right change!
+- fr: Vous pouvez garder la monnaie.
+  en: You can keep the change.
+- fr: Pardon, vous ne m’avez pas rendu la monnaie.
+  en: Excuse me, could I get my change please?
+- fr: Pourriez-vous me faire de la monnaie sur 10€ ?
+  en: Could you please give me 10€ in change?
+end_question: Allez, amusez-vous à faire l'appoint aujourd'hui !

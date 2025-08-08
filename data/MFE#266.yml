@@ -1,0 +1,29 @@
+---
+title: revenons à votre question
+preview_text: Today, learn how to revisit information
+color: "#ecffc1"
+goal: revenir sur une information
+challenge:
+  state: 'Votre ami vous pose une question. Vous n’avez pas la réponse et devez vérifier
+    une information. Vous répondez 5 minutes plus tard. Vous introduisez :'
+  options:
+  - option: À propos de ta question…
+    correct: true
+  - option: Au regard de ta question…
+explanation:
+  fr: |-
+    Eh oui ! à propos de est une locution
+    très pratique pour introduire un fait ou une idée.
+  en: "“à propos de” is very useful to introduce a fact or idea regarding to someone
+    or something."
+words:
+- fr: Revenons à votre question…
+  en: Let's come back to your question...
+- fr: À propos de réseaux sociaux, tu es sur Facebook ?
+  en: Talking about social networks, do you own a Facebook account?
+- fr: J’ai lu un article à ce sujet.
+  en: I read an article on this.
+- fr: Je vous contacte à la suite de votre annonce.
+  en: I am contacting you regarding your ad.
+end_question: À propos du Mon French Expresso, vous allez recevoir un mail très important
+  aujourd'hui Ne le manquez surtout pas!

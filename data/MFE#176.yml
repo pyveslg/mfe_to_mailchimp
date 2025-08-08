@@ -1,0 +1,32 @@
+---
+title: choisis l'un ou l'autre
+preview_text: Today, learn how to offer alternatives
+color: "#e5b175"
+goal: offrir des alternatives
+challenge:
+  state: 'C’est la pause déjeuner et vous avez une heure de pause. Votre collègue
+    souhaite aller au restaurant mais vous pensez que vous n’avez pas le temps. Vous
+    dites :'
+  options:
+  - option: On devrait mieux aller à la cantine.
+    correct: true
+  - option: On devrait plutôt aller à la cantine.
+explanation:
+  fr: Eh oui ! plutôt est un adverbe couramment utilisé pour indiquer une préférence.
+    Comme dans l’exemple, il suit généralement le conditionnel.
+  en: "”plutôt” (= rather) is usually adapted to indicate one's preference. As in
+    the example, it generally follows a verb conjugated at the conditional tense."
+words:
+- fr: J’hésite entre la veste bleue et la verte.
+  en: I am hesitating over wearing the blue or the green jacket.
+- fr: On prend soit un bus de nuit, soit un Uber.
+  en: |-
+    We either take a night bus
+    or a Uber.
+- fr: Choisis l’un ou l’autre.
+  en: Choose one or the other
+- fr: Entre les deux, mon cœur balance !
+  en: My heart inclines to both!
+end_question: |-
+  Allez, on va
+  au Louvre ou à Orsay ?

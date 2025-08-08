@@ -1,0 +1,28 @@
+---
+title: l’argot, ça ne s’apprend pas dans un dico
+preview_text: Today, learn how to shorten sentences
+color: "#e4eddb"
+goal: faire court
+challenge:
+  state: 'Vous invitez un ami à déjeuner avec vous un midi. Vous dites :'
+  options:
+  - option: On se fait un déjeuner ?
+    correct: true
+  - option: On se fait un déj’ ?
+explanation:
+  fr: Eh oui ! déj’ est le diminutif de déjeuner. Les deux termes sont donc synonymes.
+    Cependant, si vous voulez paraître plus parisiens, privilégiez la réponse b !
+    Raccourcir les mots est très à la mode…
+  en: "French people (and especially Parisians) like to shorten the words. Déjeuner
+    usually becomes “déj'” when speaking with friends, relatives or colleagues. But
+    it doesn't mean that Parisians spend less time to lunch \U0001F609"
+words:
+- fr: J’adore aller au ciné !
+  en: I love to go to the cinema!
+- fr: Il y a trop de pub à la télé…
+  en: There are too many ads on TV...
+- fr: Il y a des manifs prévues cet aprèm.
+  en: Protests are expected on this afternoon.
+- fr: L’argot, ça ne s’apprend pas dans un dico !
+  en: You don't learn slang in a dictionary!
+end_question: Alors, il était comment votre petit-déj'?

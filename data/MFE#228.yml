@@ -1,0 +1,27 @@
+---
+title: j’étais attendu pour 9h
+preview_text: Today, learn how to be committed
+color: "#e79fb6"
+goal: avoir des engagements
+challenge:
+  state: 'Votre enfant de 14 ans rentre à la maison à 22h30. Vous n’êtes pas content.
+    Il est autorisé à sortir jusque 22h maximum. Vous dites :'
+  options:
+  - option: Tu es censé rentrer à 22h !
+    correct: true
+  - option: Tu es supposé rentrer à 22h !
+explanation:
+  fr: Eh oui ! être censé introduit un engagement ou une responsabilité qui apparaît
+    comme non-respectée.
+  en: "“être censé [+ infinitive verb]” introduces the idea of a commitment or responsibility
+    that looks not being fulfilled."
+words:
+- fr: Je suis censé savoir ?
+  en: Am I supposed to know it?
+- fr: Je ne suis pas censé t’en parler.
+  en: I am not supposed to tell you.
+- fr: J’étais attendu pour 9h.
+  en: I was expected at 9am.
+- fr: En principe, je devais finir plus tôt.
+  en: I should have finished sooner.
+end_question: Et vous, avez-vous des engagements pour ce week-end ?

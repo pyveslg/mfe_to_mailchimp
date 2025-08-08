@@ -1,0 +1,27 @@
+---
+title: passez par là, c’est plus court.
+preview_text: Today, learn how to guide
+color: "#bcfcd2"
+goal: orienter
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: Il est au bout de la rue.
+    correct: true
+  - option: Il est à la fin de la rue.
+explanation:
+  fr: Eh oui ! au bout de est l’expression d’usage pour indiquer l’extrémité d’un
+    espace (la boulangerie est au bout de la rue) ou d’une période (j’ai dormi jusqu’au
+    bout du film).
+  en: "”au bout de” is the common idiom that indicates the end of a period or a place."
+words:
+- fr: Continuez tout droit.
+  en: Keep straight on.
+- fr: C’est juste en face du cinéma.
+  en: It's just in front of the cinema.
+- fr: Allez jusqu’au carrefour.
+  en: Walk up to the crossroads.
+- fr: Passez par là, c’est plus court.
+  en: Go this way, it's shorter.
+end_question: Alors, quel est le chemin le plus court entre le Louvre et la Tour Eiffel
+  ?

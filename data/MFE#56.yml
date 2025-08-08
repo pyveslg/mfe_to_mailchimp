@@ -1,0 +1,29 @@
+---
+title: on se fera ça une prochaine fois
+preview_text: ''
+color: "#c7f5fe"
+goal: changer de programme
+challenge:
+  state: 'Vous aviez un rendez-vous avec un ami mais il a annulé. Vous dites :'
+  options:
+  - option: Il a éventuellement annulé.
+  - option: Il a finalement annulé.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! attention, éventuellement est un faux ami !
+    On l'utilise pour exprimer la possibilité ou la potentialité d'un fait.
+    Par exemple : "Pour le vin, je passerai éventuellement chez le caviste."
+  en: |-
+    “éventuellement” does not mean eventually!
+    It should be used to express the possibility or the potential that something gets real.
+words:
+- fr: Finalement, je ne peux pas.
+  en: I ultimately just can't.
+- fr: Éventuellement, serais-tu disponible demain ?
+  en: Would you possibly be available tomorrow?
+- fr: On peut se retrouver mardi à la place ?
+  en: Can we meet on Tuesday instead?
+- fr: On se fera ça une prochaine fois.
+  en: We'll do it another time.
+end_question: Je prendrai bien éventuellement un double French expresso Pas vous ?

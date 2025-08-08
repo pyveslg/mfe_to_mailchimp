@@ -1,0 +1,32 @@
+---
+title: J'ai passé l'âge.
+preview_text: Today, learn how to communicate your age.
+color: "#ffffc1"
+goal: donner votre âge
+challenge:
+  state: 'Pour donner votre âge, vous dites :'
+  options:
+  - option: J'ai 30 ans.
+    correct: true
+  - option: Je suis 30 ans.
+explanation:
+  fr: |-
+    Eh oui ! l’âge s’exprime avec le verbe avoir.
+    En français, nous “avons” notre âge, nous ne le “sommes” pas…
+  en: |-
+    The age is expressed with the verb “avoir”.
+    In French, we possess our age, we are not it…
+words:
+- fr: Quel âge as-tu ?
+  en: How old are you?
+- fr: J’ai 30 ans.
+  en: I'm 30.
+- fr: 20 ans, c’est le bel âge !
+  en: 20, you're in your prime!
+- fr: J’ai passé l’âge !
+  en: I'm too old.
+- fr: Il s’assagit avec l’âge.
+  en: He's getting wiser as he grows older
+end_question: |-
+  Et vous,
+  quel âge avez-vous?

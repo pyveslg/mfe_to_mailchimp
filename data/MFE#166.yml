@@ -1,0 +1,31 @@
+---
+title: il dit non à tout
+preview_text: Today, learn how be a rebel
+color: "#57caec"
+goal: être rebelle
+challenge:
+  state: 'Votre fille est en primaire. Elle n’aime pas faire ses devoirs. Vous dites
+    :'
+  options:
+  - option: Elle ne voudrait jamais faire ses devoirs.
+    correct: true
+  - option: Elle ne veut jamais faire ses devoirs.
+explanation:
+  fr: "Eh oui ! Ne confondez pas le présent et le conditionnel…\nOn utilise souvent
+    vouloir au conditionnel pour exprimer poliment un désir ou une demande. Par exemple
+    : “Je voudrais un café, s’il vous plaît.” \nSi on ne fait pas une demande polie,
+    on utilise le présent : je veux / tu veux / il veut / elle veut / nous voulons
+    / vous voulez / ils veulent / elles veulent."
+  en: "“vouloir” conjugated at the conditional tense underlies a polite request or
+    a desire. Otherwise, you should use the present time! Watchout this verb changes
+    a lot depending on the subject!"
+words:
+- fr: Non, je ne veux pas.
+  en: No, I don't want to.
+- fr: Il dit non à tout…
+  en: He says no to anything...
+- fr: C’est hors de question !
+  en: It's out of question!
+- fr: Ils refusent catégoriquement de le faire.
+  en: They categorically refuse to do it.
+end_question: Et vous, qu’est-ce que vous refusez ?

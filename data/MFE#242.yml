@@ -1,0 +1,29 @@
+---
+title: je me suis senti obligé
+preview_text: Today, learn how to love life ✌️
+color: "#ffcfd7"
+goal: aimer la vie
+challenge:
+  state: 'Vous êtes heureux. Il fait beau, c’est bientôt les vacances, les gens sont
+    gentils et détendus. Vous dites :'
+  options:
+  - option: Je sens bien !
+    correct: true
+  - option: Je me sens bien !
+explanation:
+  fr: |-
+    Eh oui ! se sentir introduit un état ou un sentiment. Par exemple : je me sens fatigué.
+    Sentir (sans pronom) signifie percevoir par le toucher ou de l'odorat.
+    Par exemple : je sens une odeur de chocolat.
+  en: "“se sentir” underlies a particular state of being or a feeling whereas ”sentir”
+    is the verb used when one smells or feels (with the touch) something."
+words:
+- fr: Tu te sens mieux ?
+  en: Do you feel better?
+- fr: Il se sent jugé par l’équipe.
+  en: He feels like he's being judged by the team.
+- fr: L’important est de se sentir bien dans sa peau.
+  en: The important thing is to feel comfortable with oneself.
+- fr: Je me suis senti obligé de le lui dire.
+  en: I felt like I needed to tell him.
+end_question: Et vous, comment vous sentez-vous aujourd’hui ?

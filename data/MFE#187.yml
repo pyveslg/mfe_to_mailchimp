@@ -1,0 +1,28 @@
+---
+title: tu es superbe
+preview_text: Today, learn how to seduce
+color: "#ebc2e2"
+goal: séduire
+challenge:
+  state: 'Vous voulez faire un compliment à votre femme ou à votre mari ou séduire
+    un(e) prétendant(e). Vous dites :'
+  options:
+  - option: Tu as de beaux yeux.
+    correct: true
+  - option: Tu as des beaux yeux.
+explanation:
+  fr: |-
+    Eh oui ! des devient de devant un adjectif et un nom au pluriel.
+    Observez : [de + adjectif (1) + nom au pluriel (2)].
+    Par exemple : “Il a de grandes (1) idées (2).”
+  en: Before an adjective + a noun at the plural form, “des” becomes ”de”.
+words:
+- fr: Ahhh, l’amour…
+  en: Ahhh, love...
+- fr: Tu es superbe.
+  en: You're resplendent.
+- fr: Tu es très en beauté !
+  en: You look so beautiful!
+- fr: Pour toi, je ferais n’importe quoi !
+  en: I would do anything for you!
+end_question: Et oui, on commence la semaine avec amour !

@@ -1,0 +1,31 @@
+---
+title: je me rappelle de tout
+preview_text: ''
+color: "#f3f798"
+goal: vous souvenir
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: Je me rappellerai toujours du jour où je t’ai rencontré.
+    correct: true
+  - option: Je me rappellerai toujours du jour que je t’ai rencontré.
+explanation:
+  fr: |-
+    Eh oui ! où et un pronom relatif qui fait référence à un lieu et aussi à un moment !
+    Avec où, on peut faire des voyages spatio-temporels...
+    Observez : "C'est la maison où j'habitais l'année où je t'ai rencontré."
+  en: |-
+    With “où”, one can go on a journey in space and time...
+    “où” can indeed name either “where” or “when”, when that “when” refers to a specific moment.
+words:
+- fr: Je me rappelle de tout.
+  en: I can recall everything.
+- fr: Te souviens-tu de nos 20 ans ?
+  en: Do you remember when we were in our twenties?
+- fr: Je n’oublierai jamais ton sourire.
+  en: I will never forget your smile.
+- fr: Je m’en souviens comme si c’était hier.
+  en: I can vividly remember it.
+end_question: |-
+  Et vous,
+  quel est le plus beau jour de votre vie ?

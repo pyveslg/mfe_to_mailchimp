@@ -1,0 +1,27 @@
+---
+title: justement, j'allais en parler
+preview_text: Today, learn how to put someone right
+color: "#c7f3ff"
+goal: corriger
+challenge:
+  state: 'Un ami vous demande si vous habitez à Paris. Vous dites :'
+  options:
+  - option: Actuellement, j’habite à Versailles, à côté de Paris.
+    correct: true
+  - option: En fait, j’habite à Versailles, à côté de Paris.
+explanation:
+  fr: Eh oui ! actuellement est un faux ami... Pour apporter une précision ou une
+    correction, l’expression couramment utilisée est en fait, synonyme de en réalité.
+    Actuellement est un marqueur de temps, c’est un synonyme de en ce moment.
+  en: "“Actuellement” does not mean “actually” but ”currently”.\nAn English teacher
+    would say the same to its French students \U0001F605"
+words:
+- fr: En fait, j’ai des origines françaises.
+  en: Actually, I have French roots.
+- fr: Finalement, c’était une excellente idée.
+  en: That was an great idea in the end.
+- fr: En réalité, on se connaît peu.
+  en: We actually don't know each other a lot.
+- fr: Justement, j’allais en parler…
+  en: Actually, I was just about to speak about it...
+end_question: Et vous, vous habitez à côté de la Tour Eiffel ?

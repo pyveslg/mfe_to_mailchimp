@@ -1,0 +1,30 @@
+---
+title: on se vouvoie toujours
+preview_text: Today, learn how to bypass formality
+color: "#efe891"
+goal: casser les formalités
+challenge:
+  state: 'Cette personne utilise le “vous” pour vous parler. Vous dites :'
+  options:
+  - option: On peut se tutoyer.
+    correct: true
+  - option: On peut se dire tu.
+explanation:
+  fr: |-
+    Eh oui! tutoyer signifie utiliser le tu pour parler à un interlocuteur.
+    Par exemple : “Je tutoie tous mes collègues.”.
+    Tutoyer est donc synonyme de dire tu mais l’expression dire tu est moins souvent utilisée.
+  en: "“Tutoyer” and “dire tu” are strict synonymous verbs even if “dire tu” is usually
+    less used.\nNotice that this kind of sentences are used to offer to use the more
+    intimate “tu” to someone who talked to you with the formal “vous”. When should
+    you do that ? This chart might help you a bit...\U0001F609"
+words:
+- fr: Dis-moi tu !
+  en: Tell me “tu” !
+- fr: Tu peux me tutoyer !
+  en: You can tell me “tu”!
+- fr: Je tutoie facilement les gens.
+  en: I often say “tu” to the people I meet.
+- fr: On se vouvoie toujours.
+  en: We still talk to each other with the formal “vous”.
+end_question: Et vous, vous tutoyez ou vous vouvoyez vos collègues ?

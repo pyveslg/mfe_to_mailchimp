@@ -1,0 +1,26 @@
+---
+title: comme convenu, vous trouverez l’invitation ci-jointe
+preview_text: Today, learn how to get in touch with somebody
+color: "#fdaed8"
+goal: prendre contact
+challenge:
+  state: 'Vous écrivez :'
+  options:
+  - option: Suite à notre conversation, …
+  - option: Après notre conversation, …
+explanation:
+  fr: Eh oui ! suite à est l’expression d’usage pour introduire et justifier une prise
+    de contact. Elle permet d’intégrer votre message dans la continuité d’un échange.
+  en: "“Suite à” is a very handy and common way to start your email or call when you
+    want to refer to a past conversation/call that somewhat justifies that you are
+    writing or calling..."
+words:
+- fr: Je vous contacte suite à votre annonce.
+  en: I'm contacting you regarding your ad.
+- fr: Comme convenu, vous trouverez l’invitation ci-jointe.
+  en: As agreed, please, find the attached invitation.
+- fr: Je me permets de vous contacter.
+  en: I am contacting with you (polite)
+- fr: Il n’a pas donné suite à mon message.
+  en: She did not act on my message.
+end_question: "A demain pour la suite ! \U0001F609"

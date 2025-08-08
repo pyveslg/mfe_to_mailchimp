@@ -1,0 +1,29 @@
+---
+title: vous acceptez la carte
+preview_text: Today, learn how to pay
+color: "#f1d4d4"
+goal: payer
+challenge:
+  state: 'Vous êtes au café. Vous voulez payer votre commande. Vous demandez :'
+  options:
+  - option: Puis-je payer par carte ?
+    correct: true
+  - option: Puis-je régler par carte ?
+explanation:
+  fr: |-
+    Eh oui ! régler est un synonyme de payer.
+    En France, parler directement d’argent est généralement tabou.
+    Le verbe régler est donc une alternative élégante au verbe payer.
+  en: "“Régler” and “payer” both mean “to pay”. “Régler” is however a much refined
+    and... preferable option as speaking openly about money is generally considered
+    as a taboo in France!"
+words:
+- fr: Vous acceptez la carte ?
+  en: Do you accept debit cards?
+- fr: Je peux régler par carte ?
+  en: Can I pay by card?
+- fr: On accepte la carte à partir de 15€.
+  en: Payments by card are accepted from 15€
+- fr: Vous auriez la monnaie ?
+  en: Would you have the change?
+end_question: "Aujourd'hui, on vous offre votre French Expresso ! \U0001F609"

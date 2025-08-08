@@ -1,0 +1,28 @@
+---
+title: je passerai vous dire bonjour
+preview_text: Today, learn how to host
+color: "#affad3"
+goal: avoir des invités
+challenge:
+  state: 'Après l’apéro, vous leur proposez de commencer le dîner. Vous dites :'
+  options:
+  - option: On passe à table ?
+  - option: On va à table ?
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Le verbe passer à beaucoup de sens différents !
+    Dans ce contexte, passer signifie quitter un lieu pour aller dans un autre.
+  en: |-
+    the verb ”passer” as it has a many meanings in French (and you will then hear to it very often!).
+    In this context, “passer” means to leave a place to go to another one.
+words:
+- fr: Allez, on passe au salon !
+  en: Let's move to the living room!
+- fr: Pourrais-tu me passer le sel, s’il te plaît ?
+  en: Could you please pass the salt?
+- fr: Passons à autre chose.
+  en: Let's move on.
+- fr: Je passerai vous dire bonjour.
+  en: I will pop in to say hello.
+end_question: Passez-moi le sucre, s’il vous plaît… pour Mon French Expresso !

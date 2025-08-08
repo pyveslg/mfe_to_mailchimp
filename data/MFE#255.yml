@@ -1,0 +1,30 @@
+---
+title: je prends le métro tous les jours
+preview_text: Today, learn how to have routines
+color: "#e6e6fa"
+goal: avoir un rythme
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: Chaque deux heures.
+    correct: true
+  - option: Toutes les deux heures.
+explanation:
+  fr: |-
+    Eh oui ! chaque et tous/toutes introduisent la répétition et la fréquence.
+    Mais attention : Chaque est singulier > chaque dimanche
+    Tous et toutes s’accordent avec le pluriel > tous les dimanches / toutes les semaines.
+  en: |-
+    “Chaque” et “tous/toutes” are used to mention repetition and frequency.
+    Be careful, ”chaque” is always at the singular form whereas “tous” and “toutes” will be used with plurals.
+    (“tous” for masculine words  - ”toutes” for feminine words”
+words:
+- fr: Je prends le métro tous les jours.
+  en: I take the metro every day.
+- fr: Mon fils réclame une attention de chaque instant.
+  en: My son demands a constant attention.
+- fr: C’est chaque fois la même chose !
+  en: It's always the same!
+- fr: Il est tout le temps en retard.
+  en: He's always late.
+end_question: Et vous, lisez-vous vos French Expresso régulièrement ?

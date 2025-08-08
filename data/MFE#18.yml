@@ -1,0 +1,31 @@
+---
+title: qui ne tente rien n'a rien
+preview_text: ''
+color: "#a24ce8"
+goal: parler une bonne fois pour toute* d'un sujet en particulier
+challenge:
+  state: 'Pour demander à votre collègue de vous donner un dossier en particulier,
+    vous dites :'
+  options:
+  - option: Passe-moi le dossier qu'est sur la table.
+  - option: Passe-moi le dossier qui est sur la table.
+    correct: true
+explanation:
+  fr: "Eh oui ! \n“qu' ” vous semblerait plus exact devant un mot qui commence par
+    une voyelle... comme le ou la qui deviennent l', ou que qui devient qu'...\nMais
+    qui est une exception et ne s'élide jamais devant une voyelle."
+  en: |-
+    “qu' ” might look to you more accurate as qui is just followed by a word starting with a vowel.
+    That's what would definitely happen in nearly all situations :
+    “le” and “la” would lose their final vowel as well as “que“ that would become ”qu' ”.
+    “Qui” is THE exception and will always remain the same whatever the following word starts with!
+words:
+- fr: Qui ne tente rien n'a rien.
+  en: Who dares wins!
+- fr: Essaye-le ! Qui sait... ça t'ira peut-être !
+  en: Try it on! Who knows... it might suit you!
+- fr: Ça m'enquiquine un peu...
+  en: That bothers me a little. (casual)
+- fr: Ça, c'est toi qui le dis.
+  en: You say so. (= still needs to be proved)
+end_question: Alors, qu'est-ce donc ce “qui” qui vous enquiquine ?

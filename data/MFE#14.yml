@@ -1,0 +1,31 @@
+---
+title: au fait, ça te dirait de venir ?
+preview_text: ''
+color: "#fff957"
+goal: dire une bonne fois pour toute* où vous allez
+challenge:
+  state: 'Pour parler de votre soirée de la veille, vous dites :'
+  options:
+  - option: Je suis allé à le cinéma.
+  - option: Je suis allé au cinéma.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Mis côte à côte, à + le fusionnent et deviennent au.
+    Au pluriel aussi : à + les deviennent aux.
+  en: |-
+    I am going to the swimming pool. In French, to is translated by "à".
+    But when used side by side, "à + le" merge and become "au".
+    In the same way, "à + les" (plural) become "aux".
+words:
+- fr: C’est le café au bout de la rue.
+  en: It's the café down the street.
+- fr: Au fait, ça te dirait de venir ?
+  en: By the way, would you like to come?
+- fr: Je te tiens au courant.
+  en: I will let you know.
+- fr: Je réserve toujours au dernier moment !
+  en: I always make last-minute reservation!
+end_question: |-
+  Et vous,
+  où êtes-vous allé hier ?

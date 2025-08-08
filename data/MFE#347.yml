@@ -1,0 +1,29 @@
+---
+title: si seulement tu savais
+preview_text: Today, learn how to imagine
+color: "#ddf3f5"
+goal: imaginer
+challenge:
+  state: 'Vos amis veulent aller au parc mais ils ne savent pas où aller. Vous dites
+    :'
+  options:
+  - option: Si vous alliez aux Buttes Chaumont, vous pourriez pique-niquer.
+    correct: true
+  - option: Si vous iriez aux Buttes Chaumont, vous pourriez pique-niquer.
+explanation:
+  fr: Eh oui ! La structure si + imparfait + conditionnel permet de formuler des hypothèses.
+    Attention à ne pas utiliser deux fois de suite le conditionnel !
+  en: |-
+    The structure [si + imparfait + conditionnel] is used for laying an assumption.
+    Be careful not to use the conditional tense twice in a row !
+words:
+- fr: Si tu le voulais, tu pourrais.
+  en: If you wanted to, you could.
+- fr: Si j’étais riche, j’achèterais une maison sur la Côte d’Azur.
+  en: If I were rich, I would buy a house in the French Riviera.
+- fr: Ce serait bien si tu venais.
+  en: That would be nice if you came.
+- fr: Si seulement tu savais.
+  en: If only you knew.
+end_question: Et vous, comment est-ce que vous pourriez passer une journée parfaite
+  ?

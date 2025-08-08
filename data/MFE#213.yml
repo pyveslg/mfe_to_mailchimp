@@ -1,0 +1,27 @@
+---
+title: c'est la vie
+preview_text: Today, learn how to take some distance
+color: "#dbb4cd"
+goal: prendre de la distance
+challenge:
+  state: 'Votre collègue est scandalisé. Le chauffeur de taxi ne l’a pas aidé à porter
+    ses bagages. Vous pensez que c’est un problème banal. Vous dites :'
+  options:
+  - option: Ça se passe…
+  - option: Ça arrive…
+    correct: true
+explanation:
+  fr: Eh oui ! ça arrive est une expression couramment utilisée pour commenter qu’un
+    fait est courant, banal ou même inévitable.
+  en: "“ça arrive” is a common idiom to mean that something can happen as it's common
+    or inevitable."
+words:
+- fr: C’est la vie !
+  en: C'est la vie! / That's life!
+- fr: Il faut savoir faire la part des choses.
+  en: One has to put things into perspective.
+- fr: Ce sont des choses qui arrivent.
+  en: It happens.
+- fr: Prends du recul, ce n’est pas si grave.
+  en: Get some distance. It's not so serious.
+end_question: Et vous, faites-vous encore des erreurs en français ?

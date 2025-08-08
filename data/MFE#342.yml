@@ -1,0 +1,29 @@
+---
+title: qu’est-ce que c’est
+preview_text: Today, learn how to mention something without naming it
+color: "#ffc4a3"
+goal: évoquer
+challenge:
+  state: 'Vous demandez à votre ami le nom de l’aliment. Vous dites :'
+  options:
+  - option: Tu sais ce que c’est ?
+    correct: true
+  - option: Tu sais ce quoi c’est ?
+explanation:
+  fr: |-
+    Eh oui ! Pour parler d’une chose sans la nommer,
+    on utilise le pronom relatif ce que.
+    Par exemple : L’aliment que tu m’as donné. > Ce que tu m’as donné.
+  en: To mention something without saying its name, you can use the pronoun “ce que”.
+words:
+- fr: Qu’est-ce que c’est ?
+  en: What is this ?
+- fr: Je me demande ce que c’est.
+  en: I wonder what it is.
+- fr: C’est ce que je voulais dire.
+  en: That’s what I meant.
+- fr: Faites ce que je dis et pas ce que je fais !
+  en: Do as I say and not as I do.
+end_question: |-
+  Et vous, dites-nous
+  ce que vous allez faire aujourd’hui !

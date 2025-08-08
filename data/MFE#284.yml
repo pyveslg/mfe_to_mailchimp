@@ -1,0 +1,26 @@
+---
+title: pourquoi pas
+preview_text: Today, learn how to be brave
+color: "#8ed6ff"
+goal: être courageux
+challenge:
+  state: 'Il hésite à demander un financement par l’entreprise. Vous dites :'
+  options:
+  - option: Ça ne coûte rien d’essayer !
+    correct: true
+  - option: Ça ne vaut rien d’essayer !
+explanation:
+  fr: Eh oui ! ça ne coûte rien de permet d’introduire une idée facile à réaliser
+    et qui ne représente pas de risque.
+  en: "“ça ne coûte rien de” is a common idiom used to mean that something should
+    be easy to do and that it costs nothing to give it a try."
+words:
+- fr: Pourquoi pas !
+  en: Why not?
+- fr: Ça ne fait pas de mal d’y croire.
+  en: It doesn't hurt to believe it.
+- fr: Pourquoi ne pas demander ?
+  en: Why not ask?
+- fr: Qui ne tente rien n’a rien !
+  en: nothing ventured, nothing gained!
+end_question: "Et vous, viendrez-vous à l'atelier animé ce soir par Fabienne ? \U0001F609"

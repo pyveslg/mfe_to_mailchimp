@@ -1,0 +1,26 @@
+---
+title: j’ai mon idée sur la question
+preview_text: ''
+color: "#d4b2e8"
+goal: annoncer une bonne fois pour toute* des noms récalcitrants
+challenge:
+  state: 'Pour présenter votre amie, vous dites :'
+  options:
+  - option: C'est ma amie.
+  - option: C'est mon amie.
+    correct: true
+explanation:
+  fr: Eh oui ! Pour des raisons de phonétique, même si le nom est féminin, on utilise
+    les déterminants masculins mon, ton ou son devant une voyelle.
+  en: For phonetic reasons, even if the noun is feminine, we use the masculine version
+    of my, your, his/her, before every word starting with a vowel.
+words:
+- fr: Son explication est très claire.
+  en: Her explanation is very clear.
+- fr: J’aurais besoin de ton aide.
+  en: I would need your help.
+- fr: Ton opinion compte pour moi !
+  en: Your opinion matters to me.
+- fr: J’ai mon idée sur la question.
+  en: I have my own idea on the subject.
+end_question: Et vous, comment s'appelle votre amie ?

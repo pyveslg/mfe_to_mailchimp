@@ -1,0 +1,27 @@
+---
+title: tu pars déjà
+preview_text: Today, learn how to leave a party
+color: "#c7f0db"
+goal: quitter une soirée
+challenge:
+  state: 'Vous quittez une soirée. Pour annoncer votre départ, vous dites :'
+  options:
+  - option: J’y vais !
+    correct: true
+  - option: Je file !
+explanation:
+  fr: Eh oui ! filer est un synonyme informel de y aller. On utilise souvent cette
+    expression au moment de quitter un lieu.
+  en: "”filer” is a more informal and much used synonym of “y aller” (= to leave)."
+words:
+- fr: Je dois filer !
+  en: I have to leave!
+- fr: Allez, on file ?
+  en: Come on, shall we go?
+- fr: Tu pars déjà ?
+  en: Are you leaving already?
+- fr: Il faut que j’y aille !
+  en: I have to go!
+end_question: |-
+  Allez, on file !
+  On vous dit à la semaine prochaine !

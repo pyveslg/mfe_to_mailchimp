@@ -1,0 +1,28 @@
+---
+title: vivement Noël
+preview_text: Today, learn how to be impatient
+color: "#55b3f3"
+goal: être impatient
+challenge:
+  state: 'Noël arrive et vous êtes impatient. Vous dites :'
+  options:
+  - option: J’espère Noël avec impatience.
+    correct: true
+  - option: J’attends Noël avec impatience.
+explanation:
+  fr: |-
+    Eh oui ! Ne confondez pas attendre et espérer.
+    Attendre implique la patience. Par exemple : “J’attends que les vacances arrivent.”
+    Espérer implique l’espoir et le désir. Par exemple : “J’espère qu’il neigera à Noël.”
+  en: Be careful of not mixing up “attendre” and “espérer”. “attendre” underlies patience
+    (to wait) whereas “espérer” underlies hope and wish.
+words:
+- fr: Vivement Noël !
+  en: I can't wait for Christmas!
+- fr: Chaque Noël, j’attends l’arrivée du Père-Noël.
+  en: Every Christmas, I wait for Santa.
+- fr: Il va arriver, il se fait un peu désirer.
+  en: He's on his way. He's getting expected a bit.
+- fr: Tout vient à point à qui sait attendre.
+  en: All things come to those who wait.
+end_question: Et vous, attendez-vous encore le Père Noël ?

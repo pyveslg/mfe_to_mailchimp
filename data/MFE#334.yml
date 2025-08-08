@@ -1,0 +1,31 @@
+---
+title: Tu es l’amour de ma vie ❤
+preview_text: Today, learn how to love
+color: "#f67280"
+goal: aimer
+challenge:
+  state: 'Vous pensez :'
+  options:
+  - option: C’est le grand amour !
+    correct: true
+  - option: C’est l’amour grand !
+explanation:
+  fr: |-
+    Eh oui ! En français, les adjectifs sont généralement placés après le nom.
+    Mais grand est une exception ! Il se place avant le nom !
+    Voici quelques exceptions :
+    gros, petit, grand, beau, vieux, jeune, nouveau, meilleur, mauvais,...
+  en: |-
+    Although adjectives are usually placed after the noun, « grand » is one of the exceptions.
+    See above some common exceptions that are placed before the noun
+words:
+- fr: C’est mon petit copain.
+  en: He’s my boyfriend.
+- fr: C’est le grand amour !
+  en: It is true love !
+- fr: Tu es l’amour de ma vie.
+  en: You are the love of my life.
+- fr: J’ai trouvé mon âme sœur.
+  en: I found my soul mate.
+end_question: On vous souhaite de passer la Saint Valentin avec l'amour de votre vie
+  ou de le trouver très bientôt ! ❤️

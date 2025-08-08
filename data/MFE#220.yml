@@ -1,0 +1,30 @@
+---
+title: joyeux anniversaire
+preview_text: "Today, learn how to wish happy birthday \U0001F389"
+color: "#fcfc99"
+goal: souhaiter un joyeux anniversaire
+challenge:
+  state: 'C’est l’anniversaire de l’un de vos collègues. Vous informez discrètement
+    vos autres collègues. Vous dites :'
+  options:
+  - option: C’est l’anniversaire à Fabienne.
+  - option: C’est l’anniversaire de Fabienne.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Les prépositions de et à peuvent marquer l’appartenance.
+    Mais entre deux noms, de est la préposition appropriée.
+    Par exemple : Je vais à la fête de Julie.
+  en: Both “de” and “à” prepositions may underly a relationship of belonging between
+    one thing and another. When used between 2 nouns, “de” is the only one which is
+    appropriate. Eg. Julie's party > “la fête de Julie”
+words:
+- fr: Joyeux anniversaire !
+  en: Happy birthday!
+- fr: Très bonne fête d’anniversaire !
+  en: Happy birthday!
+- fr: Je te souhaite un joyeux anniversaire !
+  en: I wish you a happy birthday!
+- fr: Fais une petite fête, histoire de marquer le coup !
+  en: You should organise a party to mark the occasion!
+end_question: Au fait, c'est vraiment l'anniversaire de Fabienne aujourd'hui

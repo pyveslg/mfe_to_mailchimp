@@ -1,0 +1,27 @@
+---
+title: c'est totalement différent
+preview_text: Today, learn how to make connections
+color: "#fef4e8"
+goal: faire des liens
+challenge:
+  state: 'Vous pensez que c’est très différent. Vous dites :'
+  options:
+  - option: Ça n’a aucun rapport !
+    correct: true
+  - option: Ça n’a aucune relation !
+explanation:
+  fr: Eh oui ! n’avoir aucun rapport est une expression courante pour dire que deux
+    choses n’ont pas de lien entres elles ou qu’elles sont totalement différentes.
+  en: "”n'avoir aucun rapport” is a common and useful idiom to say that two ideas
+    or facts have no connections and are completely different things."
+words:
+- fr: C’est totalement différent !
+  en: It's completely different!
+- fr: Ça n’a vraiment rien à voir avec toi.
+  en: It has absolutely nothing to do with you.
+- fr: C’est comme comparer des choux et des carottes.
+  en: It's like comparing apples and oranges.
+- fr: Ça n’a rien à voir avec la choucroute !
+  en: That's beside the point!
+end_question: Selon vous, quelle est la différence entre la Tour Eiffel et le Taj
+  Mahal ?

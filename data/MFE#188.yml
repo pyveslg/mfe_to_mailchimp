@@ -1,0 +1,28 @@
+---
+title: ouf !
+preview_text: Today, learn how to feel relieved
+color: "#9aeded"
+goal: être soulagé
+challenge:
+  state: 'Un ami a un problème de santé récurrent. Il a passé des examens à l’hôpital.
+    Il vous annonce que tout va bien, ses problèmes sont bénins. Vous dites :'
+  options:
+  - option: Tant bien !
+  - option: Tant mieux !
+    correct: true
+explanation:
+  fr: Eh oui ! tant mieux est une expression couramment utilisée pour exprimer le
+    soulagement ou la satisfaction face à un événement positif.
+  en: |-
+    “tant mieux” is the French equivalent of “so much the better” in English.
+    It's a very common idiom when you're relieved or satisfied by a positive event.
+words:
+- fr: Ouf !
+  en: Phew!
+- fr: Quelle bonne nouvelle !
+  en: Such good news !
+- fr: Heureusement que tu es là !
+  en: Thank goodness you're here!
+- fr: Tant mieux pour toi.
+  en: Lucky you.
+end_question: "À la semaine prochaine !\n\nMais non, on revient demain ! \U0001F609"

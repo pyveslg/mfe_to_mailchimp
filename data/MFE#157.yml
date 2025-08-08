@@ -1,0 +1,35 @@
+---
+title: je passe les vacances en famille
+preview_text: Today, learn how to speak about your family
+color: "#04dead"
+goal: parler de votre famille
+challenge:
+  state: |
+    Vous invitez un ami à un repas de famille.
+    Vous lui présentez vos parents. Vous dites :
+  options:
+  - option: C'est mes parents.
+  - option: Ce sont mes parents.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! La structure _**c'est** + nom_ est un présentatif. **Le verbe _être_ est conjugué** au singulier ou au pluriel **selon le complément**…
+    Observez : _C'**est ~ma~ mère**._ mais _Ce **sont ~mes~ parents**._
+  en: |
+    As strange as it might sound, in this expression, the verb conjugates according
+    to its complement. It's so strange that many French people make the mistake...
+    But this is by no means a good reason to make the mistake as well! 😉"
+words:
+- fr: |
+    **C'est de famille** !
+  en: It runs in the family!
+- fr: |
+    **C'était l'idée de** ma sœur.
+  en: It was my sister's idea.
+- fr: |
+    Ce sont mes **cousins germains**.
+  en: They are my first cousins.
+- fr: |
+    Je passe l'après-midi **en famille**.
+  en: I'm spending the afternoon with my family.
+end_question: Et vous, avec qui passez-vous vos vacances d'été ?

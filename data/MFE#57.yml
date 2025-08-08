@@ -1,0 +1,32 @@
+---
+title: c’est hors de question
+preview_text: ''
+color: "#fcc8f8"
+goal: dire non
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: Non, je ne préfère…
+  - option: Non, je ne préfère pas…
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! la négation est toujours composée de 2 éléments :
+    ne + pas, placés autour du verbe.
+    Vous ne pourrez pas dire que je ne vous l'avais pas dit ;-)
+  en: |-
+    Negation is always built with 2 elements
+    and most of the time with “ne...pas”. What's in between? The verb!
+    So magic formula is : “ne + conjugated verb + pas”.
+words:
+- fr: Non, je ne crois pas.
+  en: No, I dont' think so.
+- fr: Non, je ne suis pas d’accord.
+  en: No, I disagree.
+- fr: Absolument pas !
+  en: Absolutely not!
+- fr: C’est hors de question !
+  en: There is no way!
+end_question: |-
+  Alors,
+  on va chercher Mona Lisa ?

@@ -1,0 +1,30 @@
+---
+title: qu'en dis-tu
+preview_text: Today, learn how to make a reference
+color: "#edbab6"
+goal: faire référence
+challenge:
+  state: 'Votre collègue veut parler d’un projet à votre responsable mais il est absent
+    jusque lundi prochain. Vous dites :'
+  options:
+  - option: Tu en lui parleras lundi.
+  - option: Tu lui en parleras lundi.
+    correct: true
+explanation:
+  fr: "Eh oui ! Quand il y a plusieurs pronoms, il faut les mettre dans l’ordre…\nPensez
+    que en est toujours placé en dernier.\nPar exemple : “J’achète des croissants
+    à mes enfants.” > “Je leur en achète.” \n“Je me souviens de cette histoire.” >
+    “Je m’en souviens.”"
+  en: |-
+    Ordering the pronouns (le, la, leur, en, y, me, te, se, lui... and so on!) in a French sentence is quite a challenge ! But with the ”en”, things are a bit easier! In a series of pronouns, “en” is always ranked last!
+    Look carefully at the examples above!
+words:
+- fr: Ne m’en parle pas…
+  en: Don't tell me...
+- fr: Tu m’en demandes trop.
+  en: You're too demanding.
+- fr: Je n’en sais rien !
+  en: I have no idea!
+- fr: Qu’en dis-tu ?
+  en: What do you think about it?
+end_question: Et vous, qu’en pensez-vous de ce en ?

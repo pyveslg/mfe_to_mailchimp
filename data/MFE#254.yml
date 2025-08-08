@@ -1,0 +1,27 @@
+---
+title: ne jamais dire jamais
+preview_text: "Today, learn how to forbid \U0001F6D1"
+color: "#f2f3ee"
+goal: interdire
+challenge:
+  state: 'Vous mettez une note sur la fenêtre. Vous écrivez :'
+  options:
+  - option: Ne pas ouvrir la fenêtre !
+    correct: true
+  - option: N’ouvrir pas la fenêtre !
+explanation:
+  fr: 'Eh oui ! Si le verbe est à l’infinitif, les deux éléments de la négation sont
+    placés devant le verbe : [ne pas] + infinitif.'
+  en: In a sentence in which an infinitive verb is used at the negative form, the
+    two elements necessary to form the negation (“ne...pas”) must be placed before
+    the verb.
+words:
+- fr: Être ou ne pas être…
+  en: To be or not to be...
+- fr: Ne pas me déranger !
+  en: Do not disturb me
+- fr: Ne jamais dire jamais.
+  en: Never say never.
+- fr: On m’a dit de ne pas passer Barbès.
+  en: I was told not to go through Barbès.
+end_question: "On lance un nouveau cours du soir! Pourquoi ne pas en profiter ? \U0001F60A"

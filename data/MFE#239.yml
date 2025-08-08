@@ -1,0 +1,31 @@
+---
+title: à qui est ce ballon
+preview_text: Today, learn how to own things
+color: "#e6fad4"
+goal: posséder
+challenge:
+  state: 'Vous avez perdu votre stylo dans la salle de réunion. Un collègue le trouve
+    et demande à qui est le stylo. Vous répondez :'
+  options:
+  - option: Le stylo est de moi !
+    correct: true
+  - option: Le stylo est à moi !
+explanation:
+  fr: |-
+    Eh oui ! Les prépositions de et à peuvent marquer l’appartenance.
+    La préposition à est utilisée :
+    > après un verbe, par exemple : ce stylo est à mon frère.
+    > devant un pronom, par exemple : c’est un ami à nous.
+  en: |-
+    Both ”de” and “à” can underlie possession.
+    The “à” preposition is used either after a verb or before a pronoun (“moi, toi, lui, elle, nous, vous, eux”)
+words:
+- fr: C’est mon ami.
+  en: He's my friend.
+- fr: C’est le mien.
+  en: It's mine.
+- fr: À qui est ce ballon ?
+  en: Whose ball is it?
+- fr: Un tien vaut mieux que deux tu l’auras.
+  en: A bird in the hand is worth two in the bush.
+end_question: D'après vous, à quelle équipe sera la coupe du monde cette année ? ⚽

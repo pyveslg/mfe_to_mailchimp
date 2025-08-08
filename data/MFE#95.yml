@@ -1,0 +1,28 @@
+---
+title: je te sers un café
+preview_text: Today, learn how to welcome people at home
+color: "#cedcc3"
+goal: recevoir
+challenge:
+  state: 'Vous les invitez à s’installer et prendre un verre. Vous dites :'
+  options:
+  - option: Sers-toi !
+    correct: true
+  - option: Aide-toi !
+explanation:
+  fr: |-
+    Eh oui! “Sers-toi !” est une phrase couramment utilisée pour encourager ses invités à prendre ce dont ils ont besoin.
+    Dans une relation plus formelle, vous direz : “Servez-vous !”.
+  en: |-
+    “Sers-toi” is the right way to invite someone to help oneself.
+    In more formal context, “servez-vous” should be used.
+words:
+- fr: Tu prends un café ?
+  en: Would you like a coffee?
+- fr: Je vous sers un verre ?
+  en: Can I get you something to drink?
+- fr: Fais comme chez toi !
+  en: Help yourself!
+- fr: On n’est jamais mieux servi que par soi-même.
+  en: God helps those who help themselves.
+end_question: Et oui, Mon French Expresso est servi avec amour chaque matin!

@@ -1,0 +1,31 @@
+---
+title: fais comme tu veux
+preview_text: Today, learn how to give choices
+color: "#f6f6f6"
+goal: donner le choix
+challenge:
+  state: 'Vous proposez une glace à votre nièce. Vous lui proposez de la glace au
+    chocolat ou à la vanille. Vous dites :'
+  options:
+  - option: Dis-moi ce que tu préfères.
+    correct: true
+  - option: Dis-moi qu’est-ce que tu préfères.
+explanation:
+  fr: "Eh oui ! Ne confondez pas ce que et qu’est-ce que.\nCe que est inséré dans
+    une phrase affirmative > dis-moi ce que tu préfères. \nQu’est-ce que est utilisé
+    au début d’une phrase interrogative \n> qu’est-ce que tu préfères ?"
+  en: |-
+    “ce que” and “qu'est-ce que” can be misleading sometimes as both mean “what”.
+    “ce que” is in a statement sentence whereas ”qu'est-ce que” lays in a question sentence.
+words:
+- fr: Qu’est-ce que tu prends ?
+  en: What will you have?
+- fr: Fais comme tu veux.
+  en: Do as you like.
+- fr: C’est tout ce qu’il me reste.
+  en: That's all I have left.
+- fr: Faites ce que je dis, pas ce que je fais…
+  en: Do as I say, not as I do...
+end_question: |-
+  Et vous,
+  vous utilisez ce que nous vous apprenons ?

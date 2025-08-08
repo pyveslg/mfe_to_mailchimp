@@ -1,0 +1,28 @@
+---
+title: on ne sait jamais
+preview_text: ''
+color: "#afffdf"
+goal: parler d'inconnus
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: On m’a conseillé Le roi Arthur.
+    correct: true
+  - option: Des gens m’ont conseillé Le roi Arthur.
+explanation:
+  fr: Eh oui ! dans ce contexte, on représente une ou plusieurs personnes dont l'identité
+    n'est pas précisée.
+  en: In this context, “on” stands for a person or many people whose identity is not
+    specified.
+words:
+- fr: C’est la vie, comme on dit…
+  en: That's life, as they say...
+- fr: On dirait qu’il va pleuvoir.
+  en: It looks like it's going to rain.
+- fr: Essaye, on ne sait jamais.
+  en: Try it on, you never know.
+- fr: Il se préoccupe trop du qu’en-dira-t-on.
+  en: He worries too much about gossip.
+end_question: |-
+  Et vous,
+  quel est le dernier film qu'on vous a conseillé ?

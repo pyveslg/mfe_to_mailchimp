@@ -1,0 +1,33 @@
+---
+title: Il a fini par venir avec nous
+preview_text: Today, learn how to point out a change
+color: "#ecce6d"
+goal: pointer un changement
+challenge:
+  state: 'Aujourd’hui, votre voisin vous demande si vous l’avez retrouvé. Vous dites
+    :'
+  options:
+  - option: Finalement, je l’ai retrouvé.
+    correct: true
+  - option: Eventuellement, je l’ai retrouvé.
+explanation:
+  fr: |-
+    Eh oui ! Pour souligner un changement,
+    on utilise des adverbes et des expressions de temps, comme finalement.
+
+    Attention ! L’adverbe éventuellement est un faux ami.
+    Il n’exprime pas la succession d’événements, mais l’hypothèse.
+    Exemple : Ce projet peut éventuellement prendre du temps.
+  en: |-
+    To emphasize a change, expressions and adverbs of time such as « finalement » can be used.
+    Careful! The adverb «éventuellement » is a false friend and does not mean « eventually », but « possibly »!
+words:
+- fr: Finalement, j’ai changé d’avis.
+  en: Ultimately, I changed my mind.
+- fr: Finalement, il ne pourra pas venir.
+  en: As it turns out, he won’t be able to come.
+- fr: En fin de compte, il ne viendra pas.
+  en: In the end, he won’t be coming.
+- fr: Il a fini par venir avec nous.
+  en: He ended up coming with us.
+end_question: Et vous, vous avez fini par vous habituer à la vie parisienne ?

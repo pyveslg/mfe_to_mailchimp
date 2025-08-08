@@ -1,0 +1,25 @@
+---
+title: peu importe
+preview_text: Today, learn how to minimize a problem ! ➡️⬅️
+color: "#af05aa"
+goal: minimiser un problème
+challenge:
+  state: 'Votre collègue vous envoie un message :'
+  options:
+  - option: Ce n'est pas grave !
+    correct: true
+  - option: Ce n'est pas une affaire !
+explanation:
+  fr: Eh oui ! “Ce n'est pas grave” est une expression couramment utilisée pour dire
+    que le problème n'est pas sérieux.
+  en: "“Ce n'est pas grave” is a common French way to mean that it's no big deal."
+words:
+- fr: Peu importe !
+  en: Whatever!
+- fr: Ça n'a pas d'importance.
+  en: It's no big deal.
+- fr: Pas la peine d’en faire une montagne.
+  en: It's not worth making a mountain out of a molehill .
+- fr: Ne t’en fais pas, c’est sans importance.
+  en: Don't worry, it does not matter.
+end_question: "Oh deux jours sans Mon French Expresso\U0001F62D"

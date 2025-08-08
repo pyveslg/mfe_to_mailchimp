@@ -1,0 +1,26 @@
+---
+title: bien sûr
+preview_text: Today, learn how to be reactive
+color: "#ffe867"
+goal: être réactif
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: C'est comme si c'était fait !
+    correct: true
+  - option: Considère comme si c'était fait !
+explanation:
+  fr: Eh oui ! c’est comme si c'était fait ! est une expression très courante pour
+    confirmer que l'on accepte une mission.
+  en: "“c'est comme si c'était fait” is a very common idiom to mean that you accept
+    a mission or a challenge."
+words:
+- fr: Bien sûr !
+  en: Of course!
+- fr: Oui, ce sera fait !
+  en: Yes, it will be done!
+- fr: OK, je m'y mets tout de suite.
+  en: OK, I am getting down to it right away.
+- fr: Aussitôt dit, aussitôt fait!
+  en: No sooner said than done!
+end_question: Et vous, êtes-vous déjà bilingue en français ?

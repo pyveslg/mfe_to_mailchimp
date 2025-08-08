@@ -1,0 +1,32 @@
+---
+title: je dirais que c’est de l’autre côté
+preview_text: "Today, learn how to be unsure about something \U0001F9D0"
+color: "#f6ecbf"
+goal: rester innocent
+challenge:
+  state: 'Vous lui répondez mais vous n’êtes pas certain. Vous dites :'
+  options:
+  - option: Je crois que c’est par là.
+    correct: true
+  - option: Je pense que c’est par là.
+explanation:
+  fr: |-
+    Eh oui ! croire a deux sens en français :
+    – Croire qu’une chose est vraie et existe.
+    Par exemple : Je crois son histoire.
+    – et il a souvent le sens plus léger d’estimer, penser.
+    Par exemple : Je crois que c’est vrai.
+  en: |-
+    In French, “croire” means to believe in something/someone.
+    But it is also much used when you think that something may be true (i.e. you are not so sure of it).
+words:
+- fr: Je pense que c’est par là.
+  en: It think it is down here
+- fr: Je crois que c’est dans cette direction.
+  en: I think it is this way
+- fr: Je dirais que c’est de l’autre côté.
+  en: I think it might on the other side.
+- fr: Il me semble que c’est juste derrière.
+  en: I think it's right behind.
+end_question: "Alors à votre avis, quels sont les meilleurs croissants de Paris ?
+  \U0001F950"

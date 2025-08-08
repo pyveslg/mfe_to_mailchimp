@@ -1,0 +1,29 @@
+---
+title: contactez-nous pour toute information
+preview_text: Today, learn how to be determined
+color: "#f8eeb4"
+goal: être déterminé
+challenge:
+  state: 'Vous voulez manger au restaurant L’hôtel particulier avec un ami. Vous lui
+    proposez une date. Vous attendez sa confirmation avant de réserver. Vous dites
+    :'
+  options:
+  - option: Confirme-moi la date pour que je fasse la réservation.
+    correct: true
+  - option: Confirme-moi la date pour que je fais la réservation.
+explanation:
+  fr: Eh oui ! que je fasse est conjugué au subjonctif. La structure pour que permet
+    d’introduire un but, un objectif. Pour toutes ces structures (pour que / afin
+    que …), le verbe qui suit est conjugué au subjonctif.
+  en: Any verbs placed after “pour que” or “afin que” or any other structures introducing
+    a targeted state or an objective conjugate at the subjonctive tense.
+words:
+- fr: Contactez-nous pour toute information.
+  en: Contact us for any further information.
+- fr: Je ferai tout pour que tu sois heureux.
+  en: I would do anything so that you're happy
+- fr: J’ai fait en sorte qu’il vienne dimanche.
+  en: I made sure he comes on Sunday
+- fr: J’apprends le français histoire de saisir les blagues de mes collègues.
+  en: I learn French just to be able to understand my colleagues' jokes.
+end_question: Et nous, on fait tout pour que vous aimiez apprendre le français !

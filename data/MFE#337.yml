@@ -1,0 +1,30 @@
+---
+title: il est paresseux
+preview_text: Today, learn how to be lazy
+color: "#dcd6f7"
+goal: être paresseux
+challenge:
+  state: 'Vous pensez qu’il est paresseux. Vous dites :'
+  options:
+  - option: Il a un poil dans la main !
+    correct: true
+  - option: Il a un os dans la main !
+explanation:
+  fr: |-
+    Eh oui ! avoir un poil dans la main est une expression informelle
+    synonyme de être paresseux..
+  en: In French, someone who has a hair in their hand is someone so lazy that they
+    never use their hands, letting hair grow in them. "Avoir un poil dans la main"
+    is thus an informal expression synonymous with "to be lazy".
+words:
+- fr: Il est paresseux.
+  en: He is lazy.
+- fr: Elle a un poil dans la main !
+  en: She has lazy bones!
+- fr: Arrête de procrastiner !
+  en: Stop procrastinating!
+- fr: Quel flemmard…
+  en: What a slacker…
+end_question: |-
+  Et vous,
+  vous êtes plutôt paresseux ou plutôt travailleur ?

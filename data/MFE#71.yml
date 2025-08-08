@@ -1,0 +1,29 @@
+---
+title: Ohlala, mais c’est fou.
+preview_text: Today, learn how to exaggerate somewhat
+color: "#cd3131"
+goal: exagérer un petit peu
+challenge:
+  state: 'Vous êtes gentil, vous dites :'
+  options:
+  - option: Hum, c’est très intéressant.
+    correct: true
+  - option: Hum, c’est beaucoup intéressant.
+explanation:
+  fr: |-
+    Eh oui ! Pour intensifier un adjectif (dans cet exemple : “intéressant”), on utilise très.
+    Beaucoup est utilisé après un verbe : “j’aime beaucoup le chocolat” ou devant un nom : “il y a beaucoup de voitures”.
+  en: "“très” is used to intensify an adjective. “beaucoup” is only used after a verb
+    or before a noun."
+words:
+- fr: Ohlala, mais c’est fou !
+  en: Wow, it's amazing!
+- fr: C’est vraiment très très très intéressant !
+  en: It's really sooooo interesting!
+- fr: Je n’en reviens pas, c’est absolument incroyable !
+  en: |-
+    I can't believe it!
+    It's absolutely incredible!
+- fr: Ce n’est pas la peine d’en faire tout un fromage !
+  en: No need to make a fuss about it!
+end_question: Alors, incroyable cette explication n'est-ce pas ?

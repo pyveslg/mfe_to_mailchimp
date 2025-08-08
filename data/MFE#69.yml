@@ -1,0 +1,29 @@
+---
+title: La convivialité est toujours au rendez-vous !
+preview_text: Today, learn how to schedule a face-to-face meeting.
+color: "#e8b844"
+goal: organiser un face-à-face
+challenge:
+  state: 'Vous quittez le bureau pour aller rencontrer un client. Vous dites :'
+  options:
+  - option: J’ai un rendez-vous avec un client.
+    correct: true
+  - option: J’ai une réunion avec un client.
+explanation:
+  fr: |-
+    Eh oui ! Un rendez-vous n'est pas toujours romantique en français!
+    Dans le monde professionnel, le mot rendez-vous s’emploie pour toute rencontre qui n'implique que vous et non pas vos collègues...
+    Une réunion concerne d'autres personnes de votre propre organisation.
+  en: In the professional world, you should use “rendez-vous” for an appointment that
+    does not directly involve your colleagues. And no, a “rendez-vous” is not necessarily
+    a date ;)
+words:
+- fr: Prenons rendez-vous demain !
+  en: Let's meet tomorrow!
+- fr: Serait-il possible d'avoir un rendez-vous cet après-midi ?
+  en: Would it be possible to schedule an appointment this afternoon?
+- fr: Je ne serai pas disponible, j'ai un rendez-vous prévu à cette date.
+  en: I won't be available, I have got already an appointment that day.
+- fr: Ici, la convivialité est toujours au rendez-vous !
+  en: Conviviality is always on the menu here !
+end_question: Allez, rendez-vous demain, à la même heure !

@@ -1,0 +1,28 @@
+---
+title: il a un cœur d’artichaut
+preview_text: ''
+color: "#009378"
+goal: tomber amoureux
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: Ça a été le coup de foudre.
+    correct: true
+  - option: Ça a été l’amour au premier regard.
+explanation:
+  fr: |-
+    Eh oui ! "avoir le coup de foudre" permet d'exprimer ce sentiment fort et profond que vous ressentez quand vous tombez amoureux.
+    Ohlala, on est sentimental aujourd'hui ;-)
+  en: |-
+    “avoir le coup de foudre” means to fall in love right away.
+    We are in a kind of romantic mood today ;).
+words:
+- fr: Je suis amoureuse…
+  en: I am in love...
+- fr: Ils sont tombés amoureux au travail.
+  en: They fell in love at work.
+- fr: Elle lui a déclaré sa flamme.
+  en: She declared her love for him.
+- fr: Il est trop sentimental, il a un cœur d’artichaut.
+  en: He's too sentimental. He's a hopeless romantic.
+end_question: Et vous, croyez-vous au coup de foudre ?

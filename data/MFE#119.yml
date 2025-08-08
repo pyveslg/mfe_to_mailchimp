@@ -1,0 +1,32 @@
+---
+title: ce livre n’appartient à personne
+preview_text: Today, learn how to be possessive
+color: "#fd9191"
+goal: être possessif
+challenge:
+  state: 'Un collègue demande à qui elle est. Vous répondez :'
+  options:
+  - option: C’est mon.
+    correct: true
+  - option: C’est le mien.
+explanation:
+  fr: |-
+    Eh oui! le mien est un pronom, il remplace le nom.
+    Par exemple : “À qui est ce stylo ? – C’est le mien.”
+    Attention, selon le sujet, le pronom change de forme :
+    le mien / le tien / le sien / le nôtre / le vôtre / le leur.
+    Mon est un déterminant, il est nécessairement suivi d’un nom.
+    Par exemple : “C’est mon stylo.”
+  en: |-
+    “C'est le mien” = it's mine. “le mien” is a pronoun, meaning that it stands for a noun.
+    It conjugates according to the subject who owns the object : le mien (mine), le tien (yours), le sien (his, hers), le nôtre (ours), le vôtre (yours), le leur (theirs).
+words:
+- fr: C’est à moi.
+  en: It's mine.
+- fr: Ce cadeau est pour toi.
+  en: This gift is for you.
+- fr: Le tien est encore sous le sapin.
+  en: Yours is still under the Christmas tree.
+- fr: Ce livre n’appartient à personne.
+  en: This book belongs to nobody.
+end_question: "Alors, à qui est ce mouchoir sale posé sur la table ? \U0001F927"

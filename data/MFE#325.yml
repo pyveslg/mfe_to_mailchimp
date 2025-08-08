@@ -1,0 +1,28 @@
+---
+title: qu’est-ce que tu faisais avant
+preview_text: Today, learn how to change your habits
+color: "#e9ea77"
+goal: changer vos habitudes
+challenge:
+  state: 'Vous parlez de vos habitudes avant Paris. Vous dites :'
+  options:
+  - option: Je conduisais tous les jours.
+    correct: true
+  - option: J’ai conduit tous les jours.
+explanation:
+  fr: |-
+    Eh oui ! Dans ce contexte, on utilise l’imparfait !  L’imparfait est utilisé pour parler d’une habitude ou d'une action répétée dans le passé.
+    Le passé-composé est utilisé pour parler d’une action définie et ponctuelle.
+  en: The imperfect tense should be used to speak about an habit or about something
+    you used to do in the past. You should use the French “passé composé” when you
+    speak about a timely and delimited action that occurred in the past.
+words:
+- fr: Enfant, je n’avais pas de portable.
+  en: When I was a child, I didn't have a cell phone.
+- fr: Avant Paris, je ne prenais jamais le métro.
+  en: Before Paris, I never used the metro.
+- fr: À New York, j’emmenais mes enfants à l’école.
+  en: In NY, I used to take the kids to school.
+- fr: Qu’est-ce que tu faisais avant ton déménagement ?
+  en: What were you doing before you moved?
+end_question: Et vous, qu’est-ce que vous faisiez avant de vivre à Paris ?

@@ -1,0 +1,29 @@
+---
+title: tant pis
+preview_text: Today, learn how to regret
+color: "#fdfff0"
+goal: regretter
+challenge:
+  state: 'Vous regrettez le manque de nature à Paris. Vous dites :'
+  options:
+  - option: Il est dommage qu’il y ait si peu de nature à Paris.
+    correct: true
+  - option: C’est dommage qu’il y ait si peu de nature à Paris.
+explanation:
+  fr: |-
+    Eh oui ! les deux sont possibles !
+    Notez toutefois que c’est dommage est plus courant.
+    Il est dommage est davantage formel, voire sophistiqué.
+  en: "“Il est dommage” and “c'est dommage” (= It's a pity that) are both correct
+    even if “c'est dommage” is used more often. ”Il est dommage” sounds more sophisticated
+    and formal."
+words:
+- fr: C’est dommage !
+  en: It's such a shame!
+- fr: Tant pis !
+  en: Too bad!
+- fr: C’est regrettable !
+  en: It's such a pity!
+- fr: Il serait dommage d’en rester là.
+  en: It would be a waste to leave it that way.
+end_question: Allez, on ne se retrouve que dans une semaine !

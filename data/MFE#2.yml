@@ -1,0 +1,32 @@
+---
+title: Je pense, donc je suis 
+preview_text: ''
+color: "#3deefa"
+goal: donner une bonne fois pour toute* votre avis
+challenge:
+  state: 'Pour donner votre opinion, vous dites :'
+  options:
+  - option: Je pense c'est une bonne idée.
+  - option: Je pense que c'est une bonne idée.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Après le verbe “penser”, s'il y a un sujet (Ex: je, tu, nous, ce, ça...), “que” est obligatoire.
+    C'est plus strict qu'en anglais : quand, en anglais, le that est facultatif, en français, le que est impératif !
+    Et c'est pareil avec les verbes croire, trouver, être sûr...
+  en: |-
+    If the verb “penser” is followed by a subject like je, tu, nous, ce, ça, etc. , "que" is mandatory.
+    It's stricter than in English : when using "that" is optional in English, in French, using “que” is essential.
+    And it works the same with the verbs "to believe", "to find", "to be sure" and so on...
+words:
+- fr: Je le pense aussi.
+  en: I think so as well.
+- fr: Ça me fait penser à un film.
+  en: It reminds me of a movie.
+- fr: N'y pense même pas !
+  en: Do not even think about it!
+- fr: "“Je pense, donc je suis” (Descartes)"
+  en: "“I think, therefore I am” (Descartes)"
+- fr: Et vous, qu'en pensez-vous ?
+  en: What do you think about it ?
+end_question: La journée commence bien Et vous, qu'en pensez-vous ?

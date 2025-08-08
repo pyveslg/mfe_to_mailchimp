@@ -1,0 +1,29 @@
+---
+title: je vais y réfléchir
+preview_text: Today, learn how to not believe it
+color: "#defcfc"
+goal: ne pas croire
+challenge:
+  state: 'Votre ami vous annonce une nouvelle incroyable. Vous dites :'
+  options:
+  - option: Je n’en crois pas !
+    correct: true
+  - option: Je n’y crois pas !
+explanation:
+  fr: |-
+    Eh oui ! je n’y crois pas implique : je ne crois pas à cette information. En effet, le pronom y reprend le complément introduit par la préposition à.
+    Attention, le pronom en reprend un complément introduit par la préposition de :
+    Je bois de la limonade. > J’en prends.
+  en: |-
+    “y” stands for a complement introduced by “à”.
+    en” stands for a complement introduced by “de”.
+words:
+- fr: J’y vais !
+  en: I go!
+- fr: Les jeux vidéo, j’y joue souvent.
+  en: I often play video games.
+- fr: Ma famille me manque, j’y pense souvent.
+  en: I miss my family. I often think of them.
+- fr: J’hésite à partir cet été. Je vais y réfléchir !
+  en: I am wondering whether I'll leave this summer. I'll think about it!
+end_question: Savez-vous que le français est parlé sur les 5 continents ?

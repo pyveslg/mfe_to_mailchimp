@@ -1,0 +1,32 @@
+---
+title: je voyage en Europe
+preview_text: "Today, learn how to be away \U0001F44B"
+color: "#eff7db"
+goal: être ailleurs
+challenge:
+  state: 'Vous recevez un message d’un ami. Il vous invite à prendre l’apéro ce soir
+    mais vous êtes en voyage à Dublin. Vous dites :'
+  options:
+  - option: Pas ce soir, je suis au Irlande !
+  - option: Pas ce soir, je suis en Irlande !
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Devant un pays féminin, qui termine par -e, on utilise la préposition en.
+    Par exemple : en France, en Irlande, en Thaïlande...
+    Attention, il y a 3 exceptions : au Mexique, au Cambodge et au Mozambique !
+  en: "Before a feminine country (which ends by “-e”), we use the preposition “en”.
+    Eg. I go to France > je vais en France. I am in Spain > Je suis en Espagne. This
+    rule doesn't apply to only 3 countries ending by -e,  as they are actually masculine
+    in French (Mexique, Cambodge, Mozambique)...\nFrench without any grammar exceptions
+    would not be so charming, would it ? \U0001F609"
+words:
+- fr: Je voyage en Europe.
+  en: I'm travelling in Europe.
+- fr: Je retourne chaque année en Croatie.
+  en: I go back to Croatia every year.
+- fr: Cet été, je visite la Grèce !
+  en: I'll travel to Greece this summer!
+- fr: Je ne quitte pas l’Europe sans passer par l’Italie !
+  en: I won't leave Europe without visiting Italy!
+end_question: Et vous, où avez-vous voyagé en Europe ?

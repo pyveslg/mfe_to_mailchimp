@@ -1,0 +1,28 @@
+---
+title: où se trouve le beurre, s’il vous plaît
+preview_text: Today, learn how to collect all your ingredients
+color: "#ff7777"
+goal: trouver tous vos ingrédients
+challenge:
+  state: 'C’est décidé, ce soir, vous préparez des crêpes maison ! Vous allez au magasin
+    mais vous ne trouvez pas les œufs… Vous dites à un vendeur :'
+  options:
+  - option: Excusez-moi, je cherche pour les œufs.
+  - option: Excusez-moi, je cherche les œufs.
+    correct: true
+explanation:
+  fr: "Eh oui ! Attention à la traduction systématique avec l’anglais \U0001F609…\nLe
+    verbe chercher se construit sans préposition !"
+  en: |-
+    Unlike “to look for”, “chercher” takes no preposition.
+    If English and French were too similar, learning French would not be so fun, would be?
+words:
+- fr: Pardon, je cherche le lait.
+  en: Excuse me, I'm looking for the milk.
+- fr: Où se trouve le beurre, s’il vous plaît ?
+  en: Where's the butter please?
+- fr: Pourriez-vous m’indiquer où se trouvent les bonbons ?
+  en: Could you show me where the candies are?
+- fr: Auriez-vous du yaourt grec en rayon ?
+  en: Would you have any greek yoghurt in stock ?
+end_question: Et vous, quels ingrédients vous manquent pour préparer Mardi Gras ?

@@ -1,0 +1,31 @@
+---
+title: à la belle saison, on mange dehors
+preview_text: ''
+color: "#ff9900"
+goal: profiter de la saison
+challenge:
+  state: 'Ça y est, c’est l’été ! Il fait beau (ou presque…). Vous dites :'
+  options:
+  - option: En été, il fait beau et chaud.
+  - option: À l’été, il fait beau et chaud.
+explanation:
+  fr: |-
+    Eh oui ! devant les saisons, la préposition appropriée est en.
+    Sauf avec le printemps ! Comme le mot commence par une consonne, on utilise la préposition au.
+    Observez : en été, en automne, en hiver et au printemps.
+  en: |-
+    In summer, in autumn, in spring, in winter.
+    In French, “in” should be traduced by “en” before a season.
+    Except for the spring! where the correct preposition is “au”.
+words:
+- fr: Je passe un super été.
+  en: I am having a great summer.
+- fr: À la belle saison, on aime manger dehors.
+  en: We like eating outside in the summer months.
+- fr: Ça y est, j’ai sorti mes habits d’été !
+  en: That's it, I have just unpacked my summer clothes.
+- fr: Je ne consomme que des fruits de saison.
+  en: I only eat seasonal fruits.
+end_question: |-
+  Et vous,
+  qu'est-ce que vous aimez faire en été ?

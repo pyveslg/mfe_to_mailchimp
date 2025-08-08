@@ -1,0 +1,29 @@
+---
+title: on se retrouve quand tu veux
+preview_text: Today, learn how to be available
+color: "#facbf8"
+goal: vous montrer disponible
+challenge:
+  state: 'Vous sentez que votre collègue ne va pas très bien. Vous lui dites  :'
+  options:
+  - option: Si je peux faire quoi que ce soit pour t'aider, dis-moi !
+    correct: true
+  - option: Si je peux faire quelque ce soit pour t'aider, dis-moi !
+explanation:
+  fr: |-
+    Eh oui ! Quoi que est une expression pratique qui désigne toute chose ou n'importe quelle chose. Dans cet exemple, vous signifiez que vous êtes prêt(e) à faire toute les choses possibles pour aider votre collègue.
+    Quoi que est toujours suivi d'un verbe conjugué au subjonctif.
+    Par exemple : quoi que ce soit (être), quoi que tu fasses (faire), quoi qu'on dise (dire), quoi que vous ayez (avoir),....
+  en: "“Quoi que” is a very useful idiom that means “anything” or “whatever”. ”Quoi
+    que” is always followed by a verb conjugated in the subjonctive tense."
+words:
+- fr: On se retrouve quand tu veux !
+  en: We can meet whenever you want!
+- fr: Je ferais n'importe quoi pour être avec toi.
+  en: I would do anything to be with you.
+- fr: Je te suivrais n'importe où !
+  en: I would follow you anywhere!
+- fr: Qui que ça puisse être, n'ouvre surtout pas la porte !
+  en: Do not open the door, whoever it might be!
+end_question: Si on peut faire quoi que ce soit pour vous aider en français, dites-le
+  nous !

@@ -1,0 +1,29 @@
+---
+title: je suis arrivé la semaine dernière
+preview_text: Today, learn how to manage your schedule
+color: "#bad7df"
+goal: faire votre agenda
+challenge:
+  state: 'Avant de partir, vous dites :'
+  options:
+  - option: À la prochaine semaine !
+  - option: À la semaine prochaine !
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! prochain est un adjectif qui change de sens selon sa place.
+    Après le nom, il désigne la date suivant le moment où l'on parle, par exemple : je pars la semaine prochaine.
+    Avant le nom, il désigne la date où se renouvellera une période, par exemple : ma prochaine semaine de vacances sera en juillet.
+  en: |-
+    The meaning of ”prochain” (= next) differs according to whether it is located before the noun or after it. After the noun, it indicates the next date in relation to the moment one is actually saying it.
+    Before the noun, it indicates the moment when you repeat/do again something.
+words:
+- fr: Je suis arrivé la semaine dernière.
+  en: I arrived last week.
+- fr: Qu’est-ce que tu fais le week-end prochain ?
+  en: What do you do next week?
+- fr: On en parle la prochaine fois.
+  en: We'll talk about this next time.
+- fr: On va où pour nos prochaines vacances?
+  en: Where do we plan to go for our next holidays?
+end_question: À la semaine prochaine au Singing in French ?

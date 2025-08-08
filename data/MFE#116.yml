@@ -1,0 +1,30 @@
+---
+title: je suis rentré
+preview_text: Today, learn how to explain your movements
+color: "#87dfd6"
+goal: expliquer vos déplacements
+challenge:
+  state: 'Vous répondez :'
+  options:
+  - option: Je suis venu pour l’amour.
+    correct: true
+  - option: J’ai venu pour l’amour.
+explanation:
+  fr: |-
+    Eh oui! venir est un verbe de direction (comme aller, partir, arriver …).
+    Au passé composé, ces verbes se construisent toujours avec être :
+    je suis venu / tu es venu / il est venu / elle est venue / nous sommes venus /
+    vous êtes venus / ils sont venus / elles sont venues.
+  en: |-
+    “venir” is a direction verb like “aller”, “partir”, “arriver”.
+    At the perfect tense, those verbs always conjugate with the “être” verb.
+words:
+- fr: Je suis rentré !
+  en: I'm home!
+- fr: Je suis arrivé à l’heure prévue.
+  en: I arrived on time.
+- fr: Tu es passé à la poste ?
+  en: Did you go to the Post office?
+- fr: J’y suis allé pour rien !
+  en: I went down there for nothing!
+end_question: Et vous, qu’est-ce qui vous a amené à Paris ?

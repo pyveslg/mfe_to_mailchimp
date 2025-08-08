@@ -1,0 +1,27 @@
+---
+title: je vous dois combien
+preview_text: "Today, learn how to pay \U0001F4B0"
+color: "#cfcbf1"
+goal: payer
+challenge:
+  state: 'Vous êtes au marché et vous voulez payez vos achats. Vous demandez :'
+  options:
+  - option: Ça fait combien ?
+    correct: true
+  - option: Ça coûte combien ?
+explanation:
+  fr: Eh oui ! “Ça fait combien ?” indique implicitement que vous êtes prêt à payer
+    vos achats. La question “Ça coûte combien ?” permet de s’informer sur le prix.
+  en: |-
+    How much is it ? is ”ça fait combien ?” or “ça coûte combien ? in French.
+    But if you already have made your choice and are willing to pay, ”ça fait combien ?” is the one to use. ”ça coûte combien ?” is just to ask the pricing information.
+words:
+- fr: Ça fait combien ?
+  en: How much is it?
+- fr: Je vous dois combien ?
+  en: What do I owe?
+- fr: Combien ça fait en tout ?
+  en: How much is it altogether?
+- fr: Dites-moi combien je vous dois.
+  en: Tell me how much I owe you.
+end_question: "C’est bon, votre French Expresso est offert aujourd’hui \U0001F609"

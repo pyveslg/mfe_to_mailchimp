@@ -1,0 +1,31 @@
+---
+title: j’ai nagé dans le bassin de la Villette
+preview_text: "Today, learn how to go to the seaside \U0001F30A"
+color: "#6fd4fb"
+goal: aller à la mer
+challenge:
+  state: 'C’est bientôt les vacances ! La semaine prochaine, vous serez à la mer.
+    Vous dites :'
+  options:
+  - option: Dans une semaine, je suis dans la plage...
+    correct: true
+  - option: Dans une semaine, je suis sur la plage...
+explanation:
+  fr: |-
+    Eh oui ! sur la plage car vous êtes placé sur le sable et pas à l’intérieur.
+    Donc, on utilise sur si l’espace est ouvert et extérieur :
+    je marche sur la place / sur le trottoir / sur l’avenue.
+    Sauf l’exception : je marche dans la rue.
+  en: 'We use “sur” as you are on the beach and not inside! If the place is outdoor
+    and open, you will use “sur”. However, there is an exception : even if a street
+    is ”outdoor” and “open”, you have to use “dans”.'
+words:
+- fr: Je me promène sur les Quais de Seine.
+  en: I am walking at the Quais de Seine.
+- fr: J’ai nagé dans le Bassin de la Villette.
+  en: I swam in the Bassin de la Villette.
+- fr: On fait une balade en bateau sur la Seine.
+  en: We're cruising by the Seine.
+- fr: Rendez-vous sur l’île Saint-Louis !
+  en: Let's meet at Île Saint-Louis!
+end_question: "Allez, à bientôt sur la plage de Paris Plages ! \U0001F3D6️"

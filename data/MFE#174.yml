@@ -1,0 +1,30 @@
+---
+title: selon vous, que devons-nous faire ?
+preview_text: Today, learn how to report an opinion
+color: "#a7efe9"
+goal: rapporter une opinion
+challenge:
+  state: 'Vous êtes en réunion. Votre responsable est absent mais il vous a demandé
+    de le représenter pendant la réunion. Vous dites :'
+  options:
+  - option: À son avis, nous pouvons lancer le projet.
+    correct: true
+  - option: D’après lui, nous pouvons lancer le projet.
+explanation:
+  fr: |-
+    Eh oui ! “d’après + personne” permet d’introduire l’opinion d’une ou de plusieurs personne(s). Par exemple : “d’après moi”, “d’après toi”, “d’après nous”, “d’après les journalistes”, etc. L’expression “à mon avis” permet aussi d'exprimer l'opinion mais elle est plus rigide et ne peut être utilisée que de trois façons :
+    “à mon avis”, “à ton avis” et “à votre avis” (vouvoiement).
+  en: "“D'après moi” and “à mon avis” are synonyms and both mean “in my opinion“...
+    But “à mon avis” is a more rigid structure as only “à mon avis”, “à ton avis”
+    or “à votre avis” (polite form) can be used. If you want to report several people's
+    opinion, you can use the “d'après + personne” way."
+words:
+- fr: Nous pensons que c’est important.
+  en: We think that it is important.
+- fr: D’après eux, tu dois le faire !
+  en: According to them, you should do it!
+- fr: Selon vous, que devons-nous faire ?
+  en: In your opinion, what should we do ?
+- fr: Nous sommes d’avis de reporter la réunion.
+  en: We think that we should postpone the meeting.
+end_question: D’après vous, quelles sont les principales difficultés du français ?

@@ -1,0 +1,31 @@
+---
+title: il suffirait de presque rien
+preview_text: Today, learn how to imagine
+color: "#fce9bc"
+goal: imaginer
+challenge:
+  state: 'Vous êtes sur Internet. En 1h, vous avez envoyé 3 mails, réserver le train
+    et l’hôtel pour votre prochain voyage et mis 1 post sur Facebook. Vous pensez
+    :'
+  options:
+  - option: Sans Internet, tout soit plus compliqué.
+    correct: true
+  - option: Sans Internet, tout serait plus compliqué.
+explanation:
+  fr: |-
+    Eh oui ! serait est la forme de être au conditionnel.
+    Dans cette phrase, le conditionnel permet d’imaginer et de décrire une autre réalité, une réalité parallèle. La conjugaison : je serais / tu serais / il serait / elle serait /
+    nous serions/ vous seriez / ils seraient / elles seraient
+  en: "”serait” in the verb ”être” (= to be) at the conditional tense. In this sentence,
+    the conditional tense allows to imagine or describe another reality or a parallel
+    reality."
+words:
+- fr: Tu pourrais, avec de la volonté.
+  en: You could, with goodwill.
+- fr: Moi président, il n’y aurait plus de problème !
+  en: If I were president, there would be any issue anymore.
+- fr: Si seulement tu étais là, tout irait mieux !
+  en: I wish you could be here. Everything would be better.
+- fr: Il suffirait de presque rien pour changer le monde.
+  en: It would take almost nothing to change the world.
+end_question: Pour vous, comment serait la vie sans Internet ?

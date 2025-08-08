@@ -1,0 +1,26 @@
+---
+title: bref, parlons d'autre chose
+preview_text: Today, learn how to change the subject
+color: "#f48db4"
+goal: changer de sujet
+challenge:
+  state: 'Vous voulez changer de sujet. Vous dites :'
+  options:
+  - option: En fait, que fais-tu ce week-end ?
+  - option: Au fait, que fais-tu ce week-end ?
+    correct: true
+explanation:
+  fr: Eh oui ! **au fait** est une interjection très utile pour **réorienter adroitement
+    le sujet d’une conversation**. La locution **_en fait_** est synonyme de **_en réalité_**.
+  en: "“Au fait” makes part of these really useful little words to tactfully change
+    the subject of an annoying conversion. “en fait” is a synonym for “actually”."
+words:
+- fr: '**À propos**, as-tu vu son dernier film ?'
+  en: By the way, have you watched his latest movie?
+- fr: '**D'ailleurs, ça me fait penser** que je dois te rendre un livre.'
+  en: By the way, it reminds me that I have to give you back a book.
+- fr: '**Bref**, parlons d’autre chose !'
+  en: Anyway, let's talk about something else!
+- fr: Il a **habilement dévié le sujet** pour plus de légèreté.
+  en: He subtly changed the subject to make it more casual.
+end_question: Au fait, comment allez-vous aujourd’hui ?

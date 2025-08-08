@@ -1,0 +1,33 @@
+---
+title: elle s'est levée du pied gauche
+preview_text: "Today, learn how to stay in bed ! \U0001F6CC"
+color: "#a6d0e4"
+goal: rester au lit
+challenge:
+  state: 'Oups… Ce matin, votre réveil n’a pas sonné. Vous dites :'
+  options:
+  - option: Je me ne suis pas réveillé.
+  - option: Je ne me suis pas réveillé.
+    correct: true
+explanation:
+  fr: "Eh oui ! Ah ces “petits mots” (comme “en”, “y”, “me”, “se”...), plus il y en
+    a, plus c’est compliqué de savoir où les mettre ! \U0001F609  À la base, dans
+    cet exemple, le verbe est pronominal : “je me réveille”. Ensuite, il est au passé
+    : « Je me suis réveillé ». Enfin, la phrase est négative : “Je ne me suis pas
+    réveillé”. Et voilà, ils sont tous à leur place !"
+  en: 'Ah those “little tricky words” like “en”, “y”, “me”, ”se”... The more, the
+    harder to organise the whole sentence! In this exemple, the verb is pronominal
+    : “je me réveille”. Then it is conjugated in the past tense: “je me suis réveillé“.
+    And finally comes the negative form: “je ne me suis pas réveillé”. Everything''s
+    spick and span now!'
+words:
+- fr: Je me suis levé tard ce matin.
+  en: I got up late this morning.
+- fr: Il a oublié de mettre son réveil.
+  en: He forgot to set his alarm clock.
+- fr: J’ai eu une panne d’oreiller.
+  en: I overslept.
+- fr: Elle est de mauvaise humeur. Je crois qu’elle s’est levée du pied gauche ce
+    matin…
+  en: She's in a bad mood. She must have got out of the wrong side of bed this morning...
+end_question: Et vous, vous vous êtes réveillé à l'heure ce matin ?

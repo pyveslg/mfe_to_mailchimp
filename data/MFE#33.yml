@@ -1,0 +1,34 @@
+---
+title: ça fait rêver...
+preview_text: ''
+color: "#fffeeb"
+goal: à avoir des rêves
+challenge:
+  state: 'Votre ami vous offre un très beau cadeau. Vous dites :'
+  options:
+  - option: C'est le cadeau dont j'ai toujours rêvé.
+    correct: true
+  - option: C'est le cadeau que j'ai toujours rêvé.
+explanation:
+  fr: |-
+    Eh oui ! vous avez toujours rêvé de ce cadeau.
+    Le complément "ce cadeau" est précédé par "de",
+    donc le pronom relatif approprié est dont.
+    Observez la différence :
+    “J'ai attendu ce cadeau.” > “le cadeau que j'ai attendu.”
+    “J'ai rêvé de ce cadeau.” > “le cadeau dont j'ai rêvé.”
+  en: |-
+    In French, “that” can be translated by “que” or “dont”.
+    To know which one to use might be a bit tricky.
+    As you can see in both sentences above,
+    when the verb is followed by “de”, the correct relative pronoun should be “dont”. Not “que”.
+words:
+- fr: En Bretagne, il y a des paysages de rêve.
+  en: Brittany offers dreamy landscapes.
+- fr: Ah vivre à Paris ! Ça fait rêver....
+  en: Living in Paris ! It makes you dream.
+- fr: J'ai rencontré l'homme de mes rêves !
+  en: I met the man of my dreams.
+- fr: Comprendre le film Amélie en version originale, j'en rêve !
+  en: Watching Amélie movie in original version. What a (very attainable) dream!
+end_question: Et vous, quel est votre rêve le plus fou ?

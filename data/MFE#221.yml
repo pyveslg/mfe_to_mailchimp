@@ -1,0 +1,27 @@
+---
+title: c’est carrément cool
+preview_text: Today, learn how to speak like young people
+color: "#d6fc99"
+goal: parler comme un jeune
+challenge:
+  state: 'Vous venez d’apprendre à utiliser le futur proche. La règle est vraiment
+    facile. Vous êtes enthousiaste. Vous dites :'
+  options:
+  - option: C’est tellement facile !
+  - option: C’est trop facile !
+    correct: true
+explanation:
+  fr: Eh oui ! trop est un adverbe souvent utilisé par les jeunes Français pour exagérer
+    une qualité (positive ou négative).
+  en: "“trop” (= too much) is heavily used by young French people to exaggerate a
+    positive or negative adjective."
+words:
+- fr: C’est trop beau !
+  en: It's so beautiful!
+- fr: C’est grave sympa !
+  en: It's f****** nice !
+- fr: Je suis monté en haut de la Tour-Eiffel, c’est délire !
+  en: I went up the Eiffel Tower. It was such a crazy experience!
+- fr: Vivre à Paris, c’est carrément cool.
+  en: Living in Paris is totally cool.
+end_question: Et oui ! On reste jeune chez Novexpat !

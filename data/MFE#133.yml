@@ -1,0 +1,30 @@
+---
+title: je suis nul en maths
+preview_text: Today, learn how to be incompetent
+color: "#f0d879"
+goal: être incapable
+challenge:
+  state: 'Vous passez un week-end à la campagne avec des amis. Votre hôte vous propose
+    une balade à cheval. Vous dites :'
+  options:
+  - option: Je ne peux pas monter à cheval.
+  - option: Je ne sais pas monter à cheval.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! savoir se réfère à la capacité personnelle et pouvoir à la possibilité concrète. Par exemple :
+    “Je ne sais pas nager.” = Je n’ai pas appris donc je ne suis pas capable.
+    “Je ne peux pas nager.” = Il n’y a pas d’eau dans la piscine donc ce n’est pas possible…
+  en: "“savoir” and “pouvoir” can be sometimes misleading when one wants to express
+    his ability to do something. Basically, if the swimming pool is closed, you can't
+    (pouvoir) swim. But if you've never learnt how to swim, you can't (savoir) swim."
+words:
+- fr: Mon enfant sait lire.
+  en: My child can read.
+- fr: Je suis nul en maths.
+  en: I'm very bad at maths.
+- fr: Je dessine comme un manche.
+  en: I draw all wrong.
+- fr: Laisse-moi faire, je m’y connais en bricolage !
+  en: Let me do it. I know how to DIY.
+end_question: Et vous, savez-vous et pouvez-vous parler français?

@@ -1,0 +1,29 @@
+---
+title: très belles fêtes de fin d’année
+preview_text: Today, learn how to start the festive season
+color: "#eb4d55"
+goal: commencer les fêtes
+challenge:
+  state: 'Vous demandez à un ami ses plans pour ce soir:'
+  options:
+  - option: Qu'est-ce que tu fais pour la veille de Noël ?
+  - option: Qu'est-ce que tu fais pour le réveillon ?
+    correct: true
+explanation:
+  fr: "Eh oui ! le réveillon de Noël est le jour avant Noël.\nEn France, chaque famille
+    a ses traditions. La plupart aiment se réunir ce soir-là autour d’un repas festif
+    mais léger avant d’aller se coucher dans l’attente du passage du Père-Noël \U0001F609"
+  en: |-
+    Traditionally, on Christmas Eve (= ”le réveillon de Noël” ),
+    each French family prepares and shares a dinner party together. The meal should be festive but light.
+    So that everyone can sleep soundly before Santa comes in.
+words:
+- fr: Bon réveillon !
+  en: Happy Christmas Eve!
+- fr: Joyeux Noël !
+  en: Happy Christmas!
+- fr: Passez un joyeux Noël !
+  en: A merry Christmas to you all!
+- fr: Très belles fêtes de fin d’année !
+  en: Happy holiday season!
+end_question: Et vous, que faites-vous pour le réveillon?

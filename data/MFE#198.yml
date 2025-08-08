@@ -1,0 +1,29 @@
+---
+title: je suis à Paris depuis 5 mois
+preview_text: Today, learn how to stay for a while
+color: "#cdf7ed"
+goal: rester un peu
+challenge:
+  state: 'Vous rencontrez une nouvelle personne. Elle vous demande depuis quand vous
+    habitez à Paris. Vous dites :'
+  options:
+  - option: Ça fait 3 ans.
+    correct: true
+  - option: Ça été 3 ans.
+explanation:
+  fr: Eh oui ! ça fait est une locution couramment utilisée pour introduire une période
+    de temps qui continue dans le présent.
+  en: "“ça fait” is a much heard locution to express a period of time during which
+    something is still happening. ”Ça fait 3 ans” : it's been 3 years..."
+words:
+- fr: Je suis arrivé il y a 5 mois.
+  en: I arrived 5 months ago.
+- fr: Je suis à Paris depuis 5 mois.
+  en: I’ve been in Paris for 5 months.
+- fr: Ça fait longtemps que tu es à Paris ?
+  en: Have you been in Paris for long ?
+- fr: Ça fait un bail qu'on s'est pas vus.
+  en: It’s been ages since we saw each other.
+end_question: |-
+  Et vous,
+  ça fait longtemps que vous êtes à Paris ?

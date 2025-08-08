@@ -1,0 +1,25 @@
+---
+title: c'est bête
+preview_text: Today, learn how to tell about your regrets
+color: "#f9fce1"
+goal: dire vos regrets
+challenge:
+  state: 'À la dernière minute, un ami ne peut pas venir. Vous dites :'
+  options:
+  - option: Dommage ! Une prochaine fois.
+    correct: true
+  - option: Pitié ! Une prochaine fois.
+explanation:
+  fr: Eh oui ! dommage est l’expression la plus courante pour exprimer le regret.
+  en: "“C'est dommage!” or “Dommage!” is the most common way in French to mean that
+    you feel a bit sad, sorry or unsatisfied about something or someone's decision."
+words:
+- fr: C’est dommage !
+  en: It's a pity!
+- fr: C’est bête. Une prochaine fois !
+  en: It's too bad. Next time hopefully!
+- fr: C’est con* !
+  en: It's such a shame! (familiar)
+- fr: Bon, tant pis.
+  en: All right, so much for that.
+end_question: Oh non ! C'est tout pour aujourd'hui

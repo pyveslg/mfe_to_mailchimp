@@ -1,0 +1,32 @@
+---
+title: je prépare mes bagages la veille du départ
+preview_text: Today, learn how to be chronological
+color: "#e3bebe"
+goal: être chronologique
+challenge:
+  state: 'Vous décrivez votre trajet. Vous dites :'
+  options:
+  - option: Nous sommes partis le samedi et arrivés le jour suivant.
+    correct: true
+  - option: Nous sommes partis le samedi et arrivés le lendemain.
+explanation:
+  fr: |-
+    Eh oui ! Le lendemain est le jour qui suit le jour mentionné.
+    Si on parle du présent, les marqueurs temporels sont : hier / aujourd’hui / demain.
+    Si le moment est différé, les marqueurs temporels sont :
+    la veille / ce jour-là / le lendemain.
+  en: "“le lendemain” is the day after a day about which one is talking. More generally,
+    when one talks about a moment in the present time, ”hier” (=yesterday), “aujourd'hui”
+    (=today), “demain” (=tomorrow) are used. If that moment is not in the present
+    time, “la veille” (= the day before), “ce jour-là” (= that day) and “le lendemain”
+    should be used."
+words:
+- fr: Je déteste les lendemains de fête.
+  en: I hate the aftermath of a party.
+- fr: Je prépare mes bagages la veille du départ.
+  en: I pack my luggage the day before I leave.
+- fr: Tout s’est décidé du jour au lendemain.
+  en: Everything was settled overnight.
+- fr: Il s’y prend souvent la veille pour le lendemain.
+  en: He often leaves it to the last minute.
+end_question: "Alors, quel est le lendemain de la journée d'hier ? \U0001F914"

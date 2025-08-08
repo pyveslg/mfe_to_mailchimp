@@ -1,0 +1,28 @@
+---
+title: ne me demandez pas pourquoi
+preview_text: Today, learn how to justify
+color: "#3f7b70"
+goal: justifier
+challenge:
+  state: 'Vous lui expliquez la raison et vous concluez :'
+  options:
+  - option: C’est pourquoi je dois annuler.
+    correct: true
+  - option: C’est pour ça que je dois annuler.
+explanation:
+  fr: |-
+    Eh oui! “c’est pour ça que” permet d’introduire une explication ou une justification dans un contexte informel.
+    “C’est pourquoi” sonne beaucoup plus formel ou solennel. Par exemple :
+    “Il n’est jamais trop tard. C’est pourquoi nous devons agir maintenant !”
+  en: "“c'est pour ça que” introduces an explanation, clarification or justification
+    in a casual context. “c'est pourquoi” sounds much more solemn."
+words:
+- fr: Ah, c’est pour ça !
+  en: Oh, that's why!
+- fr: Ne me demandez pas pourquoi…
+  en: Don't ask me why...
+- fr: Voilà pourquoi l’application ne marche pas !
+  en: That's why the application's not working!
+- fr: C’est la raison pour laquelle je suis ici.
+  en: That is the reason why I am here.
+end_question: Et vous, pourquoi lisez-vous votre French Expresso régulièrement ?

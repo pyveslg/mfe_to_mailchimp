@@ -1,0 +1,32 @@
+---
+title: quand il y en a pour deux
+preview_text: Today, learn how to not repeat
+color: "#46b3e6"
+goal: ne pas répéter
+challenge:
+  state: 'Vous êtes au restaurant. À la fin du repas, le serveur vous demande si vous
+    prenez un café. Vous répondez :'
+  options:
+  - option: Oui, je prendrai un !
+    correct: true
+  - option: Oui, j’en prendrai un !
+explanation:
+  fr: |-
+    Eh oui ! en remplace le complément, dans cette phrase : un café.
+    en est nécessaire même si la quantité (un) est mentionnée.
+  en: In this sentence, “en” stands for “un café” (= a coffee). It is absolutely necessary
+    in the sentence even if the quantity (“un” = one) is already mentioned.
+words:
+- fr: Un chocolat ? – Oui, j’en prendrai un.
+  en: |-
+    A hot chocolate?
+    Yes, I'll have one.
+- fr: Des frites, j’en mange trop !
+  en: French fries? I eat too much of them!
+- fr: Du vélo ? J’en fais tous les jours.
+  en: Riding a bike? I do it everyday.
+- fr: |-
+    Quand il y en a pour 2,
+    il y en a pour 3.
+  en: There's always room for one more.
+end_question: Et vous, reprendrez-vous un expresso ce matin?

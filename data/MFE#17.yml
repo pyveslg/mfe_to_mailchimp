@@ -1,0 +1,34 @@
+---
+title: mieux vaut tard que jamais
+preview_text: ''
+color: "#3bd9e8"
+goal: |-
+  ne pas être ponctuel
+  une bonne fois pour toute*
+challenge:
+  state: 'Vous n''arrivez pas à l''heure à un rendez-vous, vous dites :'
+  options:
+  - option: Désolé, je suis tard.
+  - option: Désolé, je suis en retard.
+    correct: true
+explanation:
+  fr: "Eh oui ! \n“tard” se réfère au moment de la journée. Son contraire est “tôt”\n“en
+    retard” se réfère à l'heure prévue. Son contraire est “en avance”.\nSi vous hésitez,
+    c'est simple ! \nDemandez-vous si vous êtes “tôt” ou “en avance“ !"
+  en: |-
+    He's late = “il est en retard”. It's late = “il est tard”.
+    If you wonder which one to use in French, think to its contraries:
+     ”tôt” for “tard” and “en avance” for “en retard“.
+    If “tôt“ should be used, right answer is “tard“. It works the same for ”en avance/en retard” !
+words:
+- fr: J'ai 10 minutes de retard.
+  en: I'm 10 minutes late.
+- fr: J'ai du travail en retard.
+  en: I'm behind with my work.
+- fr: Il se fait tard.
+  en: It's getting late.
+- fr: Je suis à la bourre!
+  en: I'm so late! (informal)
+- fr: Mieux vaut tard que jamais.
+  en: Better late than never.
+end_question: Et vous, êtes-vous toujours ponctuel ?

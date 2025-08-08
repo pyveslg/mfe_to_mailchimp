@@ -1,0 +1,29 @@
+---
+title: en 2020, je saurai parler français
+preview_text: Today, learn how to make new resolutions
+color: "#deff8b"
+goal: prendre des résolutions
+challenge:
+  state: 'Vous avez choisi vos résolutions pour 2020. Vous dites :'
+  options:
+  - option: En 2020, je marcherai 8000 pas par jour !
+    correct: true
+  - option: En 2020, je marchai 8000 pas par jour !
+explanation:
+  fr: "Eh oui ! Le futur contient l’infinitif complet du verbe !\nSa construction
+    : [infinitif] + [ai / as / a / ons / ez / ont]\nIci: marcher + -ai > je marcherai\nMais
+    attention aux verbes irréguliers (savoir, aller, pouvoir…) \U0001F609"
+  en: In French, the Future tense is formed with the full infinitive of the verb to
+    which a termination (ai/as/a/ons/ez/ont) is added. It works with most of the French
+    verbs even if some common and useful verbs like “savoir”, ”aller”, “pouvoir” are
+    exceptions.
+words:
+- fr: En 2020, je mangerai moins de sucre !
+  en: In 2020, I will eat less candy!
+- fr: En 2020, j’irai tous les jours à la piscine !
+  en: In 2020, I will go to the swimming pool every day!
+- fr: En 2020, je lirai tous mes French Expresso !
+  en: In 2020, I will read all Mon French Expresso!
+- fr: En 2020, je saurai parler français !
+  en: In 2020, I will be able to speak French!
+end_question: Et vous, quelles sont vos résolutions pour 2020 ?

@@ -1,0 +1,28 @@
+---
+title: ce n'est pas pareil
+preview_text: Today, learn how to make the difference
+color: "#f3f3f3"
+goal: faire la différence
+challenge:
+  state: 'Votre ami essaye de comparer le croissant et la tarte au citron. Vous dites
+    :'
+  options:
+  - option: Ça n’a rien à faire !
+    correct: true
+  - option: Ça n’a rien à voir !
+explanation:
+  fr: Eh oui! n’avoir rien à voir est une expression courante pour exprimer que deux
+    choses sont totalement différentes.
+  en: 'If you compare two things or concepts that have nothing to do with each other,
+    you might want to say it using the common French idiom : “n''avoir rien à voir”.'
+words:
+- fr: C’est incomparable !
+  en: It's beyond compare!
+- fr: Cuisiner au beurre ou à l’huile d’olive, ce n’est pas pareil !
+  en: Cooking with butter or olive oil hasn't anything to do with!
+- fr: Ce sont deux choses diamétralement opposées.
+  en: These two things are diametrically opposed.
+- fr: C’est le jour et la nuit !
+  en: It makes a huge difference!
+end_question: Alors, quelle est la différence entre Paris et le Mont-Saint Michel
+  ?

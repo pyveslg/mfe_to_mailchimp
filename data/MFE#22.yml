@@ -1,0 +1,32 @@
+---
+title: quelle horreur !
+preview_text: ''
+color: "#d9d1e8"
+goal: |-
+  détester
+  une bonne fois pour toute*
+challenge:
+  state: 'Pour dire que vous n’aimez pas prendre le métro, vous dites :'
+  options:
+  - option: J’ai horreur du métro.
+    correct: true
+  - option: J’ai haine du métro.
+explanation:
+  fr: |-
+    Eh oui ! "avoir horreur de" est un synonyme du verbe "détester".
+    On peut l'utiliser pour parler d'un objet, d'une action, d'un comportement ou de quelqu'un.
+  en: |-
+    “avoir horreur de” means to hate.
+    We can use it with anything we hate : an object, an action, a behavior or even someone.
+    We hope that you won't have to use it too often !
+words:
+- fr: L’autoroute le 15 août, quelle horreur !
+  en: Driving on a highway on mid-August is such a nightmare!
+- fr: Il est insupportable en ce moment.
+  en: He is being so unbearable.
+- fr: Je ne supporte pas les magasins le samedi.
+  en: I hate shopping on Saturdays.
+- fr: La violence me fait horreur.
+  en: Violence horrifies me.
+end_question: Et vous, avez-vous déjà pris le métro parisien à une heure de pointe
+  ?

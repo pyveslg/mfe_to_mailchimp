@@ -1,0 +1,33 @@
+---
+title: ça fait 5 ans
+preview_text: Today, learn how to take stock
+color: "#f7fbe1"
+goal: faire le bilan
+challenge:
+  state: 'Vous rencontrez un français. Il vous demande depuis quand vous habitez en
+    France. Vous dites :'
+  options:
+  - option: Il y a un an.
+    correct: true
+  - option: Depuis un an.
+explanation:
+  fr: |-
+    Eh oui ! depuis est utilisé pour parler d’un événement
+    qui a commencé dans le passé et qui continue aujourd’hui.
+    il y a introduit un événement passé et terminé.
+
+    Je suis arrivé(e) il y a un an. (= je n'arrive plus !)
+    J’habite ici depuis un an. (= J'y habite encore !)
+  en: |-
+    “depuis” is used to talk about something that started in the past but still goes on.
+    It’s different from “il y a”, which is used to talk about something past and finished.
+words:
+- fr: Ça fait 5 ans.
+  en: It’s been 5 years.
+- fr: Je mange végétarien depuis 2 mois.
+  en: I’ve been eating vegetarian for 2 months.
+- fr: Ça fait un moment.
+  en: It’s been a while.
+- fr: "Ça fait un bail \nqu’on ne s’est pas vu !"
+  en: Long time no see !
+end_question: Et vous, ça fait combien de temps que vous apprenez le français ?

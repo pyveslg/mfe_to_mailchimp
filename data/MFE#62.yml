@@ -1,0 +1,26 @@
+---
+title: profite à fond de tes vacances
+preview_text: 'go on vacation this summer'
+color: "#76d3ff"
+goal: partir cet été
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: Pour ma vacance, je pars en Grèce.
+    correct: true
+  - option: Pour mes vacances, je pars en Grèce.
+explanation:
+  fr: Eh oui ! **_les_ vacances, c'est toujours au pluriel** !
+  en: |-
+    As we have a minimum of 5 weeks holidays every year in France,  “vacances” are always plural. ;)
+    Vive les vacances!
+words:
+- fr: "**Bonnes vacances** !"
+  en: Have a good holiday!
+- fr: Je **pars en vacances** pour 3 semaines.
+  en: I am going on vacation for 3 weeks.
+- fr: J’ai hâte de **faire une pause** !
+  en: I am looking forward to taking a break!
+- fr: "**Profite à fond** de tes vacances !"
+  en: Fully enjoy your holidays!
+end_question: "Alors, vous partez bientôt en vacances ?"

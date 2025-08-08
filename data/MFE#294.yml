@@ -1,0 +1,31 @@
+---
+title: tu viens quand sur Paris
+preview_text: Today, learn to live in downtown Paris
+color: "#eaf5ff"
+goal: habiter intra-muros
+challenge:
+  state: 'Un collègue vous demande où vous habitez. Vous répondez :'
+  options:
+  - option: J’habite à Paris.
+    correct: true
+  - option: J’habite sur Paris.
+explanation:
+  fr: "Eh oui ! à est la préposition appropriée devant une ville mais les Parisiens
+    utilisent très souvent la préposition sur devant les grandes villes.\nC’est plus
+    idiomatique et bien plus cool ! \U0001F60E"
+  en: |-
+    “à” is the correct preposition to use before a city.
+    However Parisians often use instead the preposition “sur” (only before major cities).
+    It's way more idiomatic!
+words:
+- fr: Tu habites sur Paris ?
+  en: Do live you in Paris?
+- fr: Je suis sur Lyon demain.
+  en: I'll be in Lyon tomorrow.
+- fr: Je déménage sur Montpellier en Juillet.
+  en: I move to Montpellier in July.
+- fr: Tu viens quand sur Paris ?
+  en: When do you come to Paris?
+end_question: |-
+  Et vous,
+  vous habitez sur Paris ?

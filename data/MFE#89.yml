@@ -1,0 +1,28 @@
+---
+title: c’est bon, je suis connecté
+preview_text: "Today, learn how to get connected \U0001F50C"
+color: "#e75151"
+goal: être connecté
+challenge:
+  state: 'Vous cherchez des informations et consultez plusieurs pages Internet. Vous
+    dites :'
+  options:
+  - option: Je fais des recherches sur Internet.
+    correct: true
+  - option: Je fais des recherches dans Internet.
+explanation:
+  fr: |-
+    Eh oui ! On utilise la préposition sur devant Internet.
+    Vous ne rentrez pas dans Internet, vous naviguez sur Internet !
+  en: In French you don't surf the web but your surf “on” the web. And not “in” the
+    web. Then “sur” is the right preposition to use before The Internet.
+words:
+- fr: Tu as regardé sur Internet ?
+  en: Have you searched the web?
+- fr: C’est bon, je suis connecté.
+  en: All right, I'm logged in.
+- fr: Je n’arrive pas à accéder à Internet.
+  en: I can't connect to the Internet.
+- fr: Il passe ses soirées sur la Toile.
+  en: He spends his evenings online.
+end_question: Et vous, êtes-vous souvent sur Internet ?

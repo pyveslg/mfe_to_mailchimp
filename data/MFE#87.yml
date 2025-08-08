@@ -1,0 +1,29 @@
+---
+title: tu as bien fait
+preview_text: Today, learn how to judge
+color: "#f5f5f5"
+goal: juger
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: C’est bien !
+  - option: C’est bon !
+explanation:
+  fr: |-
+    Eh oui ! “bien” est un adverbe. Il se réfère donc à un verbe.
+    C'est bien = C’est bien [ce que tu as fait]
+    “bon” est un adjectif. Il se réfère donc à un nom.
+    C'est bon  = “Ce [plat] est bon.” ou “C'est [une] bonne [chose].”
+  en: |-
+    “C'est bien” implies that what is done is good. “bien” is an adverb as it refers to a verb.
+    “C'est bon” implies that something is good. “bon” is an adjective as it refers to a noun.
+words:
+- fr: Bien essayé !
+  en: Good try!
+- fr: Tu as bien fait de le rappeler.
+  en: It was good of you to call him back.
+- fr: Tu t’y prends très bien avec lui.
+  en: You know how to manage him.
+- fr: Tu t’en es bien sorti cette fois.
+  en: You did really well this time.
+end_question: Et vous, comment vous trouvez cette explication ?

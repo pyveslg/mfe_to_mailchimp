@@ -1,0 +1,28 @@
+---
+title: Je n’en fais jamais
+preview_text: Today, learn how to not repeat
+color: "#f1fff1"
+goal: ne pas répéter
+challenge:
+  state: 'Un collègue vous demande si vous avez des enfants. Vous répondez :'
+  options:
+  - option: Oui, j’ai deux.
+    correct: true
+  - option: Oui, j’en ai deux.
+explanation:
+  fr: |-
+    Eh oui ! en remplace le complément (enfant dans cette phrase).
+    Il est nécessaire même si la quantité (deux) est formulée.
+  en: |-
+    ”en” replaces the complement (“en” = “enfant” in this sentence)
+    ”en” is necessary even when the quantity (“deux”) is mentioned.
+words:
+- fr: Des melons ? – J’en prendrai deux.
+  en: Some melons? I'll have two of them.
+- fr: Du café, j’en bois un par jour.
+  en: I drink one coffee a day.
+- fr: Un vélo ? Je n’en fais jamais.
+  en: I never ride a bike.
+- fr: Quand il y en a plus, il y en a encore.
+  en: When there's none left, there's some more.
+end_question: Et vous, faites-vous du vélo à Paris ?

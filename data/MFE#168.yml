@@ -1,0 +1,32 @@
+---
+title: on se prend une planche
+preview_text: Today, learn how to eat like a Parisian
+color: "#f6c7c7"
+goal: manger comme un Parisien
+challenge:
+  state: 'Vous lui proposez d’aller faire un brunch. Vous dites :'
+  options:
+  - option: On va brunchir dimanche ?
+    correct: true
+  - option: On va bruncher dimanche ?
+explanation:
+  fr: 'Eh oui ! bruncher est un néologisme largement utilisé par les Parisiens pour
+    décrire ce fameux mélange du petit-déjeuner et du déjeuner, souvent pris le week-end.
+    Comme la majorité des verbes récemment créés, c’est un verbe du premier groupe
+    (en -ER). Il est donc facile à conjuguer : je brunche / tu brunches / il brunche
+    / elle brunche / nous brunchons / vous brunchez / ils brunchent / elles brunchent.'
+  en: 'On week-ends, Parisians love to get up late (after having, for some of them,
+    a long night). When they get up, they usually like to brunch : kind of a mix of
+    breakfast and lunch. It''s so popular that they ended up by dedicating a verb
+    for it : “bruncher”. As the majority of the other neologisms, this verb is part
+    of the first group and is easy to conjugate.'
+words:
+- fr: Je brunche tous les dimanches.
+  en: I go out for a brunch every Sunday.
+- fr: Tu viens prendre un café à la maison ?
+  en: Come home and have a coffee with us/me.
+- fr: On se fait livrer ce soir ?
+  en: Shall we order some food for tonight?
+- fr: On se prend une planche à partager ?
+  en: What about having an assortment of cheese and French charcuterie ?
+end_question: Et vous, avez-vous déjà brunché à Paris ?

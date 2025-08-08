@@ -1,0 +1,31 @@
+---
+title: Il n'y a pas de quoi !
+preview_text: ''
+color: "#fb56bb"
+goal: |-
+  répondre à un Merci
+  une bonne fois pour toute*
+challenge:
+  state: 'Votre collègue vous remercie, vous lui répondez  :'
+  options:
+  - option: Avec plaisir.
+    correct: true
+  - option: C'est bienvenu.
+explanation:
+  fr: |-
+    Eh oui ! “Avec plaisir” est une formule courtoise
+    pour répondre à tout type de remerciement.
+    Vous pouvez également dire "de rien" mais cette formule est plus informelle.
+  en: |-
+    “Avec plaisir” is the polite way to answer any kind of thanks.
+    You can also answer "de rien" but it is more informal.
+words:
+- fr: Ça me fait plaisir de t'aider.
+  en: I am happy to help you.
+- fr: Je vous en prie.
+  en: You are welcome
+- fr: Tout le plaisir est pour moi.
+  en: The pleasure is all mine
+- fr: Il n'y a pas de quoi !
+  en: Don't mention it!
+end_question: Et si on vous disait merci ?

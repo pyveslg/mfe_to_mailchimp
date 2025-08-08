@@ -1,0 +1,27 @@
+---
+title: ce n’est pas une raison
+preview_text: Today, learn how to get information
+color: "#d5f7ff"
+goal: obtenir des informations
+challenge:
+  state: 'Vous avez réservé un hôtel. Vous arrivez et le réceptionniste vous dit que
+    la chambre est déjà occupée. Vous demandez :'
+  options:
+  - option: Comment ça se fait ?
+    correct: true
+  - option: Comment ça arrive ?
+explanation:
+  fr: Eh oui! “Comment ça se fait ?” est une question courante pour s’informer sur
+    les raisons d’une situation.
+  en: "“Comme ça se fait ?” is a very common question to ask when you want to know
+    the cause of something."
+words:
+- fr: Pourquoi ?
+  en: Why ?
+- fr: Dis-moi pourquoi !
+  en: Tell me why!
+- fr: Ce n’est pas une raison !
+  en: That's not a reason!
+- fr: Comment se fait-il que tu arrives si tard ?
+  en: How come you're so late!
+end_question: Hum, vous apprenez le français Comment ça se fait ?

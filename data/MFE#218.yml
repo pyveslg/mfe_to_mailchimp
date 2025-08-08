@@ -1,0 +1,30 @@
+---
+title: c'est fait
+preview_text: Today, learn how to work for someone else
+color: "#b9efe3"
+goal: travailler pour quelqu’un
+challenge:
+  state: 'Vous travaillez à Paris pour une entreprise américaine. Votre ami vous demande
+    si votre entreprise est française. Vous dites :'
+  options:
+  - option: Je suis employé par une entreprise américaine.
+    correct: true
+  - option: J’employé par une entreprise américaine.
+explanation:
+  fr: "Eh oui ! je suis employé par est une structure passive. \nL’utilisation de
+    être indique que l’entreprise américaine\n est l’agent actif dans la phrase :\nUne
+    entreprise américaine m’emploie. > Je suis employé par une entreprise américaine."
+  en: French passive voice sentences (sentences where the subject is acted upon by
+    the verb) are built with “être”. Une entreprise américain m'emploie (Active voice
+    = An American company employs me)  > Je suis employé par une entreprise américain
+    (Passive voice = I am employed by an American company)
+words:
+- fr: C’est fait !
+  en: It's done!
+- fr: J’ai été embauché par une super boîte !
+  en: I got hired by an awesome company!
+- fr: Le projet a été bouclé !
+  en: The project has been completed!
+- fr: Contrairement à ce qui a été annoncé, ce ne sera pas possible.
+  en: Unlike what was previously announced, it will not be possible.
+end_question: Alors, êtes-vous aidé par l'astuce de ce matin ?

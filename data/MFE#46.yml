@@ -1,0 +1,30 @@
+---
+title: par esprit de contradiction
+preview_text: ''
+color: "#d8d95c"
+goal: contredire
+challenge:
+  state: 'Votre collègue affirme qu’il a fait du mauvais travail et vous n’êtes pas
+    d’accord. Vous dites :'
+  options:
+  - option: Au contraire, c'est très bien !
+    correct: true
+  - option: Dans le contraire, c'est très bien !
+explanation:
+  fr: |-
+    Eh oui ! "au contraire" est une expression d'opposition.
+    Elle permet d'introduire un point de vue opposé à l'idée précédente.
+  en: |-
+    “au contraire” underlies an opposition.
+    It introduces an opposite opinion to a previous one.
+words:
+- fr: Tu n’es jamais d’accord !
+  en: You never agree!
+- fr: La perfection et l’efficacité sont deux idées contradictoires.
+  en: Perfection and efficiency are two contradictory ideas.
+- fr: Il s’oppose, par esprit de contradiction.
+  en: He's objecting, just to be contradictory.
+- fr: Ce n’est pas stupide, loin de là !
+  en: He is not stupid. Far from it!
+end_question: Alors, le saut à l'élastique du haut de la Tour Eiffel, c'est une bonne
+  idée ?

@@ -1,0 +1,32 @@
+---
+title: c’est à toi de voir
+preview_text: ''
+color: "#fffdef"
+goal: interpeller
+challenge:
+  state: 'Votre ami vous demande comment vous allez. Vous répondez :'
+  options:
+  - option: Très bien ! Et tu ?
+  - option: Très bien ! Et toi ?
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! toi est un pronom tonique.
+    Il vient après des prépositions, comme : avec, de, pour, sans...
+    Par exemple : "Pas sans toi", "Comme toi", "C'est pour toi" ...
+    Mais tu est un sujet dans la phrase. Tu vient donc avec un verbe. Par exemple : "Tu vas bien ?"
+  en: |-
+    “toi” is a “stressed” pronoun. It comes after prepositions like : with, from, for, without...
+    “tu” is a subject in the sentence. It comes then with a verb.
+words:
+- fr: Fais comme chez toi !
+  en: Do as you wish!
+- fr: C’est toi qui le dit…
+  en: You say so...
+- fr: C’est à toi de voir !
+  en: It's up to you!
+- fr: C’est bien fait pour toi.
+  en: It serves you right.
+end_question: |-
+  Et toi,
+  comment vas-tu ?

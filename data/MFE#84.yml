@@ -1,0 +1,28 @@
+---
+title: il est mort de peur
+preview_text: "Today, learn how to take fright \U0001F383 \U0001F631"
+color: "#eef2e2"
+goal: prendre peur
+challenge:
+  state: 'Ce soir, c’est Halloween ! Vous devez vous préparer à :'
+  options:
+  - option: avoir peur !
+    correct: true
+  - option: être peur !
+explanation:
+  fr: |-
+    Eh oui ! avoir précède un nom : “J’ai peur.”
+    être précède un adjectif : “Je suis effrayé”.
+  en: |-
+    Before a noun, you should use “avoir”. But before an adjective, “être” is the correct verb.
+    You haven't got any further reasons to be afraid of using “avoir” or “être”...
+words:
+- fr: Il est mort de peur.
+  en: He's dead scared.
+- fr: Les araignées me font peur.
+  en: Spiders scare me.
+- fr: Il a peur de son ombre.
+  en: He's afraid of his own shadow.
+- fr: Finalement, il y a eu plus de peur que de mal.
+  en: There was no harm done in the end.
+end_question: Et vous, quelle est votre plus grande peur ?

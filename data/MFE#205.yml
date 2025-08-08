@@ -1,0 +1,32 @@
+---
+title: bravo, c’est top
+preview_text: Today, learn how to encourage
+color: "#edc4c9"
+goal: encourager
+challenge:
+  state: 'Votre ami a créé un blog pour aider des expatriés à connaître les bonnes
+    adresses à Paris. Il vous demande votre avis. Vous dites :'
+  options:
+  - option: C’est une idée bonne !
+  - option: C’est une bonne idée !
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Les adjectifs courts et courants sont placés avant le nom.
+    Par exemple : autre, beau, joli, bon, mauvais, grand, petit, nouveau, vieux, jeune…
+    Un mauvais temps / De grandes idées / Un petit musée / Notre nouvelle maison.
+  en: |-
+    Adjectives can be placed either before or after a noun in French.
+     Short and common adjectives are usually placed before the noun.
+words:
+- fr: Bravo, c’est top !
+  en: Congrats! It's excellent!
+- fr: C’est une très bonne initiative.
+  en: It's a very good initiative.
+- fr: C’est canon comme idée !
+  en: It's an awesome idea! (informal)
+- fr: Ne t’arrête pas en si bon chemin.
+  en: Don't stop now, you're doing so well.
+end_question: |-
+  Alors,
+  passez un bon week-end !

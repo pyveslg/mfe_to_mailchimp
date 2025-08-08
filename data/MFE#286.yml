@@ -1,0 +1,29 @@
+---
+title: un rendez-vous en début de semaine
+preview_text: "Today, learn how to fill your schedule \U0001F4C6"
+color: "#c5ecbe"
+goal: remplir votre agenda
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: On se revoit début avril ?
+    correct: true
+  - option: On se revoit au début d’avril ?
+explanation:
+  fr: |-
+    Eh oui ! [début + mois] fait référence aux 10 premiers jours du mois.
+    Cette expression est très utilisée
+    pour proposer des rendez-vous ou parler de vos projets.
+  en: "[début + name of the month] is the usual and natural way to refer to the first
+    10 days of a month. It is pretty much used and convenient to schedule new meeting
+    or to talk about project planning."
+words:
+- fr: Je rentre début mars !
+  en: I'll be back at the beginning of March!
+- fr: Tu seras à Paris fin mars ?
+  en: Will be in Paris at the end of March?
+- fr: J’ai pris rendez-vous en début de semaine prochaine.
+  en: I scheduled a meeting early next week.
+- fr: On se cale un rendez-vous courant avril ?
+  en: Shall we meet again in the course of April?
+end_question: Et vous, quand prenez-vous vos prochaines vacances ?

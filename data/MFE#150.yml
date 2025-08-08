@@ -1,0 +1,27 @@
+---
+title: tous les horaires sont indiqués ci-contre
+preview_text: Today, learn how to attach information in your (e)mails
+color: "#fa9e05"
+goal: envoyer vos documents
+challenge:
+  state: 'Vous intégrez au mail un document. Vous écrivez :'
+  options:
+  - option: Tu trouveras ci-joint le document.
+    correct: true
+  - option: Tu trouveras ci-attaché le document.
+explanation:
+  fr: Eh oui ! joindre un document est la formule d’usage pour indiquer qu’une pièce
+    est envoyée avec un courrier postal ou électronique (e-mail).
+  en: When you attach or enclose a document to your email, the corresponding French
+    idiom is “joindre un document”.
+words:
+- fr: Tous les horaires sont indiqués ci-contre.
+  en: The timetable is indicated [above/below/opposite]
+- fr: Veuillez trouver, ci-dessous, les dates prévisionnelles.
+  en: Please find below the forecast dates.
+- fr: Tu trouveras, joint à ce mail, le rapport attendu.
+  en: You will find attached to this email the requested report.
+- fr: Je t’envoie le rapport en pièce-jointe.
+  en: I am sending you an email with the report attached.
+end_question: "Et vous, à qui allez-vous mettre des ❤️ en pièce jointe aujourd'hui
+  ? \U0001F60A"

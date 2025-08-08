@@ -1,0 +1,30 @@
+---
+title: venez nous voir
+preview_text: Today, learn to backtrack
+color: "#ffc3e7"
+goal: revenir sur vos pas
+challenge:
+  state: 'Vous allez au travail. Sur le chemin, vous réalisez que vous avez oublié
+    votre téléphone portable chez vous. Vous dites :'
+  options:
+  - option: Je rentre chercher mon portable.
+    correct: true
+  - option: Je rentre à chercher mon portable.
+explanation:
+  fr: |-
+    Eh oui ! Les verbes de directions
+    n’ont pas besoin de préposition devant un autre verbe :
+    [aller, venir, monter, partir, retourner… + infinitif].
+  en: |-
+    In French, directional verbs (to go, to come, to go up, to leave, to get back...)
+    do not need any preposition when followed by another infinitive verb.
+words:
+- fr: Je vais récupérer mon sac.
+  en: I'm getting my bag back.
+- fr: Tu es passé chercher tes affaires au pressing ?
+  en: Have you been to the dry cleaner's to pick up your stuff?
+- fr: Je pars faire les courses !
+  en: I am going to go shopping!
+- fr: Mes parents viennent nous voir cet été.
+  en: My parents will visit us this summer.
+end_question: Et vous, vous venez nous rencontrer dans un prochain Meetup ?

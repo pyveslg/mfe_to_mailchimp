@@ -1,0 +1,25 @@
+---
+title: laisse-moi finir !
+preview_text: Today, learn how to keep speaking...
+color: "#fef8e6"
+goal: garder la parole
+challenge:
+  state: 'Vous êtes en réunion. Vous exprimez votre point de vue mais un collègue
+    vous interrompt plusieurs fois. Pour vous affirmer, vous dites :'
+  options:
+  - option: Ne me coupe pas le discours.
+  - option: Ne me coupe pas la parole.
+    correct: true
+explanation:
+  fr: Eh oui ! “couper la parole” signifie interrompre une personne qui parle.
+  en: "”couper la parole” means to cut someone short."
+words:
+- fr: Je n’ai pas fini !
+  en: I have not finished to speak!
+- fr: Laisse-moi d'abord finir !
+  en: Let me finish first !
+- fr: Ne m’interromps pas s’il te plaît.
+  en: Don't cut me short please.
+- fr: Cesse de m'interrompre sans arrêt !
+  en: Stop interrupting me nonstop!
+end_question: Alors, on garde la parole ou on vous laisse parler ?

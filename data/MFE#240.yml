@@ -1,0 +1,26 @@
+---
+title: il a toujours la banane
+preview_text: "Today, learn how to love fruits \U0001F34D\U0001F351\U0001F34C"
+color: "#fdea94"
+goal: aimer les fruits
+challenge:
+  state: 'Vous êtes plein d’énergie ! Vous dites :'
+  options:
+  - option: J’ai la pêche !
+    correct: true
+  - option: J’ai l’abricot !
+explanation:
+  fr: Eh oui ! avoir la pêche est une expression “fruitée” qui signifie être plein
+    d’énergie et être heureux.
+  en: "“avoir la pêche” is a “fruity” but very common idiom used when one feels great,
+    happy and full of energy!"
+words:
+- fr: J’ai la pêche.
+  en: I feel so great!
+- fr: Il a toujours la banane.
+  en: He is always happy.
+- fr: Depuis sa nomination, il a pris le melon.
+  en: He's got so big-headed since his appointment.
+- fr: Je l’ai connu quand il était haut comme trois pommes.
+  en: I met him when he was knee-high as grasshopper.
+end_question: "Et vous, avez-vous la pêche aujourd’hui ? \U0001F351"

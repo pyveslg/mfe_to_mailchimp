@@ -1,0 +1,29 @@
+---
+title: il faut peser le pour et le contre ⚖️
+preview_text: Today, learn how to assess the situation
+color: "#ffe0f7"
+goal: évaluer une situation
+challenge:
+  state: 'Vous hésitez entre différentes destinations. Vous dites :'
+  options:
+  - option: D’un côté, j’aimerais voir Carcassonne mais d'un autre côté, j’irais bien
+      à la plage !
+    correct: true
+  - option: D’une main, j’aimerais voir Carcassonne mais d'une autre main, j’irais
+      bien à la plage !
+explanation:
+  fr: "Eh oui ! d’un côté ... d'un autre côté \nest une expression utilisée pour comparer
+    deux phrases opposées."
+  en: To compare two opposite sentences, you can use the expression “d’un côté … d'un
+    autre côté”
+words:
+- fr: J’hésite entre un croissant et un pain au chocolat.
+  en: I'm hesitating between a pain au chocolat and a croissant.
+- fr: C’est la meilleure saison pour partir. Mais en même temps, il y aura beaucoup
+    de touristes...
+  en: It’s the best season to leave. But at the same time, there’ll be lots of tourists…
+- fr: D’un côté, j’adorerais y aller, de l’autre je n’ai vraiment pas le temps.
+  en: On the one hand, I’d love to go, on the other hand, I really don’t have time.
+- fr: Il faut peser le pour et le contre.
+  en: You have to weigh the pros and cons.
+end_question: Et vous, où voulez-vous partir cet été ?

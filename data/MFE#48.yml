@@ -1,0 +1,27 @@
+---
+title: comment puis-je t’aider ?
+preview_text: ''
+color: "#badf96"
+goal: être utile
+challenge:
+  state: 'Pour proposer de l’aide, vous dites :'
+  options:
+  - option: Puis-je t’aider ?
+  - option: Peux-je t’aider ?
+explanation:
+  fr: |-
+    Eh oui ! "je puis" est la version soutenue et ancienne de "je peux".
+    Dans une question, pour faciliter la prononciation, on utilise seulement "puis-je ...".
+  en: |-
+    “je puis” is the formal and old-fashioned way to say “je peux”.
+    Still, in a question, for pronunciation matter, “puis-je” must be used.
+words:
+- fr: Avez-vous besoin d'aide ?
+  en: Do you need some help?
+- fr: Comment puis-je t'aider ?
+  en: How can I help?
+- fr: Puis-je vous rendre service ?
+  en: May I help you?
+- fr: Comment puis-je me rendre utile?
+  en: How can I be useful ?
+end_question: Alors, puis-je vous aider davantage ?

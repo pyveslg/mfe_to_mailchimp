@@ -1,0 +1,30 @@
+---
+title: il fait appel aux bonnes volontés
+preview_text: ''
+color: "#f5d061"
+goal: mobiliser des volontaires
+challenge:
+  state: 'Le 18 juin 1940, le général de Gaulle a :'
+  options:
+  - option: appelé pour continuer le combat.
+  - option: appelé à continuer le combat.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! comme en anglais, les verbes peuvent changer de sens
+    selon la préposition qui suit...
+    Dans ce cas, "appeler à" signifie: inciter, créer une mobilisation.
+  en: |-
+    As in English, some verbs can mean something else according to the preposition that follows them.
+    Here, ”appeler à” means : to encourage, to prompt, to generate a mobilisation.
+    ”appeler pour...” is used when calling someone for doing/offering/knowing something.
+words:
+- fr: J’ai besoin de votre aide.
+  en: I need your help.
+- fr: Ensemble, mobilisons-nous !
+  en: Let us act together!
+- fr: Ce projet suscite une forte mobilisation.
+  en: This project arouses a high level of mobilisation.
+- fr: Pour réussir, il fait appel aux bonnes volontés.
+  en: he is appealing for volunteers to make it happen.
+end_question: Et vous, pour quelle cause vous mobilisez-vous ?

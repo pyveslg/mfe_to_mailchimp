@@ -1,0 +1,30 @@
+---
+title: je cours même en hiver
+preview_text: Today, learn how to be persistent
+color: "#ffdc34"
+goal: insister
+challenge:
+  state: 'C’est mardi matin, vous prenez la ligne de métro 13 à 8h30. Le métro est
+    plein mais vous devez aller au travail. Vous dites :'
+  options:
+  - option: Le métro est plein mais je monte quand même.
+    correct: true
+  - option: Le métro est plein mais je monte malgré.
+explanation:
+  fr: |-
+    Eh oui ! quand même est une locution couramment utilisée pour insister sur une contradiction. Elle se place après le verbe.
+    Par exemple : je n’aime pas la foule mais je prends quand même le métro.
+  en: "“quand même” (= even so) is often used to stress something that you do or say
+    despite what has just been said and that would likely sound as contradictory."
+words:
+- fr: Essaye quand même !
+  en: Try anyway!
+- fr: Je cours même en hiver.
+  en: I run even in winter.
+- fr: Il vient au travail malgré son rhume.
+  en: He comes to work despite his cold.
+- fr: Quand bien même je voudrais, ce serait refusé par la direction.
+  en: Even though I would like it, it would be denied by the leadership team.
+end_question: |-
+  Et vous,
+  montez-vous dans le métro quand il est plein ?

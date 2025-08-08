@@ -1,0 +1,30 @@
+---
+title: Grosso modo, c’est tout droit
+preview_text: Today, learn how to summarize
+color: "#f5ffcb"
+goal: dire l'essentiel
+challenge:
+  state: 'Il vous demande la recette des croissants. Vous dites :'
+  options:
+  - option: Basiquement, c’est de la farine et du beurre !
+  - option: En gros, c’est de la farine et du beurre !
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! en gros annonce l’essentiel d’une information complexe.
+    Il s’emploie dans un contexte informel.
+    Le terme basiquement est incorrect en français.
+  en: "Basically, “en gros” means ”basically” \U0001F609 \n“basiquement” does not
+    sound French."
+words:
+- fr: En bref, tout est réglé !
+  en: In a nutshell, everything's fine!
+- fr: Grosso modo, c’est tout droit.
+  en: It's basically straight on.
+- fr: En un mot, c'était top!
+  en: In a word, that's was awesome!
+- fr: Pourquoi faire simple quand on peut faire compliqué ?  (ironique)
+  en: Why get complicated? (ironic)
+end_question: |-
+  Et vous, en gros,
+  comment apprenez-vous le français ?

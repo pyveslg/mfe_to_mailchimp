@@ -1,0 +1,32 @@
+---
+title: j’accorde autant d’importance à chacun
+preview_text: Today, learn how to be on equal footing... ⚖️
+color: "#ff9a3c"
+goal: être à égalité
+challenge:
+  state: 'Vous êtes trilingue. Vous expliquez à votre collègue que vous avez le même
+    niveau en français et en allemand. Vous dites :'
+  options:
+  - option: Je parle autant le français comme l’allemand.
+  - option: Je parle autant le français que l’allemand.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Tous les comparatifs sont construits avec que.
+    Observez ces trois comparaisons :
+    “Je parle moins le français que l’allemand.”
+    “Je parle autant le français que l’allemand.”
+    “Je parle plus le français que l’allemand.”
+  en: |-
+    “que” is required in any comparative structure in French.
+    Observe the above examples to make it definitely clearer!
+words:
+- fr: Marron et brun, pour moi c’est pareil !
+  en: Chestnut brown or brown... They're just the same for me.
+- fr: J’accorde autant d’importance à chacun.
+  en: I value each of you equally.
+- fr: Finalement, les deux solutions reviennent au même.
+  en: In the end, both solutions are worth the same.
+- fr: Ici, tout le monde est mis sur un pied d’égalité !
+  en: Everyone is put on an equal footing here!
+end_question: Et vous, parlez-vous autant le français que vous aimeriez ?

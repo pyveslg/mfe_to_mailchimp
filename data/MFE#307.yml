@@ -1,0 +1,29 @@
+---
+title: je laisse un pourboire
+preview_text: "Today, learn how to tip someone \U0001F911"
+color: "#a1dd70"
+goal: laisser un pourboire
+challenge:
+  state: 'La course est à 18€ mais vous lui laissez un billet de 20€. Vous dites :'
+  options:
+  - option: Vous pouvez garder le change.
+    correct: true
+  - option: Vous pouvez garder la monnaie.
+explanation:
+  fr: |-
+    Eh oui ! La monnaie est un faux ami !
+    En français, c’est la différence entre l’argent dû et l’argent donné :
+    20€ - 18€ = 2€ de monnaie.
+  en: "“monnaie” is a false friend and does not mean “money”. It's the change i.e.
+    the money returned to you when you pay with a higher amount of money than your
+    purchase actually costs."
+words:
+- fr: Voici votre monnaie.
+  en: Here's your change.
+- fr: Il ne m’a pas rendu la monnaie.
+  en: He didn't give me the change.
+- fr: Je laisse un pourboire au serveur.
+  en: I tip the waiter.
+- fr: Je vous en prie, gardez la monnaie.
+  en: Please, keep the change.
+end_question: Et vous, laissez-vous des pourboires au restaurant ?

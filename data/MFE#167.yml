@@ -1,0 +1,28 @@
+---
+title: dois-je commander au bar
+preview_text: Today, learn how to be mobile
+color: "#e4dcad"
+goal: être mobile
+challenge:
+  state: 'Vous allez au travail. Sur le chemin, vous achetez un café dans la chaîne
+    de restauration Cojean. Vous boirez votre café au bureau. Vous dites :'
+  options:
+  - option: Un café à emporter, s’il vous plaît.
+    correct: true
+  - option: Un café à emmener, s’il vous plaît.
+explanation:
+  fr: Eh oui ! à emporter est l’expression usuelle si vous ne consommez pas dans le
+    café ou le restaurant. L’expression opposée est sur place.
+  en: "“à emporter” is the common idiom used when you order some food or drink that
+    you want to take away. The contrary is “sur place”. That's today key takeaway...
+    \U0001F60A"
+words:
+- fr: Sur place ou à emporter ?
+  en: To eat in or take away?
+- fr: Je consommerai sur place.
+  en: I'll eat here.
+- fr: Dois-je commander au bar ?
+  en: Shall I order at the counter?
+- fr: Vous livrez au bureau ?
+  en: Do you make delivery at the office?
+end_question: Et votre French Expresso, c'est sur place ou à emporter ?

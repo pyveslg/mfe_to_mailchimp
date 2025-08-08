@@ -1,0 +1,32 @@
+---
+title: ce fut un vrai plaisir
+preview_text: Today, learn how to appreciate your experiences
+color: "#ed8d8d"
+goal: apprécier vos expériences
+challenge:
+  state: 'Vous participez à une soirée chez un ami. Votre ami vous demande si vous
+    passez une bonne soirée. Vous répondez :'
+  options:
+  - option: Oui, c’est très joli !
+  - option: Oui, c’est très sympa !
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Ne confondez pas joli et sympa !
+    L’adjectif sympa est indispensable…
+    Il permet d’exprimer un jugement positif général à propos d’une expérience, mais aussi d’une personne, d’un objet ou d’une situation !
+    L’adjectif joli se réfère spécifiquement à l’esthétique d’un objet ou d’une personne.
+  en: |-
+    “joli” and “sympa” are both translated by “nice” in English. But do not mix them up!
+    “sympa” is a key word in French to qualify that something, someone, a situation or an experience is nice.
+    “joli” is exclusively used to speak about the prettiness of something or someone.
+words:
+- fr: C’était vraiment sympa !
+  en: It was really nice!
+- fr: Je passe un très bon moment !
+  en: I have a great time!
+- fr: Ça m’a beaucoup plu.
+  en: I enjoyed it a lot.
+- fr: Ce fut un vrai plaisir.
+  en: It was a real pleasure.
+end_question: Et vous, comment était votre week-end ?

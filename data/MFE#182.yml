@@ -1,0 +1,28 @@
+---
+title: quoi de neuf
+preview_text: Today, learn how to have great reunion
+color: "#a6dffc"
+goal: vivre des retrouvailles
+challenge:
+  state: 'Ce week-end, c’est Pâques ! Vous retrouvez un cousin que vous n’avez pas
+    vu depuis plusieurs mois. Vous demandez :'
+  options:
+  - option: Qu’est-ce que tu fais de bien ?
+    correct: true
+  - option: Qu’est-ce que tu fais de beau ?
+explanation:
+  fr: Eh oui ! Qu’est-ce que tu fais de beau ? est une manière courante de s’informer
+    sur les activités et le travail de quelqu’un. C’est une jolie alternative à l’expression
+    “Qu’est-ce que tu fais (dans la vie) ?”.
+  en: "“Qu'est-ce que tu fais de beau?” is a common and poetic idiom to ask someone
+    about what their current activities, projects or news are."
+words:
+- fr: Quoi de neuf ?
+  en: What's up ?
+- fr: Qu’est-ce que tu fais en ce moment ?
+  en: What are you doing at the moment ?
+- fr: Qu’est-ce que tu deviens ?
+  en: What news ?
+- fr: Tu en es où dans ton projet ?
+  en: How is your project going ?
+end_question: Et vous, qu’allez-vous faire de beau ce week-end ?

@@ -1,0 +1,31 @@
+---
+title: Voilà une bonne chose de faite
+preview_text: Today, learn how to be an ordinary person
+color: "#6bd5e1"
+goal: être ordinaire
+challenge:
+  state: 'Votre collègue vous demande ce que vous avez fait ce week-end. Vous dites
+    :'
+  options:
+  - option: Rien spécial.
+    correct: true
+  - option: Rien de spécial.
+explanation:
+  fr: |-
+    Eh oui ! Les pronoms indéfinis (quelqu’un, quelque chose, rien et personne) sont suivis de de devant un adjectif :
+    [quelqu’un, quelque chose, rien et personne] + de + [adjectif].
+    Exemple : Dis quelque chose de gentil.
+  en: The indefinite pronouns (“quelqu'un” = someone, “quelque chose” = something,
+    “rien” = nothing, “personne” = nobody) are immediately followed by ”de” when the
+    next word is an adjective.
+words:
+- fr: C’est quelqu’un de gentil !
+  en: He's a kind person!
+- fr: Il n’y a rien d’urgent…
+  en: There's no urgency...
+- fr: Je n’ai rien fait de spécial.
+  en: I did nothing in particular.
+- fr: Voilà une bonne chose de faite !
+  en: That's one thing out of the way!
+end_question: Et vous, avez-vous visité quelque chose de bien durant les Journées
+  du Patrimoine ?

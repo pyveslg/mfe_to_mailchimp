@@ -1,0 +1,29 @@
+---
+title: ce serait bien que tu prennes des infos
+preview_text: Today, learn how to give some good advice
+color: "#f7f6e7"
+goal: donner des conseils
+challenge:
+  state: 'Votre collègue arrive au travail avec de la fièvre. Vous dites :'
+  options:
+  - option: Tu devrais aller chez le médecin.
+    correct: true
+  - option: Tu devais aller chez le médecin.
+explanation:
+  fr: |-
+    Eh oui ! devoir au conditionnel est le verbe idéal pour introduire un conseil.
+    Pour rappel, voici la conjugaison : je devrais / tu devrais / il devrait / elle devrait / nous devrions / vous devriez / ils devraient / elles devraient.
+  en: "We definitely recommend you to use the verb ”devoir” at the conditional tense
+    next time you would like to give some good advice. That's our best piece of advice
+    today ! \U0001F609"
+words:
+- fr: Prends un médicament.
+  en: Take a medicine/drug.
+- fr: Nous devrions y aller.
+  en: We should go.
+- fr: Tu devrais vraiment préparer tes affaires.
+  en: You really should start packing your stuff.
+- fr: Ce serait bien que tu prennes des infos.
+  en: You should inquire.
+end_question: Et vous, ne devriez-vous pas donner un conseil aujourd'hui pour vous
+  entraîner ?

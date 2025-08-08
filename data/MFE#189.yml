@@ -1,0 +1,30 @@
+---
+title: essaye, même si c’est difficile
+preview_text: Today, learn how to be intrepid
+color: "#e5d7ce"
+goal: être intrépide
+challenge:
+  state: 'Vous n’êtes pas très en forme mais vous avez décidé d’aller au travail.
+    Vous dites :'
+  options:
+  - option: Je viens malgré que je sois malade.
+  - option: Je viens bien que je sois malade.
+    correct: true
+explanation:
+  fr: "Eh oui ! bien que introduit une “phrase” (sujet (1) + verbe (2) + complément
+    (3)) : je suis malade et je viens. > Je viens bien que je (1) sois (2) malade
+    (3). \nMalgré est une préposition qui précède un nom : Je viens malgré ma maladie."
+  en: "“bien que” (= although) introduces an additional part of a sentence (which
+    could be also a sentence in itself as it is made of a subject, a verb and a complement).
+    “malgré” (= despite) is only followed by a noun."
+words:
+- fr: Essaye, même si c’est difficile !
+  en: Try even if it's hard!
+- fr: Il est fragile, malgré les apparences.
+  en: He's sensitive contrary to all appearances.
+- fr: Je l’ai convaincu, en dépit de ses résistances.
+  en: I convinced him in spite of his resistance.
+- fr: C’était incertain mais je l’ai fait quand même !
+  en: That was unsure but still, I dit it !
+end_question: Et vous, même si vous hésitez encore parfois, parlez-vous français avec
+  les Parisien(ne)s ?

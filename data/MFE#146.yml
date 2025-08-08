@@ -1,0 +1,30 @@
+---
+title: je suis accro à cette appli
+preview_text: "Today, learn how to be addicted \U0001F933"
+color: "#f5e9ff"
+goal: être accro
+challenge:
+  state: 'Vous parlez de l’utilisation du smartphone et des nouvelles technologies
+    avec votre collègue. Vous dites :'
+  options:
+  - option: Je ne peux plus m’en passer !
+    correct: true
+  - option: Je ne peux plus faire sans !
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! se passer de et faire sans sont synonymes.
+    Tous deux s'utilisent dans tous les contextes de manière indifférente. Pratique non ?
+  en: "“se passer de” and “faire sans” are exact synonyms and mean that you can't
+    do/go without someone/something. You will equally hear both and both can be used
+    either in a formal or informal context."
+words:
+- fr: Je suis accro à cette appli…
+  en: I'm addicted to this app...
+- fr: Je ne peux pas me passer de toi !
+  en: I can't do without you
+- fr: Merci mais je me passerai de tes commentaires.
+  en: Thanks but I'll go without your remarks.
+- fr: J’y tiens comme à la prunelle de mes yeux.
+  en: She's the apple of my eye.
+end_question: "Et nous, on ne peut plus se passer de vous ! \U0001F917"

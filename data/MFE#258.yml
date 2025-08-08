@@ -1,0 +1,29 @@
+---
+title: on se voit demain
+preview_text: Today, learn how to be with someone
+color: "#87e0ff"
+goal: être à deux
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: On s’est rencontré en 2016.
+    correct: true
+  - option: On a rencontré en 2016.
+explanation:
+  fr: |-
+    Eh oui ! Dans ce contexte, le verbe implique une réciprocité :
+    on s’est rencontré (l’un l’autre) en 2016.
+    Le pronom se marque cette réciprocité.
+  en: |-
+    In this context, the verb underlies reciprocity : we met each other in 2016.
+    The verb is then preceded by the pronoun ”se” (or ”me” - ”te” - “nous” - ”vous”).
+words:
+- fr: On se voit demain !
+  en: I'll see you tomorrow!
+- fr: On s’est appelé hier.
+  en: We talked on the phone yesterday.
+- fr: Nous nous sommes mariés l’année dernière.
+  en: We got married last year.
+- fr: Avec ma sœur, on s’entend très bien.
+  en: My sister and I get along very well.
+end_question: Et vous, quand avez-vous rencontré votre meilleur(e) ami(e) ?

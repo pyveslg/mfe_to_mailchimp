@@ -1,0 +1,32 @@
+---
+title: il n’est pas question qu’on annule
+preview_text: Today, learn how to have needs
+color: "#64d7d6"
+goal: avoir des besoins
+challenge:
+  state: 'Elle doit pourtant le faire. Vous dites :'
+  options:
+  - option: Il faut que tu le fasses.
+    correct: true
+  - option: Il faut que tu le fais.
+explanation:
+  fr: "Eh oui! Il faut exprime la nécessité et en français, la nécessité + que = le
+    subjonctif !\n“Le quoi ???” \U0001F915 \nLe subjonctif est un mode régulièrement
+    utilisé en français pour exprimer notamment la nécessité ou la possibilité (mais
+    pas seulement… \U0001F648 ).\nAu subjonctif, les verbes changent de forme. Par
+    exemple pour le verbe faire :\nque je fasse / que tu fasses / qu’il fasse / qu’elle
+    fasse / que nous fassions / que vous fassiez / qu’ils fassent / qu’elles fassent."
+  en: "“il faut” highlights the idea of necessity. In French a necessity + “que” implies
+    the use of the subjonctive tense... This tense is very common in French especially
+    when it comes to express a necessity or a possibility (but not only...). It's
+    a particular tense with its own conjugation... that requires to be learnt!"
+words:
+- fr: Il faut que j’y aille.
+  en: I have to go.
+- fr: Il est possible qu’il vienne.
+  en: He might come.
+- fr: Ce serait bien qu’elle écrive au directeur.
+  en: It would be good that she writes to the director.
+- fr: Il n’est pas question qu’on annule.
+  en: There's no way that we will cancel.
+end_question: "Alors, faut-il que vous étudiiez le subjonctif ? \U0001F61C"

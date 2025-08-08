@@ -1,0 +1,29 @@
+---
+title: un grand merci à toi
+preview_text: Today, learn how to be thankful
+color: "#e7eaf6"
+goal: être reconnaissant
+challenge:
+  state: 'Au moment de partir, vous leur dites :'
+  options:
+  - option: Merci d’être venus !
+    correct: true
+  - option: Merci pour être venus !
+explanation:
+  fr: |-
+    Eh oui ! merci vient avec deux prépositions : de et pour.
+    Merci de + verbe  | Ex: Merci de m’avoir aidé.
+    Merci pour + nom | Ex: Merci pour votre aide.
+  en: |-
+    “merci” (= thank you) can be followed by either “de” or “pour”.
+    You can use “Merci de” before a verb and “merci pour” when it is followed by a noun!
+words:
+- fr: Merci pour tout !
+  en: Thank you for everything!
+- fr: Merci infiniment pour ton aide !
+  en: Thank you so much for you help!
+- fr: Un grand merci à toi !
+  en: Many thanks to you!
+- fr: Je te remercie de t’être dérangé.
+  en: Thank you for coming out.
+end_question: Merci infiniment de nous lire chaque semaine !

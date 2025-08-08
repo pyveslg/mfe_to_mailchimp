@@ -1,0 +1,29 @@
+---
+title: où et quand
+preview_text: "Today, learn how to organize a party \U0001F389"
+color: "#f9e8f6"
+goal: organiser
+challenge:
+  state: 'Vous avez emménagé dans votre nouvel appartement. Vous invitez quelques
+    amis pour la crémaillère. Pour informer sur la date, vous dites :'
+  options:
+  - option: La crémaillère prendra lieu vendredi prochain.
+  - option: La crémaillère aura lieu vendredi prochain.
+explanation:
+  fr: 'Eh oui ! avoir lieu est une locution couramment utilisée pour introduire une
+    date et un lieu. Par exemple : La fête de la musique a lieu chaque année le 21
+    juin.'
+  en: "“avoir lieu” is commonly used verb to introduce a date or a place when/where
+    something takes place."
+words:
+- fr: Ce sera où et quand ?
+  en: When and where will it happen?
+- fr: Ça se passera chez moi.
+  en: It will happen at my place.
+- fr: Le concert a lieu à la Cigale, près de Pigalle.
+  en: The concert takes place at “la Cigale”, close to Pigalle.
+- fr: Le festival se déroulera à Paris la semaine du 28 mai.
+  en: The festival will happen in Paris during the week of May 28.
+end_question: |-
+  Et vous,
+  organiserez-vous bientôt une petite fête chez vous ?

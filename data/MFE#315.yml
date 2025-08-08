@@ -1,0 +1,26 @@
+---
+title: tu te poses trop de questions
+preview_text: Today, learn how to wonder
+color: "#ffdfdf"
+goal: vous poser des questions
+challenge:
+  state: 'Vous hésitez à manger un deuxième croissant ce matin... Vous dites :'
+  options:
+  - option: Je demande si c’est raisonnable.
+    correct: true
+  - option: Je me demande si c’est raisonnable.
+explanation:
+  fr: Eh oui ! se demander exprime l’idée de réfléchir, se poser des questions avant
+    de prendre une décision.
+  en: In French, ”se demander” means to wonder and ask yourself questions, usually
+    before making a decision.
+words:
+- fr: Qu’est-ce que je dois faire ?
+  en: What should I do?
+- fr: Je me demande ce que ce dois faire…
+  en: I am wondering now what to do...
+- fr: Je dois y réfléchir...
+  en: I need to think about it...
+- fr: Tu te poses trop de questions !
+  en: You are trying too hard!
+end_question: Alors, vous reprendrez bien un peu de brioche ?

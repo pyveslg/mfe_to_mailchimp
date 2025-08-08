@@ -1,0 +1,30 @@
+---
+title: J'ai mangé trop de chocolat
+preview_text: Today, learn how to be excessive
+color: "#f6def6"
+goal: être excessif
+challenge:
+  state: 'Ce week-end, vous avez fêté l''anniversaire d''une amie. Vous avez mangé
+    plusieurs parts de gâteau. Vous dites :'
+  options:
+  - option: J'ai un peu abusé sur les gâteaux.
+    correct: true
+  - option: J'ai un peu exagéré sur les gâteaux.
+explanation:
+  fr: |-
+    Eh oui ! abuser est un synonyme d’exagérer.
+    Attention, abuser est un mot informel. Il est souvent utilisé entre amis.
+  en: |-
+    “abuser” is synonymous to “exagérer”.
+    It is very common but sounds much more informal.
+words:
+- fr: J'ai mangé trop de chocolat
+  en: I ate too much chocolate
+- fr: C'est un peu abusé.
+  en: It’s a little over-the-top.
+- fr: Je ne voudrais pas abuser de votre temps
+  en: I wouldn't like to waste your time.
+- fr: J'ai eu la main lourde sur le sel
+  en: I had a heavy-hand on salt.
+end_question: 'C''est fini pour aujourd''hui : on ne va pas abuser de votre temps
+  !'

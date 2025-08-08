@@ -1,0 +1,32 @@
+---
+title: il était une fois
+preview_text: ''
+color: "#ffddc6"
+goal: |-
+  prendre des habitudes
+  une bonne fois pour toute*
+challenge:
+  state: 'Pour parler d’une activité fréquente, vous dites :'
+  options:
+  - option: Je lis le journal trois fois par semaine.
+    correct: true
+  - option: Je lis le journal trois temps par semaine.
+explanation:
+  fr: |-
+    Eh oui ! ne confondez pas fois et temps.
+    Le terme fois se réfère :
+    - au moment d'un fait (par exemple : "la dernière fois") ;
+    - à la répétition d'un événement (par exemple : "à chaque fois" ou "encore une fois").
+  en: "Don't get confused between “fois\" and \"temps\" which both means time in English.\n\"fois\"
+    refers to : \n- when a fact happens (e.g.: \"last time\")\n- when an event repeats
+    itself (e.g.: \"each time\" or \"one more time\")."
+words:
+- fr: Il était une fois…
+  en: Once upon a time...
+- fr: À chaque fois c’est pareil !
+  en: It's the same every time really.
+- fr: Faisons une chose à la fois !
+  en: Lets make one thing after another!
+- fr: Une fois n’est pas coutume.
+  en: For once,...
+end_question: Alors, cette fois, avez-vous pris le temps de tout lire ?

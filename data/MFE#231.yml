@@ -1,0 +1,26 @@
+---
+title: faire quelque chose pour toi
+preview_text: Today, learn how to get some help
+color: "#a5d6d4"
+goal: recevoir de l’aide
+challenge:
+  state: 'Vous recevez des amis. Vous demandez de l’aide à un de vos invités. Vous
+    dites :'
+  options:
+  - option: Tu peux me rendre un service ?
+    correct: true
+  - option: Tu peux me rendre une faveur ?
+explanation:
+  fr: Eh oui ! rendre un service est une expression courante qui signifie aider, apporter
+    son aider à quelqu’un.
+  en: "“rendre un service” is a useful idiom that means ”to do a favor / to be helpful”."
+words:
+- fr: Tu peux m’aider ?
+  en: Could you help me?
+- fr: Je peux faire quelque chose pour toi ?
+  en: May I do something for you?
+- fr: Ce serait un sacré coup de main.
+  en: That would really help.
+- fr: Je peux filer un coup de main ?
+  en: May I help you out?
+end_question: Et nous, pouvons-nous vous rendre service en français ?

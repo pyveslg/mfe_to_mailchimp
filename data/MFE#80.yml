@@ -1,0 +1,29 @@
+---
+title: c’est vraiment d’actualité
+preview_text: Today, learn how to be progressive.
+color: "#ffecda"
+goal: être moderne
+challenge:
+  state: 'Il préfère envoyer des lettres. Vous dites:'
+  options:
+  - option: Mais nous sommes au vingt-et-unième siècle !
+    correct: true
+  - option: Mais nous sommes au vingt-et-premier siècle !
+explanation:
+  fr: |-
+    Eh oui ! “premier” (1er) est une exception.
+    Il se transforme après une dizaine.
+    Observez : 1er = premier / 21ème = vingt-et-unième / 101ème = cent-unième.
+  en: |-
+    “first” is an exception when it comes with French ordinal numbers. 1 ordinal number is “premier” - 1er.
+    But then, every ten, it turns “unième” - 1ème. Eg: 31ème = trente-et-unième | 101ème = cent-unième…
+words:
+- fr: Ça c’est une première !
+  en: This is a real “first”!
+- fr: Tout le monde en parle ces derniers temps.
+  en: Everyone is talking about it lately.
+- fr: Créer son entreprise est vraiment d’actualité.
+  en: Starting one’s own business is highly topical.
+- fr: Cette exposition est dans l’air du temps.
+  en: This exhibition is fashionable.
+end_question: Et vous, êtes-vous un homme ou une femme du 21ème siècle ?

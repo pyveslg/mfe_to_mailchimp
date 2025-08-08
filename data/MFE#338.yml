@@ -1,0 +1,30 @@
+---
+title: C’est important pour moi.
+preview_text: Today, learn how to be attached
+color: "#f5fcc1"
+goal: être attaché
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: Je tiens à ce livre.
+    correct: true
+  - option: Je tiens ce livre.
+explanation:
+  fr: |-
+    Eh oui ! La structure tenir + à exprime un attachement à quelque chose d’important. Il peut être utilisé avec un nom ou avec un verbe.
+    Exemples : Je tiens à ma famille. Je tiens à le voir.
+  en: |-
+    The structure “tenir + à” expresses an attachment to something important.
+    It can be used with nouns and verbs.
+words:
+- fr: C’est important pour moi.
+  en: It is important to me.
+- fr: Je tiens à ma famille.
+  en: I hold dear to my family.
+- fr: Je tiens absolument à finir ce projet.
+  en: |-
+    I insist on finishing that
+    project.
+- fr: Ça me tient à cœur.
+  en: It is very close to my heart.
+end_question: Et vous, il y a quelque chose que vous tenez à faire aujourd’hui ?

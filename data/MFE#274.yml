@@ -1,0 +1,25 @@
+---
+title: j’adore faire des balades dans Paris
+preview_text: Today, learn how to show someone around
+color: "#fff78f"
+goal: faire visiter
+challenge:
+  state: 'Vous proposez de leur montrer votre quartier. Vous demandez :'
+  options:
+  - option: On fait un tour dans le quartier ?
+    correct: true
+  - option: On fait un rond dans le quartier ?
+explanation:
+  fr: Eh oui ! faire un tour est une expression courante qui signifie faire une petite
+    promenade pour découvrir les alentours.
+  en: "“faire un tour” means to go for a walk/stroll in the neighborhood."
+words:
+- fr: On s’est promené au jardin du Luxembourg.
+  en: We walked in the Jardin du Luxembourg.
+- fr: On pourrait faire un tour dans le Marais ?
+  en: We could walk around the Marais?
+- fr: J’adore faire des balades dans Paris.
+  en: I love strolling through Paris.
+- fr: Ça te dirait de se faire une balade ?
+  en: Would you fancy going for a walk?
+end_question: Et vous, faites-vous souvent des balades dans Paris ?

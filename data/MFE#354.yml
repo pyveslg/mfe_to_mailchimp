@@ -1,0 +1,32 @@
+---
+title: ce n’est pas grave
+preview_text: Today, learn how to prevent you from overreacting
+color: "#ffd57e"
+goal: réagir plus calmement
+challenge:
+  state: 'Vous pensez que ce n’est pas grave. Vous dites :'
+  options:
+  - option: N’en fais pas tout un fromage !
+    correct: true
+  - option: N’en fais pas tout un plat !
+    correct: true
+explanation:
+  fr: Eh oui ! pour dire que la réaction de quelqu’un est trop exagérée, on dit que
+    cette personne en fait tout un fromage ou en fait tout un plat.
+  en: When someone is overreacting to something, French people say that they “turn
+    it into a whole cheese” (= “en faire tout un fromage”) or “into a whole meal”
+    (= “en faire tout un plat”).
+words:
+- fr: Ce n’est pas grave.
+  en: It’s alright.
+- fr: |-
+    N’en fais pas tout
+    un fromage.
+  en: |-
+    Don’t make such a big deal
+    out of this.
+- fr: Il en a fait tout un plat.
+  en: He kicked up a huge fuss about this.
+- fr: Ce n’est pas la mer à boire !
+  en: It’s not that hard !
+end_question: Et vous, avez-vous un ami qui exagère souvent ?

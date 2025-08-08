@@ -1,0 +1,30 @@
+---
+title: je suis à la hauteur
+preview_text: ''
+color: "#e85b48"
+goal: avoir des facilités
+challenge:
+  state: 'Vous avez eu beaucoup de travail et vous êtes satisfait de votre organisation
+    et de votre efficacité. Vous dites :'
+  options:
+  - option: Je peux travailler efficacement.
+  - option: J’arrive à travailler efficacement.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! arriver à est un synonyme de réussir.
+    Cette formule est très utilisée pour exprimer le succès ou la facilité.
+    Par exemple : "j'arrive à me faire comprendre en français !".
+  en: |-
+    “arriver à” means that you succeed in doing something.
+    It is a commonly-used synonym of ”réussir”.
+words:
+- fr: Je vais y arriver !
+  en: I'll make it!
+- fr: Il a des facilités pour les langues.
+  en: He is good at learning foreign langages.
+- fr: Ce sera difficile mais je suis à la hauteur !
+  en: It will be difficult but I am up to this challenge!
+- fr: Je suis jaloux, il est à l’aise dans tous les domaines.
+  en: I feel jealous, he is so comfortable with everything he undertakes.
+end_question: Et vous, pour quoi avez-vous des facilités ?

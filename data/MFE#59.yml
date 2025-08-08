@@ -1,0 +1,33 @@
+---
+title: n’hésite pas à passer nous voir
+preview_text: ''
+color: "#f361af"
+goal: faire des visites
+challenge:
+  state: 'Pour les vacances, vous allez deux jours chez votre grand-mère. Vous dites
+    :'
+  options:
+  - option: Je vais visiter ma grand-mère.
+    correct: true
+  - option: Je vais aller voir ma grand-mère.
+explanation:
+  fr: |-
+    Eh oui ! ne confondez pas aller voir et visiter !
+    Aller voir s'emploie pour une personne
+    et visiter s'emploie seulement pour des lieux.
+    Observez la différence entre "je vais voir mon amie" et "je vais visiter Paris".
+  en: |-
+    “Aller voir” and “visiter” might be a bit confusing to use...
+    “Aller voir” is used when you visit someone. “Visiter” is used when you visit a place.
+words:
+- fr: Passe-nous voir à Paris !
+  en: Come to visit us in Paris!
+- fr: Viens, je vais te faire visiter la maison.
+  en: Come, let me show you the house.
+- fr: Alors, vous venez nous voir quand ?
+  en: So, when do you visit us?
+- fr: On va passer te faire un petit coucou !
+  en: We will be dropping in and see you!
+end_question: |-
+  Et vous,
+  vous allez voir votre famille cet été ?

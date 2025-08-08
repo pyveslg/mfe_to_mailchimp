@@ -1,0 +1,31 @@
+---
+title: ça ne date pas d'hier
+preview_text: ''
+color: "#71adb5"
+goal: donner la date
+challenge:
+  state: 'Pour demander la date du jour, vous dites :'
+  options:
+  - option: Quel jour sommes-nous ?
+    correct: true
+  - option: Quel jour c’est ?
+explanation:
+  fr: |-
+    Eh oui ! c'est étonnant mais la date est introduite par "nous sommes ...".
+    Ainsi, à la question : "Quel jour sommes-nous ?",
+    on répondra : "Nous sommes le 5 juin."
+    Dans un contexte informel, on utilise plutôt "on est ...".
+  en: |-
+    It might sound a bit strange but in French, when someone asks what day is today,
+    the answer starts by “nous sommes...”.
+    In a more informal context, “on est...” can be often heard as well.
+words:
+- fr: Je suis né le 29 mai.
+  en: I was born on May 29th.
+- fr: On est le combien aujourd’hui ?
+  en: What day is it today ?
+- fr: Ce n’est pas mon jour…
+  en: This is not my day...
+- fr: Ça ne date pas d’hier.
+  en: It's not something new.
+end_question: Alors, quel jour sommes-nous aujourd'hui ?

@@ -1,0 +1,28 @@
+---
+title: tu me manques déjà...
+preview_text: ''
+color: "#90ee90"
+goal: |-
+  exprimer votre manque
+  une bonne fois pour toute*
+challenge:
+  state: 'Votre ami est parti pendant trois mois à l''étranger. Vous lui dites :'
+  options:
+  - option: Je te manque.
+  - option: Tu me manques.
+    correct: true
+explanation:
+  fr: "Eh oui ! C'est le contraire de l'anglais !\nEn français, c'est celui qui part
+    qui manque à quelqu'un. \nDonc \"tu me manques\" signifie : \"Toi, mon ami, tu
+    es absent et tu manques (à moi).\""
+  en: Just the exact opposite of what we would say in English!
+words:
+- fr: Tu me manques déjà...
+  en: I miss you already...
+- fr: Sa copine lui manque.
+  en: He misses his girlfriend.
+- fr: Il ne manquait plus que ça!
+  en: That's the last straw!
+- fr: Je suis en manque de sommeil.
+  en: I suffer from a lack of sleep.
+end_question: Et nous, on vous manque déjà ?

@@ -1,0 +1,28 @@
+---
+title: c’est bon pour moi
+preview_text: Today, learn how to be ok
+color: "#f3ff93"
+goal: être ok
+challenge:
+  state: 'Pour accepter, vous dites :'
+  options:
+  - option: Parfait, ça me suit !
+    correct: true
+  - option: Parfait, ça me va !
+explanation:
+  fr: |-
+    Eh oui ! Dans ce contexte, aller est un synonyme informel de convenir.
+    Ça me convient ! [standard] = Ça me va ! [informel]
+  en: "“ça me va” (“va” is a conjugated form of the verb “aller”) is the usual and
+    informal way to say that something suits you fine. The verb ”convenir” which is
+    appropriate as well in this context would sound more formal."
+words:
+- fr: C’est bon pour moi !
+  en: That's good for me!
+- fr: Ça me va parfaitement.
+  en: That suits me perfectly.
+- fr: Ça te conviendrait ?
+  en: Would that be ok for you? (formal)
+- fr: Ça t’irait ?
+  en: Would that be ok for you? (informal)
+end_question: Allez, on se retrouve sur Instagram ?

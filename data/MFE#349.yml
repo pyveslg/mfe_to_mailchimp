@@ -1,0 +1,28 @@
+---
+title: finalement, je ne pense pas venir
+preview_text: Today, learn how to reverse one's decision
+color: "#fff48f"
+goal: revenir sur une décision
+challenge:
+  state: 'Vous n’avez plus envie d’y aller. Vous dites :'
+  options:
+  - option: Choses considérées, je n’irai pas au cinéma.
+  - option: Tout compte fait, je n’irai pas au cinéma.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Pour indiquer qu’on change d’avis après réflexion,
+    on utilise l’expression tout compte fait.
+  en: |-
+    You can use “tout compte fait” in your sentence to suggest
+    that you changed your mind about something after careful consideration.
+words:
+- fr: Finalement, je ne pense pas venir.
+  en: In the end, I don’t think I’ll come.
+- fr: Tout compte fait, c’est une mauvaise décision.
+  en: All things considered, it’s a bad decision.
+- fr: C’est plutôt bien, en fin de compte.
+  en: That’s rather good, after all.
+- fr: Tout bien pesé, il vaut mieux ne pas acheter de maison tout de suite.
+  en: On balance, it’s better not to buy a house right now.
+end_question: Et vous, avez-vous récemment changé d’avis sur quelque chose ?

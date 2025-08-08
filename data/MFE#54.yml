@@ -1,0 +1,30 @@
+---
+title: je ne l’avais pas vu sous cet angle
+preview_text: ''
+color: "#d8cbbb"
+goal: indiquer un objet
+challenge:
+  state: 'Vous recherchez un livre. Dans la librairie, vous demandez :'
+  options:
+  - option: Avez-vous cet livre ?
+  - option: Avez-vous ce livre ?
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! cet est utilisé devant un nom masculin qui commence par une voyelle.
+    Observez la différence entre "ce cahier" et "cet ordinateur".
+  en: |-
+    “ce” and “cet” mean this/that before a masculine noun.
+    If the latter starts with a vowel, “cet” should be used.
+    Otherwise, “ce” is the correct form to use.
+words:
+- fr: J’adore ce tableau de Monet !
+  en: I love this painting by Monet!
+- fr: Merci, c’est bien ce que je cherche.
+  en: Thank you, that's what I am looking for.
+- fr: Pourriez-vous m’indiquer où se trouve ce magasin ?
+  en: Could you please tell me where that shop is?
+- fr: Je ne l’avais pas vu sous cet angle.
+  en: I did not think about it like that.
+end_question: Alors, cette règle de ce matin, vous en souviendrez-vous encore cet
+  après-midi ?

@@ -1,0 +1,29 @@
+---
+title: à ce soir
+preview_text: Today, learn how to meet someone again
+color: "#ffe2e2"
+goal: voir deux fois la même personne
+challenge:
+  state: 'Vous avez rendez-vous avec un ami cet après-midi. Vous l’appelez 2 heures
+    avant le rendez-vous. À la fin de l’appel, vous dites :'
+  options:
+  - option: À bientôt !
+    correct: true
+  - option: À tout à l’heure !
+explanation:
+  fr: Eh oui ! À tout à l’heure est la formule appropriée si vous voyez la personne
+    dans la même journée. À bientôt implique que vous pensez revoir prochainement
+    la personne mais vous ne savez pas quand.
+  en: When you say goodbye to someone, you could say either “à tout à l'heure” or
+    ”à bientôt”. “à tout à l'heure” underlies that you may meet the person again whereas
+    “à bientôt” means that you might see him/her again but you still don't know when.
+words:
+- fr: À tout à l’heure !
+  en: See you later!
+- fr: À tout de suite !
+  en: See you in a minute!
+- fr: À ce soir !
+  en: See you tonight!
+- fr: On se voit ce soir !
+  en: See you tonight!
+end_question: À tout à l’heure au Singing in French ?

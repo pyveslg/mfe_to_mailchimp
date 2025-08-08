@@ -1,0 +1,28 @@
+---
+title: tout comme toi
+preview_text: Today, learn how to resemble
+color: "#f7d3ba"
+goal: ressembler
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: J’ai le même Tee-shirt que toi.
+    correct: true
+  - option: J’ai le même Tee-shirt comme toi.
+explanation:
+  fr: |-
+    Eh oui ! La comparaison est généralement construite avec que. Par exemple :
+    Je prends autant le RER que le métro. Je fais le même travail que toi.
+  en: 'In French, when you compare two things in a sentence, you usually have to use
+    ”que”. Such as in: “autant que” = as much/many [...] as, “même que” = same as...,
+    ”plus que” = more than, “moins que” = less than'
+words:
+- fr: C’est la même chose.
+  en: It's the same.
+- fr: Je fais autant d’effort que toi.
+  en: I make as much effort as you make.
+- fr: On va dans le même resto que la dernière fois.
+  en: We go to the same restaurant as last time.
+- fr: Tout comme toi, j’adore faire du vélo à Paris.
+  en: Same as you, I love cycling.
+end_question: Alors, vous voulez le même sac que moi?

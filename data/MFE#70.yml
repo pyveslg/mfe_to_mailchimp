@@ -1,0 +1,27 @@
+---
+title: Le mieux est l'ennemi du bien.
+preview_text: Today, learn how to end an action.
+color: "#f1fff1"
+goal: conclure une action
+challenge:
+  state: 'Vous lui répondez :'
+  options:
+  - option: Non merci, c’est ça.
+  - option: Ce sera tout, merci.
+    correct: true
+explanation:
+  fr: Eh oui ! “ce sera tout” est une expression polie qui signifie que vous n’avez
+    pas besoin d’autre chose.
+  en: |-
+    Next time your butcher or baker ask you if you would like anything else, just use the polite but indeed so French idiom “ce sera tout, merci” to mean you do not want anything else.
+    Bravo, you will be soon Parisian certified ;)
+words:
+- fr: C'est bon, j'ai fini !
+  en: Okay, I've just finished!
+- fr: Ça y est, tu as terminé ?
+  en: That's it, are you done?
+- fr: Allez, ce sera tout pour aujourd'hui !
+  en: Fine, that's it for today!
+- fr: N'insistons pas, parfois le mieux est l'ennemi du bien.
+  en: Let's not insist. Perfect is the enemy of good.
+end_question: Et vous, vous prendrez autre chose aujourd'hui ?

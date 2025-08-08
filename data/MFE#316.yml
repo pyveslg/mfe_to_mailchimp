@@ -1,0 +1,30 @@
+---
+title: je flippe
+preview_text: "Today, learn how to be anxious \U0001F631"
+color: "#ffe7ad"
+goal: être inquiet
+challenge:
+  state: 'Vous hésitez à acheter une voiture. Vous pensez que la circulation à Paris
+    est dangereuse. Vous dites :'
+  options:
+  - option: J’ai peur de conduire à Paris.
+    correct: true
+  - option: J’ai peur à conduire à Paris.
+explanation:
+  fr: |-
+    Eh oui ! La structure est avoir peur de…
+    En général, les structures avec avoir + nom sont suivis de la préposition de.
+    Par exemple :
+    avoir + peur / besoin / envie / faim … + de ...
+  en: In most situations, the sentence structures which are built with the verb ”avoir”  immediately
+    followed by a noun are followed by the preposition “de”.
+words:
+- fr: J’ai peur du noir.
+  en: I am afraid of the dark.
+- fr: Je crains le froid.
+  en: I fear cold.
+- fr: Je flippe de prendre le RER le soir.
+  en: I am scared of taking the RER at night.
+- fr: Les trottinettes électriques me font flipper.
+  en: Electric scooters freak me out.
+end_question: Et vous, avez-vous déjà conduit à Paris ?

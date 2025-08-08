@@ -1,0 +1,27 @@
+---
+title: Il n’est pas venu
+preview_text: Today, learn how to wait in vain
+color: "#deddfa"
+goal: attendre en vain
+challenge:
+  state: 'Il ne vient pas. Vous dites :'
+  options:
+  - option: Il m’a donné un lapin !
+  - option: Il m’a posé un lapin !
+    correct: true
+explanation:
+  fr: Eh oui ! poser un lapin à quelqu’un est une expression informelle pour dire
+    qu’une personne ne se présente pas à un rendez-vous et ne prévient pas.
+  en: |-
+    Someone stood you up?
+    That’s too bad, but at least now you can say it in French with the idiom « poser un lapin »!
+words:
+- fr: Il n’est pas venu.
+  en: He did not show up.
+- fr: J'ai attendu tout l’après-midi.
+  en: I've been waiting all afternoon.
+- fr: Il m’a posé un lapin.
+  en: He stood me up.
+- fr: Il aurait pu me prévenir.
+  en: He could have told me.
+end_question: Et vous, est-ce que quelqu’un vous a déjà posé un lapin ?

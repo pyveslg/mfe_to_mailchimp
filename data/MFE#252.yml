@@ -1,0 +1,31 @@
+---
+title: J’aime beaucoup
+preview_text: Today, learn how to like a gift very much
+color: "#ffdfdf"
+goal: aimer un cadeau
+challenge:
+  state: 'Votre amie vous offre un cadeau. Vous aimez beaucoup. Vous dites :'
+  options:
+  - option: Ça me plaît beaucoup.
+    correct: true
+  - option: Je plais beaucoup.
+explanation:
+  fr: |-
+    Eh oui ! plaire se réfère à l’impact de l’objet sur vous.
+    C’est donc l’inverse du verbe aimer !
+    Aimer > J’aime ce cadeau.
+    Plaire > Ce cadeau me plaît.
+  en: "“plaire” is much similar to ”aimer” in its meaning. However “plaire” relates
+    to the impact that the object has on you whereas ”aimer” relates to your positive
+    feeling that you have on the object. The sentence builds so in the other way round!
+    Look at the examples above!"
+words:
+- fr: J’aime beaucoup.
+  en: I like it really much.
+- fr: Ce livre va beaucoup te plaire !
+  en: You will love this book!
+- fr: Merci, il ne fallait pas.
+  en: Thank you! You shouldn't have to!
+- fr: Merci, ça me touche énormément !
+  en: Thank you! That moves me a lot!
+end_question: Alors, nos nouvelles stories Instagram vous plaisent ?

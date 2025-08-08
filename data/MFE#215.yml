@@ -1,0 +1,28 @@
+---
+title: tu t’es occupé des courses
+preview_text: Today, learn how to have mundane talks
+color: "#e5b2b2"
+goal: parler de choses banales
+challenge:
+  state: 'Cette nuit, vous êtes rentré tard chez vous. Vous arrivez fatigué au travail.
+    Votre collègue demande si vous allez bien. Vous dites :'
+  options:
+  - option: Oui, je m’ai couché tard hier.
+  - option: Oui, je me suis couché tard hier.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Tous les verbes pronominaux (se lever, se promener, se doucher…) sont conjugués avec être au passé composé !
+    Je me suis couché(e) / tu t’es couché / il s’est couché / elle s’est couchée / nous nous sommes couchés / vous vous êtes couché(s) / ils se sont couchés / elles se sont couchées.
+  en: all reflexive verbs conjugate with the verb ”être” (= to be) at the perfect
+    tense.
+words:
+- fr: On s’est levé à 11h !
+  en: We got up at 11am!
+- fr: Je me suis promené toute la journée.
+  en: I walked the whole day.
+- fr: Tu t’es occupé des courses ?
+  en: Did you do the shopping?
+- fr: Je me suis toujours demandé pourquoi le ciel est bleu.
+  en: I have always wondered why the sky is blue.
+end_question: Et vous, vous vous êtes levé(e) à quelle heure ce matin ?

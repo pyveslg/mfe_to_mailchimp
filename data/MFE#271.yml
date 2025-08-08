@@ -1,0 +1,27 @@
+---
+title: je ne suis pas d’accord
+preview_text: Today, learn how to respond to an absurdity
+color: "#ffcd3c"
+goal: réagir à une absurdité
+challenge:
+  state: 'Votre ami dit que la Révolution Française s’est passée en 1769. Vous dites
+    :'
+  options:
+  - option: Quoi que ce soit ! C’était en 1789.
+    correct: true
+  - option: N’importe quoi ! C’était en 1789.
+explanation:
+  fr: Eh oui ! n’importe quoi est très utilisé pour exprimer qu’une information ou
+    un fait sont erronés ou absurdes.
+  en: "“N'importe quoi !” is a much used idiom to respond to something which you think
+    is a nonsense."
+words:
+- fr: Je ne suis pas d’accord !
+  en: I disagree!
+- fr: Tu fais n’importe quoi !
+  en: You act like a nonsense!
+- fr: Ne dis pas n’importe quoi !
+  en: Don't talk rubbish!
+- fr: C’est vraiment du grand n’importe quoi !
+  en: This is absolutely complete nonsense!
+end_question: Et vous, saviez-vous que les dauphins parlaient aussi français ?

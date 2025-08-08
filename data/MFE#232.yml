@@ -1,0 +1,28 @@
+---
+title: "  je travaille dans la finance"
+preview_text: Today, learn how to be active
+color: "#ccf6b8"
+goal: être actif
+challenge:
+  state: 'Il vous demande dans quoi vous travaillez. Vous dites :'
+  options:
+  - option: Je suis un responsable marketing.
+    correct: true
+  - option: Je suis responsable marketing.
+explanation:
+  fr: |-
+    Eh oui ! Avec être et devenir, il n’y a pas d’article devant les professions !
+    Par exemple : Je suis agent immobilier. / Je suis devenu directeur.
+  en: |-
+    When using the verbs “être” (= to be) or “devenir” (= to become) before an occupation,
+    you should not add any article (le, la, les, un, une, des).
+words:
+- fr: Je suis professeur.
+  en: I am a teacher.
+- fr: Je travaille dans la finance.
+  en: I work in finance.
+- fr: Je suis dans les relations internationales.
+  en: I work in the international relations.
+- fr: Je bosse dans les énergies renouvelables.
+  en: I work in the renewable energy industry.
+end_question: Et vous, qu’est-ce que vous faites dans la vie ?

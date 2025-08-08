@@ -1,0 +1,31 @@
+---
+title: je suis tombé sur d’anciennes photos
+preview_text: "Today, learn how to look for things 🔎"
+color: "#f6dfeb"
+goal: chercher des objets
+challenge:
+  state: 'Il vous demande où il est rangé. Vous dites :'
+  options:
+  - option: Il est sur la table.
+    correct: true
+  - option: Il est dessus la table.
+explanation:
+  fr: |-
+    Eh oui! **_sur_** est une préposition.
+    Elle indique **la position d’un objet ou d’une personne par rapport à autre chose**. Ex : _le document est **sur le bureau**_.
+    **_Dessus_** indique la position mais il **n’est pas suivi d’un nom**.
+    Ex : _Le document est dans le bureau ? – Non, **il est dessus**._
+  en: |-
+    “sur” and “dessus” indicate both a position of a thing or a person.
+    But “dessus” is never followed by a noun
+    whereas “sur” always indicates a position regarding some-thing/-one else!
+words:
+- fr: '**Où se trouve** l’agrafeuse ?'
+  en: Where is the stapler?
+- fr: Les informations **ci-dessus** sont confidentielles.
+  en: The information above is confidential.
+- fr: Je suis **tombé sur** d’anciennes photos.
+  en: I came upon old pictures.
+- fr: On n’arrive pas à **mettre la main sur** ce dossier !
+  en: We can't find this file!
+end_question: Alors, où se trouvent vos clés d'appartement ?

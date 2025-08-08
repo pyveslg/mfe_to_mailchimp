@@ -1,0 +1,31 @@
+---
+title: je n'ai pas envie de travailler
+preview_text: ''
+color: "#e84742"
+goal: |-
+  fêter un jour férié
+  une bonne fois pour toute*
+challenge:
+  state: 'Vous vous levez et vous dites :'
+  options:
+  - option: Aujourd'hui, je vais travailler.
+  - option: Aujourd'hui, je ne vais pas travailler.
+    correct: true
+explanation:
+  fr: "Eh oui ! \nEn France, le 1er mai c'est la fête du travail.\nEt les français
+    fêtent le travail... en n'allant pas travailler du tout !\nCe jour là, il est
+    coutume d'offrir un brin de muguet aux personnes que l'on aime.\nÇa porte bonheur
+    !"
+  en: |-
+    In France, the 1st of may is the Labour Day. French people celebrates work by having a day... off !
+    That very day, it is usual to offer a few lilies to people we love for good fortune.
+words:
+- fr: Je n'ai pas envie de travailler.
+  en: I don't want to work.
+- fr: Je vais bien me reposer.
+  en: I'll get some good rest.
+- fr: Vivement un week-end prolongé...
+  en: Can't wait for a long week-end...
+- fr: Un jour férié est un jour chômé.
+  en: A public holiday is a non-working day.
+end_question: Alors, bon jour férié !

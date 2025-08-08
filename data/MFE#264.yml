@@ -1,0 +1,26 @@
+---
+title: ni vu, ni connu
+preview_text: Today, learn how to say no twice
+color: "#f9ff21"
+goal: dire deux fois non
+challenge:
+  state: 'Vous ne les avez pas. Vous dites :'
+  options:
+  - option: Je n’ai ni papier ni stylo.
+    correct: true
+  - option: Je n’ai ni papier ou stylo.
+explanation:
+  fr: "Eh oui ! La négation de deux éléments est construite avec 3 éléments:\nne +
+    ni … ni … \nExemple: Je n’ai ni papier ni stylo."
+  en: 'The negative form of two elements in a same sentence is built with 3 elements
+    : ne + ni .... ni ...'
+words:
+- fr: Je ne bois ni thé ni café.
+  en: I don't drink tea nor coffee.
+- fr: Je ne prendrai ni l’un ni l’autre.
+  en: I'll have none of them
+- fr: Ni vu, ni connu.
+  en: Without anybody noticing.
+- fr: Cette histoire n’a ni queue ni tête!
+  en: This story has neither head nor tail.
+end_question: Selon vous, l'administration française est pratique ou rapide ?

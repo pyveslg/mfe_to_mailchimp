@@ -1,0 +1,29 @@
+---
+title: vous devriez accorder vos violons
+preview_text: Today, learn how to have a good groove
+color: "#f56262"
+goal: avoir du groove
+challenge:
+  state: |-
+    Votre ami insiste pour aller voir un concert de métal. Vous ne voulez pas et lui suggérer de décider pour lui-même. Vous dites :
+  options:
+  - option: Fais ce qui te chante.
+    correct: true
+  - option: Fais ce qui te danse.
+explanation:
+  fr: |-
+    L’expression **_faire ce qui chante (à quelqu’un)_** est un **synonyme poétique et idiomatique de** **_faire ce que (quelqu’un) veux_**. _Fais ce qui te chante_. signifie donc : _Fais ce que tu veux_.
+  en: |-
+    “Faire ce qui chante (à quelqu'un)” is a common French idiom you can use
+    when someone does whatever they like.
+words:
+- fr: Flûte, j’ai oublié mon pass navigo !
+  en: Drat! I forgot my “navigo pass”!
+- fr: C’est toujours le même refrain !
+  en: It's the same old tune!
+- fr: Elle est têtue, elle fait toujours comme ça lui chante.
+  en: She's stubborn. She always does as she likes.
+- fr: Vos idées sont confuses, vous devriez accorder vos violons.
+  en: Your ideas are confused. You should get your stories straight.
+end_question: |-
+  Et vous, pour la fête de la musique, qu'est-ce qui vous chante de faire ?

@@ -1,0 +1,28 @@
+---
+title: je n'en reviens pas
+preview_text: Today, learn how to discover the unexpected
+color: "#cbf078"
+goal: découvrir un fait inattendu
+challenge:
+  state: 'Vous apprenez qu’en français, le coq chante « cocorico ». Vous dites :'
+  options:
+  - option: Je suis étonné(e) !
+    correct: true
+  - option: Je suis surpris(e) !
+explanation:
+  fr: |-
+    Eh oui! surpris et étonné sont synonymes.
+    Ils expriment le sentiment provoqué par un fait inattendu.
+  en: |-
+    “surpris” and “étonné” are synonyms and are used equally.
+    You can't be surprised anymore by both adjectives. ;)
+words:
+- fr: Tu as l’air étonné.
+  en: You look surprised.
+- fr: Ça m’étonnerait qu’il vienne…
+  en: I doubt if he'll come...
+- fr: Ça alors! Je n’en reviens pas !
+  en: You don't say! I just can't believe it!
+- fr: Je suis le premier surpris par cette annonce.
+  en: I'm as surprised as anybody by this announcement.
+end_question: Et vous, quels éléments de la culture française vous étonnent ?

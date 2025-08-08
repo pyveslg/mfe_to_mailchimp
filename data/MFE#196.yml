@@ -1,0 +1,26 @@
+---
+title: en parlant de ça
+preview_text: "Today, learn how to be multitask \U0001F939"
+color: "#f7f6cf"
+goal: être multitâche
+challenge:
+  state: 'Rapidement, vous préparez l’apéritif, mettez la table, rangez le salon…
+    Vous dites :'
+  options:
+  - option: Je fais tout au même temps.
+  - option: Je fais tout en même temps.
+    correct: true
+explanation:
+  fr: Eh oui ! en même temps est une locution couramment utilisée pour exprimer la
+    simultanéité de plusieurs actions.
+  en: "“en même temps” is a useful idiom when things happen ”at once” or “simultaneously”."
+words:
+- fr: Je fais plusieurs choses à la fois.
+  en: I'm doing several things at once.
+- fr: Explique-moi pendant que je te fais un café.
+  en: Explain me while I'm making coffee.
+- fr: En parlant de ça, tu viens demain ?
+  en: By the way, will you come tomorrow?
+- fr: J’avance en parallèle sur deux projets.
+  en: I work in parallel on two projects.
+end_question: Et vous, êtes-vous multitâche ?

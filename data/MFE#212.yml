@@ -1,0 +1,30 @@
+---
+title: ils sont tellement mignons
+preview_text: Today, learn how to be moved
+color: "#afeafa"
+goal: vous émouvoir en famille
+challenge:
+  state: 'Votre famille vient à Paris. Vous ne l''avez pas vue depuis 6 mois. Les
+    enfants ont beaucoup changé. Vous dites :'
+  options:
+  - option: Ils grandissent vite.
+    correct: true
+  - option: Ils grandient vite.
+explanation:
+  fr: |-
+    Eh oui ! grandir est un verbe qui “s’étire” au présent !
+    Comme beaucoup de verbes qui expriment un changement d’état (rougir, blanchir, maigrir, grossir, vieillir, rajeunir…), la base s’allonge au pluriel :
+    je grandis / tu grandis / il grandit / elle grandit / nous grandissons / vous grandissez / ils grandissent / elles grandissent
+  en: "“grandir” (=to grow up), like many other verbs that underly a change of state,
+    “stretches” at the present tense in the plural forms (nous, vous, ils, elles).
+    Je grandis > nous grandissons."
+words:
+- fr: Oh, comme il a grandi !
+  en: Wow, he has grown so much!
+- fr: Ils sont tellement mignons à cet âge.
+  en: They are so cute at this age.
+- fr: Elles sont timides et rougissent facilement.
+  en: They are shy and easily blush.
+- fr: Il est sage comme une image.
+  en: He is good as gold.
+end_question: Eh oui, avec Mon French Expresso, vous enrichissez votre français !

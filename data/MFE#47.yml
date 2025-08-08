@@ -1,0 +1,33 @@
+---
+title: mieux vaut prévenir que guérir
+preview_text: ''
+color: "#ef9037"
+goal: planifier
+challenge:
+  state: 'Vous proposez un rendez-vous à votre ami. Vous dites :'
+  options:
+  - option: On se voit la semaine prochaine ?
+    correct: true
+  - option: On se voit la prochaine semaine ?
+explanation:
+  fr: |-
+    Eh oui ! la confusion est légitime !
+    Prochain est placé après les jours de la semaine, mois, année...
+    Par exemple : "À lundi prochain !"
+    Mais généralement, les adjectifs prochain et dernier sont placés avant le nom.
+    Par exemple : "La prochaine fois, je le saurai...".
+  en: |-
+    Confusion is legitimate here.
+    “Prochain” /next/ stands after the days of the week, the month, the year...
+    But usually the adjective “prochain” stands before the name it describes.
+    It works the same way for the adjective “dernier” /last/.
+words:
+- fr: Rendez-vous samedi prochain !
+  en: See you next Saturday!
+- fr: 'Je pars en week-end. Au programme : repos et randonnées !'
+  en: 'My week-end plan: hiking and relaxing!'
+- fr: Pour le dîner, j’ai tout prévu !
+  en: I have planned everything for dinner!
+- fr: Mieux vaut prévenir que guérir.
+  en: An ounce of prevention is worth a pound of cure.
+end_question: Allez, on se retrouve la semaine prochaine !

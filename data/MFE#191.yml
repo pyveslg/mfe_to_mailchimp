@@ -1,0 +1,28 @@
+---
+title: les paysages français sont très variés
+preview_text: Today, learn how to travel in France
+color: "#e3e5d3"
+goal: voyager en France
+challenge:
+  state: 'Ce week-end, vous quittez Paris, vous allez en province. Un ami vous demande
+    si vous allez à l’étranger. Vous dites :'
+  options:
+  - option: Non, je reste dans l’Hexagone.
+    correct: true
+  - option: Non, je reste dans l’Octogone.
+explanation:
+  fr: Eh oui ! L’Hexagone est une expression qui désigne la partie continentale de
+    la France. Ce surnom est dû à la forme hexagonale du territoire français.
+  en: |-
+    Continental France is also known as “l'Hexagone”.
+    This expression is due to the hexagonal form of the country!
+words:
+- fr: Je voyage en France.
+  en: I travel in France.
+- fr: Pendant les vacances, j’aime aller en province.
+  en: I like spending my holidays in the French provinces.
+- fr: Les paysages français sont très variés.
+  en: French landscapes are very diverse.
+- fr: L’Hexagone compte de nombreux villages de caractère.
+  en: France has various picturesque villages.
+end_question: Et vous, connaissez-vous bien l’Hexagone ?

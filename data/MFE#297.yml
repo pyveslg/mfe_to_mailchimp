@@ -1,0 +1,28 @@
+---
+title: c’est vrai
+preview_text: Today, learn how to approve
+color: "#d8eff0"
+goal: valider
+challenge:
+  state: 'Il a un point de vue et des arguments intéressants. Vous dites :'
+  options:
+  - option: Tu as raison !
+    correct: true
+  - option: Tu es raison !
+explanation:
+  fr: |-
+    Eh oui ! En français, l’expression est construite avec le verbe avoir :
+     j’ai raison / tu as raison / il a raison…
+  en: |-
+    “avoir raison” means to be right.
+    Note that this idiom is built with the verb ”avoir” unlike its equivalent in English.
+words:
+- fr: C’est vrai !
+  en: It's true!
+- fr: Je suis d'accord.
+  en: I agree.
+- fr: Grave !
+  en: Totes! (slang but very common among young people)
+- fr: Tout à fait !
+  en: Absolutely!
+end_question: Le français est une belle langue, n’est-ce pas ?

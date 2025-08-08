@@ -1,0 +1,31 @@
+---
+title: j’ai besoin d’évasion
+preview_text: ''
+color: "#ffd7bb"
+goal: partir en voyage
+challenge:
+  state: 'Pour parler de vos projets de vacances, vous dites :'
+  options:
+  - option: Je vais partir en Canada.
+  - option: Je vais partir au Canada.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! devant les pays, 3 prépositions sont possibles : en, au et aux.
+    Devant un pays masculin, qui ne termine pas par -e, on utilise la préposition au.
+    Par exemple : au Brésil, au Japon, au Portugal, au Mali...
+    Attention, il y a 3 exceptions : au Mexique, au Cambodge et au Mozambique !
+  en: |-
+    Before country names, 3 preposition might be used : “en”, “au” and “aux”.
+    Before a masculine country that does not finish by “-e”, you must use “au” ~ “le Brésil” -> “au Brésil”.
+    Watchout ! 3 countries do not follow the above rule et must be followed by “au” despite their final “-e” : Mexique, Cambodge and Mozambique.
+words:
+- fr: J’ai besoin d’évasion.
+  en: I need escapism.
+- fr: Je rêve de faire le tour du monde.
+  en: I dream of traveling the world.
+- fr: Je voudrais partir aux quatre coins du monde.
+  en: I would like travel across the world.
+- fr: J’ai envie de partir, d’aller voir du pays.
+  en: I would like to leave and go across the country.
+end_question: Et vous, quelle est votre prochaine destination ?

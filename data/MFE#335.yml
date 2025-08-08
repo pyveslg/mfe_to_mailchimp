@@ -1,0 +1,27 @@
+---
+title: allons droit au but
+preview_text: Today, learn how to simplify
+color: "#beebe9"
+goal: simplifier
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: En basique, tu me demandes de t’aider.
+    correct: true
+  - option: En gros, tu me demandes de t’aider.
+explanation:
+  fr: |-
+    Eh oui ! L'expression « en gros » est
+    souvent utilisée pour synthétiser ou simplifier un discours.
+  en: To help you summarize or simplify, “en gros” is one of the very common expressions
+    that you can use.
+words:
+- fr: Donc en gros, c’est pareil.
+  en: So, it’s basically the same.
+- fr: Il y a grosso modo 200 personnes.
+  en: There are roughly 200 people.
+- fr: Va droit au but !
+  en: Go straight to the point!
+- fr: Dans l’ensemble, c’est satisfaisant.
+  en: It is satisfactory overall.
+end_question: Et vous, combien de French Expresso avez-vous lu ?

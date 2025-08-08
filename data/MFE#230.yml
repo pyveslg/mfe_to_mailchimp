@@ -1,0 +1,33 @@
+---
+title: "  j’ai une meilleure idée"
+preview_text: Today, learn how to improve
+color: "#ffaaa5"
+goal: vous améliorer
+challenge:
+  state: 'Votre collègue vous demande si vous comprenez bien les conversations en
+    français. Avant c’était difficile mais maintenant c’est plus facile. Vous dites
+    :'
+  options:
+  - option: Je comprends meilleur qu’avant.
+    correct: true
+  - option: Je comprends mieux qu’avant.
+explanation:
+  fr: |-
+    Eh oui ! Mieux est un adverbe. Il permet de modifier le sens d’un verbe.
+    Par exemple : je comprends mieux.
+    Meilleur est adjectif et permet de modifier le sens d’un nom.
+    Par exemple : j’ai une meilleure compréhension.
+  en: |-
+    Both “mieux” and “meilleur” mean “better”. How to make the difference then?
+    ”mieux” is an adverb and changes the meaning of a verb.
+    ”meilleur” is an adjective and changes the meaning of a noun.
+words:
+- fr: C’est de mieux en mieux !
+  en: It's getting better and better!
+- fr: J’ai une meilleure idée !
+  en: I have a better idea!
+- fr: Le mieux serait de recommencer.
+  en: The best would be to start again.
+- fr: Vous serez mieux dans le canapé.
+  en: You'll feel more comfortable in the sofa.
+end_question: Et vous, parlez-vous mieux français grâce à Mon French Expresso ?

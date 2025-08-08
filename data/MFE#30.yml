@@ -1,0 +1,30 @@
+---
+title: j’ai loupé quelque chose ?
+preview_text: ''
+color: "#f7ffa2"
+goal: vous absenter
+challenge:
+  state: 'Vous aviez une réunion hier mais vous avez eu un empêchement, vous dites
+    :'
+  options:
+  - option: J’ai raté la réunion.
+  - option: J’ai manqué la réunion.
+explanation:
+  fr: |-
+    Eh oui ! "rater" signifie ne pas être présent à un événement :
+    "j'ai raté mon rendez-vous".
+    Il peut également exprimer l'échec : "j'ai raté l'examen".
+  en: |-
+    "rater" means not being present to an event (e.g. I missed my meeting).
+    It can also be used to express a failure (e.g. I failed the examen).
+    “Manquer” (to miss) cannot be used in these cases.
+words:
+- fr: Un événement à ne pas rater !
+  en: A no miss event!
+- fr: Je ne comprends pas… j’ai loupé quelque chose ?
+  en: I don't understand... Did I miss something?
+- fr: Je suis passé à côté d’une super opportunité !
+  en: I missed a great opportunity.
+- fr: Le contrat nous est passé sous le nez…
+  en: This contract flew over our heads...
+end_question: Alors, ne ratez pas le prochain French expresso ;-)

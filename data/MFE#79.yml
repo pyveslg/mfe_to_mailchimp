@@ -1,0 +1,28 @@
+---
+title: ne restez pas les bras croisés
+preview_text: "Today, learn how to be here! \U0001F4CD"
+color: "#eed690"
+goal: être présent
+challenge:
+  state: 'Votre collègue vous demande si vous venez à la réunion de lundi. Vous répondez
+    :'
+  options:
+  - option: Oui, je vais attendre la réunion.
+  - option: Oui, je vais assister à la réunion.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! “attendre” est un faux ami…
+    Assister à un événement (une réunion, un concert, un cours…) signifie que vous êtes présent à cet événement. Attendre un événement signifie que vous restez jusqu’à ce que l’événement commence.
+  en: "“attendre” is a false friend! It means “to wait for” whereas “to attend an
+    event” would be translated by “assister à un évènement” in French."
+words:
+- fr: Tu seras là demain ?
+  en: Will you be here tomorrow?
+- fr: Je ne pourrai pas être présent pour ton anniversaire.
+  en: I won't be able to attend your birthday party.
+- fr: Nous ne pouvons pas rester les bras croisés !
+  en: We cannot stand idly!
+- fr: Il est seulement venu pour faire acte de présence.
+  en: He's only here to make an appearance.
+end_question: Et vous, assistez-vous souvent à des réunions dans votre travail ?

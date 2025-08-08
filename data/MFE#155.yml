@@ -1,0 +1,29 @@
+---
+title: l'important est de participer
+preview_text: "Today, learn how to become an athlete \U0001F3C3"
+color: "#ea8f79"
+goal: être sportif
+challenge:
+  state: 'Vous voulez vous comparer aux champions. Vous dites :'
+  options:
+  - option: Moi aussi, je fais du ski.
+    correct: true
+  - option: Moi aussi, je skie.
+explanation:
+  fr: |-
+    Eh oui ! skier est un verbe couramment employé, mais attention, tous les sports n’ont pas un verbe associé. En général, on utilise donc l’expression :
+    “faire de + [le nom du sport]”.
+  en: Sometimes, sports have their associated verbs (like in English) like “skier”
+    (to ski). That's why you'll usually hear the idiom “faire de” + [the referred
+    sports]. Very handy isn't it ?
+words:
+- fr: Je fais de la natation à la piscine municipale.
+  en: I swim at the town pool.
+- fr: Je fais du vélo tous les jours.
+  en: I do cycling everyday.
+- fr: Je fais de l'escalade dans la forêt de Fontainebleau.
+  en: I do rock climbing at the forest of Fontainebleau.
+- fr: "“L'important est de participer.” (Pierre de Coubertin)"
+  en: The important thing is to take part. (quote by P. de Coubertin, founder of the
+    IOC)
+end_question: Et vous, quel sport faites-vous à Paris ?

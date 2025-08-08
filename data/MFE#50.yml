@@ -1,0 +1,31 @@
+---
+title: c’est comme si c’était fait
+preview_text: ''
+color: "#77abb7"
+goal: faire des hypothèses
+challenge:
+  state: 'Votre ami vous propose de découvrir la France. Vous demandez :'
+  options:
+  - option: Si on voyagerait en France, on irait où ?
+  - option: Si on voyageait en France, on irait où ?
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! les si n'aiment pas les ré...
+    Pour exprimer une hypothèse, la formule est :
+    < Si + imparfait, conditionnel > : "Si j'étais toi, j'apprendrais le français."
+    < Conditionnel, si + imparfait > : "J'apprendrais le français, si j'étais toi."
+  en: "The “si” (if) dislike “ré” (= sound of verbs ending in the conditional tense).\nTo
+    make an assumption, the right grammar pattern is : \n< if  + imperfect tense,
+    conditional tense > / < conditional tense, if + imperfect >\n“If I were you, I
+    would learn French.” / “I would learn French, if I were you.”"
+words:
+- fr: Oui, si possible...
+  en: Yes, if it is ok.
+- fr: Si seulement je pouvais, je le ferais.
+  en: I would do it if I could.
+- fr: C’est comme si c’était fait !
+  en: Count it as done!
+- fr: Avec des si, on mettrait Paris en bouteille.
+  en: If wishes were horses, then beggars would ride.
+end_question: Et vous, que feriez-vous si vous parliez mieux le français ?

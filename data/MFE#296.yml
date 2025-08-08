@@ -1,0 +1,34 @@
+---
+title: je dois partir
+preview_text: Today, learn how to leave quickly
+color: "#fdcb6e"
+goal: partir rapidement
+challenge:
+  state: 'Vous devez partir car vous avez un autre rendez-vous après. Vous dites :'
+  options:
+  - option: Il faut que j’y vais !
+  - option: Il faut que j’y aille !
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! il faut que exprime une nécessité
+    (comme : c’est important que… / J’ai besoin que…).
+    Ces structures sont suivies du subjonctif :
+    Il faut que + [Sujet] + [verbe au subjonctif] + [complément].
+    Par exemple :
+    Nécessité de partir à 18h > Il faut que je parte à 18h.
+  en: "“il faut que” introduces the idea of necessity or requirement such as ”c'est
+    important que...”  (= it's important that) or “j'ai besoin que” (= I need that).
+    These kind of structures are always followed by a verb conjugated at the subjonctive
+    tense. Look at the example above to see how a sentence is built with such a structure
+    !"
+words:
+- fr: Je dois partir !
+  en: I need/have to go!
+- fr: Je dois filer !
+  en: I need/have to go! (informal)
+- fr: Allez, il faut que j’y aille !
+  en: Well, I have to go!
+- fr: Il faut que je me dépêche !
+  en: I need to hurry up!
+end_question: "Allez, il faut qu’on y aille ! À la semaine prochaine \U0001F60A"

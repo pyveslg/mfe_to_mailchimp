@@ -1,0 +1,27 @@
+---
+title: c’est mon tour
+preview_text: Today, learn how to play
+color: "#87e0ff"
+goal: jouer
+challenge:
+  state: 'Vous jouez au Monopoly avec des amis. C’est votre tour. Vous dites :'
+  options:
+  - option: À moi !
+    correct: true
+  - option: C’est moi !
+explanation:
+  fr: |-
+    Eh oui ! à moi signifie c’est à moi de jouer.
+    Quand vous jouez aux jeux de société, à moi permet de signaler votre tour.
+    Vous pouvez aussi signaler le tour d’une autre personne : À toi !, À Jean ! …
+  en: Say “à moi !” when it's your turn to play.
+words:
+- fr: À toi !
+  en: Your turn!
+- fr: C’est mon tour.
+  en: It's my turn.
+- fr: C’est à qui de jouer ?
+  en: Whose turn is next?
+- fr: C’était le tour de Jean.
+  en: It was Jean's turn.
+end_question: Et maintenant, c'est à qui de parler français ?

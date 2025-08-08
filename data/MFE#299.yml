@@ -1,0 +1,31 @@
+---
+title: pourquoi Paris
+preview_text: Today, learn how to get to know someone
+color: "#d9d872"
+goal: faire connaissance
+challenge:
+  state: 'Vous discutez avec l’ami d’un ami. Il a déménagé à Paris le mois dernier.
+    Pour connaître les raisons de son déménagement, vous demandez :'
+  options:
+  - option: Qu’est-ce qui t’a amené à Paris ?
+    correct: true
+  - option: Qu’est-ce qui t’a apporté à Paris ?
+explanation:
+  fr: "Eh oui ! Qu’est-ce qui t’a amené à Paris ? est une question très courante et
+    élégante pour une première rencontre. C’est une alternative habile à la question
+    :  Pourquoi tu es venu à Paris ? C’est une super question pour ouvrir la conversation
+    sur l’histoire de la personne et ses projets à Paris \U0001F609"
+  en: "“Qu'est-ce qui t'a amené à Paris” is a very common and subtle question to ask
+    someone about the reasons why they came to Paris. It's one of these so magic and
+    useful questions that help to kick off a conversation with someone you do not
+    know very well!"
+words:
+- fr: Pourquoi Paris ?
+  en: Why Paris?
+- fr: Qu’est-ce qui vous a amené à Paris ?
+  en: Why have you come to Paris?
+- fr: Je voulais découvrir une nouvelle culture.
+  en: I wanted to discover a new culture.
+- fr: Je suis venu pour le travail.
+  en: I have come because of my job.
+end_question: Et vous, qu’est-ce qui vous a amené à Paris ?

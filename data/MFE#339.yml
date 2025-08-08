@@ -1,0 +1,32 @@
+---
+title: C’est trop dur
+preview_text: Today, learn how to complain
+color: "#ffd1bd"
+goal: vous plaindre
+challenge:
+  state: 'C''est la grève des transports. C''est difficile de circuler dans Paris.
+    Vous dites :'
+  options:
+  - option: C'est difficile d'aller au travail !
+    correct: true
+  - option: C’est galère d’aller au travail !
+    correct: true
+explanation:
+  fr: Eh oui ! Pour commenter une difficulté, on utilise l’expression informelle «
+    C’est galère ». C’est un synonyme de difficile.
+  en: "“Galérer” is the informal synonym of “avoir du mal”. You can use it to express
+    your difficulties."
+words:
+- fr: C'est difficile !
+  en: It is hard!
+- fr: C’est galère !
+  en: It's such a hassle!
+- fr: J'ai du mal à arriver à l'heure.
+  en: I'm having a hard time arriving on time.
+- fr: Je n'y arrive pas.
+  en: I just can't do it.
+end_question: |-
+  On espère que ce n'est pas trop galère pour vous
+  ce temps de confinement !
+
+  Courage et prenez soin de vous et des autres !

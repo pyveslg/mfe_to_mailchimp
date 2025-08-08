@@ -1,0 +1,32 @@
+---
+title: j'ai réussi
+preview_text: Today, learn how to reach your goals
+color: "#fcdca4"
+goal: aller au bout
+challenge:
+  state: 'Vous êtes heureux ! Un de vos objectifs à Paris était de faire de l’humour
+    en français. Aujourd’hui, vous avez fait rire vos collègues dans une conversation
+    en français ! Vous dites :'
+  options:
+  - option: J’ai atteint un objectif !
+    correct: true
+  - option: J’ai achevé un objectif !
+explanation:
+  fr: |-
+    Eh oui ! atteindre signifie toucher ou arriver au bout d’un chemin et accéder à un but.
+    Achever est un synonyme formel des verbes terminer et finir.
+    C’est donc un faux ami en français.
+  en: "”achever” strikingly looks like the English word “to achieve”. But they don't
+    mean the same. “to achieve” would be the equivalent of the French verb “atteindre”
+    whereas “achever” means “to end / to finish”. Sometimes you need to “achever”
+    something to “atteindre” your goal \U0001F609"
+words:
+- fr: J’ai réussi !
+  en: I've made it!
+- fr: Félicitations, tu as atteint de très bons résultats !
+  en: Congratulations! You achieved great results!
+- fr: Notre mission touche à son but.
+  en: Our project is nearing its goal.
+- fr: Je ferai de mon mieux pour aller au bout du projet !
+  en: I'll do my best to see this project through!
+end_question: Et vous, quels objectifs avez-vous atteint avec votre français ?

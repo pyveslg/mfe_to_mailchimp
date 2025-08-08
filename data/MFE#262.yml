@@ -1,0 +1,30 @@
+---
+title: j’aurais toutefois adoré
+preview_text: Today, learn how to mention an inconsistency
+color: "#f5efe3"
+goal: commenter une incohérence
+challenge:
+  state: 'Vous êtes étonné. Vous dites :'
+  options:
+  - option: Pourtant, je l’ai postée la semaine dernière.
+    correct: true
+  - option: Par contre, je l’ai postée la semaine dernière.
+explanation:
+  fr: |-
+    Eh oui ! pourtant exprime une contradiction ou un lien illogique entre deux faits :
+    Je fais un régime pourtant je grossis.
+    par contre oppose deux faits :
+    Je n’aime pas les bonbons, par contre j’adore le chocolat.
+  en: |-
+    “pourtant” (= yet) is used to underline an irrational link between two facts or ideas.
+    Whereas, “par contre” is used for two opposite ideas or facts.
+words:
+- fr: Je prendrai une entrée mais pas de dessert.
+  en: I'll have a starter but no dessert.
+- fr: Je ne peux pas… J’aurais toutefois adoré !
+  en: I can't... I would have loved though!
+- fr: J’ai beau essayer, ça ne marche jamais.
+  en: I might well try, it still never works.
+- fr: Je regarde les films en français même si je ne comprends pas tout…
+  en: I watch movies in French even though I do not understand everything.
+end_question: C'est fini pour aujourd'hui, par contre on revient demain!

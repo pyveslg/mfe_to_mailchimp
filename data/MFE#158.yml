@@ -1,0 +1,31 @@
+---
+title: il m'a fixé du regard toute la soirée
+preview_text: Today, learn how to stabilize things
+color: "#ec7700"
+goal: stabiliser les choses
+challenge:
+  state: 'Vous allez chez un ophtalmologue pour faire vérifier votre vue. Il vous
+    demande de regarder un point lumieux précis dans sa machine. Vous regardez donc
+    :'
+  options:
+  - option: ce point fix.
+    correct: true
+  - option: ce point fixe.
+explanation:
+  fr: "Eh oui ! À part en gaulois (Astérix par exemple \U0001F604), la lettre x à
+    la fin d’un mot est muette (des choux) ou se prononce [s] (dix).\nLe e a donc
+    ici la fonction de compléter la consonne et de la rendre sonore ([ks])."
+  en: If you're not trying to speak Gaulish but French, you should remember that the
+    letter “x” at the end of a word is silent or is pronounced [s]. So here, the final
+    ”e” is not a masculine/feminine thing, but has the function to complete the consonant
+    and make it sound as a [ks].
+words:
+- fr: Il nous appelle tous les jours à heure fixe.
+  en: He calls us every day at the same fixed time.
+- fr: Elle est sans domicile fixe.
+  en: She's homeless.
+- fr: Je me suis fixé un objectif ambitieux !
+  en: I set myself an ambitious objective!
+- fr: Il m'a fixé du regard toute la soirée.
+  en: He stared at me the whole evening.
+end_question: Et vous, quels objectifs vous êtes-vous fixés pour aujourd'hui ?

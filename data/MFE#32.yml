@@ -1,0 +1,32 @@
+---
+title: oups, j'ai fait une erreur...
+preview_text: ''
+color: "#ff8554"
+goal: à faire des erreurs !
+challenge:
+  state: 'Vous réalisez que vous avez transmis une mauvaise information. Vous dites
+    :'
+  options:
+  - option: Je suis trompé !
+  - option: Je me suis trompé !
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! “se tromper” signifie faire une erreur.
+    N'oubliez pas la préposition "se" avant “tromper"...
+    car tromper, sans préposition, signifie
+    abuser de la confiance de quelqu'un ou être infidèle à quelqu'un.
+  en: |-
+    “se tromper” means to be mistaken.
+    Without the “se“ preposition, “tromper” means to deceive someone or to cheat on someone...
+    Could be annoying to mix up both, right? ;)
+words:
+- fr: Oups, j'ai fait une erreur...
+  en: Oops ! I've made a mistake...
+- fr: Pardon, c'est de ma faute !
+  en: Sorry, my mistake!
+- fr: Sauf erreur de ma part, il y a problème.
+  en: If I'm not mistaken, there is a problem.
+- fr: Cette indication induit en erreur.
+  en: That indication is misleading.
+end_question: Et vous, pensez-vous que l'erreur est humaine ?

@@ -1,0 +1,28 @@
+---
+title: fini le stress
+preview_text: Today, learn how to make meaningful resolutions
+color: "#a7ff83"
+goal: prendre de bonnes résolutions
+challenge:
+  state: 'Pour 2018, vous avez pris de nouvelles résolutions ! Vous dites :'
+  options:
+  - option: En 2018, je me mets au sport !
+    correct: true
+  - option: En 2018, je commence à faire du sport !
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! se mettre à est synonyme de commencer à. La locution se mettre à est couramment utilisée pour annoncer un commencement soudain.
+    Par exemple : “Allez, je me mets au travail !”.
+  en: ”se mettre à” and “commencer à” are synonyms. They both mean "to start to +
+    verb”.
+words:
+- fr: En 2018, j’arrive à l’heure à mes rendez-vous !
+  en: In 2018, I'll be on time for my scheduled appointments.
+- fr: En 2018, fini le stress !
+  en: In 2018, no more anxiety!
+- fr: En 2018, plus d’excuse, je m’y mets !
+  en: In 2018, no more excuse, I'll get right on it!
+- fr: J’ai pris la résolution de ne pas prendre de résolution…
+  en: I made the resolution to not make any at all...
+end_question: Et vous, quelles sont vos résolutions pour 2018 ?

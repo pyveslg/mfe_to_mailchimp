@@ -1,0 +1,33 @@
+---
+title: c’est marrant
+preview_text: Today, learn how to keep calm
+color: "#73dbc4"
+goal: rester calme
+challenge:
+  state: 'Vous êtes fatigué. Vous faites des activités calmes. Vous dites :'
+  options:
+  - option: Je lire et je dorme.
+    correct: true
+  - option: Je lis et je dors.
+explanation:
+  fr: |-
+    Eh oui ! lire et dormir sont des verbes à “2 bases” :
+    1 base au singulier et 1 base au pluriel.
+    Observez : je [dor]s / tu [dor]s / il [dor]t / elle [dor]t
+    nous [dorm]ons / vous [dorm]ez / ils [dorm]ent / elles [dorm]ent
+    Pour le verbe lire, la première base est [li] et la seconde base est [lis]
+  en: "“dormir” (= to sleep) and ”lire” (= to read) are what is called 2-bases verbs:
+    one for when they are conjugated at their singular form and one for the plural
+    form. Look at the example above to make sure to understand! Many other verbs follow
+    the same pattern like among the most common: “écrire” (= to write), “partir” (=
+    to leave) , “vivre” (= to live), “sentir” (= to smell/feel)"
+words:
+- fr: Tu pars en vacances ?
+  en: Do you go on holiday?
+- fr: Je sors seulement le samedi soir.
+  en: I only go out on Saturday nights.
+- fr: Je me mets au repos.
+  en: I give myself a break.
+- fr: Je vis au jour le jour.
+  en: I live from day to day.
+end_question: Et vous, que faites-vous pour vous reposer?

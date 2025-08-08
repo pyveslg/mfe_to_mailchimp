@@ -1,0 +1,30 @@
+---
+title: tu as passé un bon week-end ?
+preview_text: ''
+color: "#cdbdff"
+goal: raconter votre week-end
+challenge:
+  state: 'Pour parler du week-end dernier, vous dites :'
+  options:
+  - option: Le week-end, je suis parti à la montagne.
+  - option: Ce week-end, je suis parti à la montagne.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! pour parler du week-end dernier ou prochain,
+    on utilise ce : "ce week-end, j'ai jardiné".
+    Mais pour parler des week-ends en général,
+    on utilise le : "le week-end, je jardine".
+  en: |-
+    To refer to your last or next week-end, “ce”, which means this, must be used.
+    But when it comes to week-ends in general, "le" is the right choice.
+words:
+- fr: Bon week-end !
+  en: Have a nice week-end!
+- fr: Alors, tu as passé un bon week-end ?
+  en: So, how was your week-end ?
+- fr: La semaine est chargée, vivement le week-end !
+  en: This week is busy. I can't wait for the week-end!
+- fr: Ce week-end n’était pas de tout repos.
+  en: It hasn't been a restful week-end.
+end_question: Et vous, qu'est-ce que vous avez fait ce week-end ?

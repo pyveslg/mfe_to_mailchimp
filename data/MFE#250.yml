@@ -1,0 +1,28 @@
+---
+title: Cet été, j’ai fait plusieurs festivals.
+preview_text: Today, learn how to be wild
+color: "#faf6e9"
+goal: être sauvage
+challenge:
+  state: 'Vous avez visité le zoo safari de Thoiry. Vous dites :'
+  options:
+  - option: J’ai vu des animaux.
+    correct: true
+  - option: J’ai vu des animals.
+explanation:
+  fr: "Eh oui ! Les noms qui finissent par -al deviennent -aux au pluriel :\nun animal
+    > des animaux \nAttention à quelques exceptions : festival, bal, carnaval, récital.\nun
+    festival > des festivals"
+  en: |-
+    All French words finishing with “-al” finish with “-aux” in the plural form...
+    Except (French would not be French without exceptions, would it?) with ”festival”, “bal”, “carnaval”, “récital”.
+words:
+- fr: J’adore les chevaux.
+  en: I love horses.
+- fr: Les enfants sont géniaux.
+  en: The children are great.
+- fr: Je cuisine avec des produits locaux.
+  en: I cook local products.
+- fr: Cet été, j’ai fait plusieurs festivals.
+  en: This summer, I attended many festivals
+end_question: Et vous, avez-vous un animal domestique ?

@@ -1,0 +1,29 @@
+---
+title: il change d’avis comme de chemise
+preview_text: ''
+color: "#fa5b75"
+goal: donner votre opinion
+challenge:
+  state: 'Vous n’êtes pas d’accord avec la proposition d’un collègue. Vous dites :'
+  options:
+  - option: À mon opinion, c’est une mauvaise idée…
+  - option: À mon avis, c’est une mauvaise idée…
+    correct: true
+explanation:
+  fr: |-
+    Eh oui !  pour exprimer une opinion, on utilise l'expression "à mon avis".
+    Attention à ne pas traduire littéralement de l'anglais ;-)
+  en: |-
+    Temptation for answer a) is big for English speakers.
+    Literal translation is helpful in many cases,
+    but, unfortunately, it doesn't help for giving your opinion in French. ;)
+words:
+- fr: Selon moi, c’est parfait !
+  en: It sounds perfect to me!
+- fr: D’après toi, quelle est la meilleure option ?
+  en: In your opinion, what's the best option?
+- fr: J’ai un avis tranché sur ce sujet.
+  en: I have strong views on that subject.
+- fr: Ne l’écoute pas, il change d’avis comme de chemise.
+  en: Do not listen to him. He changes his mind as often as he changes his shirt.
+end_question: D'après vous, qui va gagner la Palme d'Or au festival de Cannes ?

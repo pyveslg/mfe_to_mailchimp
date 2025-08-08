@@ -1,0 +1,26 @@
+---
+title: "ça reste entre nous \U0001F910"
+preview_text: Today, learn how to tell a secret
+color: "#a6f6f1"
+goal: raconter un secret
+challenge:
+  state: 'Pour lui demander d’être discret, vous dites :'
+  options:
+  - option: Ne va pas le crier sur tous les toits.
+    correct: true
+  - option: Ne va pas le crier dans les journaux.
+explanation:
+  fr: Eh oui ! crier sur tous les toits est une expression informelle. Elle est utilisée
+    pour dire que quelqu’un révèle un secret et n’a aucune discrétion.
+  en: "“Crier sur tous les toits” is an informal expression used when a secret is
+    revealed with great indiscretion."
+words:
+- fr: Ça reste entre nous.
+  en: This stays between us.
+- fr: Surtout, ne va pas le crier sur tous les toits !
+  en: Most importantly, don’t go shouting it from the rooftops!
+- fr: C’est une commère.
+  en: She’s a blabbermouth.
+- fr: Motus et bouche cousue.
+  en: Mum’s the word.
+end_question: Et vous, savez-vous garder un secret ?

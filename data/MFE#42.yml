@@ -1,0 +1,29 @@
+---
+title: ça me met de bonne humeur
+preview_text: ''
+color: "#fffcea"
+goal: changer d'humeur
+challenge:
+  state: 'Votre ami vous apprend une mauvaise nouvelle. Vous dites :'
+  options:
+  - option: Cette nouvelle me rend triste.
+    correct: true
+  - option: Cette nouvelle me fait triste.
+explanation:
+  fr: |-
+    Eh oui ! rendre s'utilise devant un adjectif, par exemple : "ça me rend nerveux".
+    Mais devant un verbe, on emploie faire.
+    Observez plutôt : "ça me fait rire" // "ça me rend heureux".
+  en: "“It makes me laugh”, “It makes me happy”...\nIn French, we use two different
+    verbs :  “rendre” and  “faire”. \n“rendre” is used before an adjective.\n “faire”
+    is used before another verb."
+words:
+- fr: Son attitude me rend fou !
+  en: His behaviour drives me crazy!
+- fr: Son licenciement l’a bouleversé.
+  en: His dismissal deeply moved him.
+- fr: Il est lunatique, il a souvent des sautes d’humeur.
+  en: He is lunatic, he often has mood swings.
+- fr: Sa présence me met de bonne humeur.
+  en: Her presence puts me in a good mood.
+end_question: Et vous, qu'est-ce qui vous rend heureux ?

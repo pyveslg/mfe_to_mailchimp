@@ -1,0 +1,25 @@
+---
+title: j’en ai entendu parler
+preview_text: Today, learn how to spread the uncertain news
+color: "#f2a2e4"
+goal: relayer une information incertaine
+challenge:
+  state: 'L’information n’est pas sûre. Vous dites :'
+  options:
+  - option: Il paraît que la boîte va être rachetée.
+    correct: true
+  - option: Il apparaît que la boîte va être rachetée.
+explanation:
+  fr: Eh oui ! il paraît que est une expression courante pour transmettre une information
+    non confirmée.
+  en: "“il paraît que” conveys a rumor."
+words:
+- fr: Peut-être qu’il vient.
+  en: Maybe he'll come.
+- fr: Il paraît qu’il va faire chaud ce week-end.
+  en: This week-end is expected to be hot.
+- fr: J’ai entendu dire que Macron allait publier un livre.
+  en: I heard that Macron would publish a book.
+- fr: J’en ai entendu parler.
+  en: I heard mention of that.
+end_question: Alors, la dernière rumeur ?

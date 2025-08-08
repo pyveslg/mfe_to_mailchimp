@@ -1,0 +1,27 @@
+---
+title: Je pars maintenant.
+preview_text: Today, learn how to announce your arrival.
+color: "#fec8d8"
+goal: annoncer votre arrivée
+challenge:
+  state: 'Vous envoyez un message. Vous dites :'
+  options:
+  - option: Je viens !
+    correct: true
+  - option: J’arrive !
+explanation:
+  fr: Eh oui ! J’arrive est une expression couramment utilisée pour indiquer que l’on
+    approche d’un lieu.
+  en: |-
+    You say “J'arrive” as you would say ”i'm coming!” in English.
+    This idiom is used to mean that you're getting closer to a specific place.
+words:
+- fr: J’arrive dans 2 minutes.
+  en: I'm coming in 2 minutes.
+- fr: Je pars maintenant.
+  en: I'm leaving now.
+- fr: Je suis en chemin.
+  en: I am on my way.
+- fr: Je suis en route vers la maison.
+  en: I am heading back home.
+end_question: Et vous, vous venez au Singing in French ce soir ?

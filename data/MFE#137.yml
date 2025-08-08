@@ -1,0 +1,28 @@
+---
+title: je fais au plus vite
+preview_text: Today, learn how to announce your presence
+color: "#ecfeff"
+goal: annoncer votre arrivée
+challenge:
+  state: 'Vous envoyez un message à un collègue pour le prévenir. Vous écrivez :'
+  options:
+  - option: J’arrive en 5 minutes.
+  - option: J’arrive dans 5 minutes.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! dans s’emploie pour indiquer le moment où une action future va se produire. Ex : “Je vais au travail dans 5 minutes.” = Je reste 5 minutes et je pars au travail.
+    en introduit le temps nécessaire pour réaliser une action.
+    Ex : “Je vais au travail en 5 minutes.” = J’ai 5 minutes de trajet pour aller au travail.
+  en: One use “dans” before a time information to indicate a moment when a action
+    will happen. ”en” before a time information underlies the action duration.
+words:
+- fr: Rappelle-moi dans 10 minutes.
+  en: Call me back in 10 minutes.
+- fr: Donne-moi 5 minutes et je suis à toi.
+  en: Give me 5 minutes and I'm all yours.
+- fr: Ça doit être prêt dans 2 semaines, dernier délai.
+  en: It has to be ready in 2 weeks, final deadline.
+- fr: Je fais au plus vite.
+  en: I do as fast as I can.
+end_question: Allez, on se retrouve dans 3 jours !

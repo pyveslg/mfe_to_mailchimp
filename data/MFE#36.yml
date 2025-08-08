@@ -1,0 +1,25 @@
+---
+title: la vérité sort de la bouche des enfants
+preview_text: ''
+color: "#ffd464"
+goal: être suspicieux
+challenge:
+  state: 'Pour exprimer vos doutes sur les propos de quelqu’un. Vous dites :'
+  options:
+  - option: Je crois qu’il cache le vérité.
+  - option: Je crois qu’il cache la vérité.
+explanation:
+  fr: Eh oui ! les mots qui se terminent par -ité sont toujours féminins !
+  en: |-
+    Maybe the easiest one since the beginning ! :)
+    All words finishing by “ité” are feminine in French.
+words:
+- fr: Je me méfie de lui…
+  en: I mistrust him...
+- fr: C’est bizarre, il me cache quelque chose…
+  en: It's strange, he must be hiding something from me...
+- fr: C’est parfois difficile de voir la vérité en face.
+  en: I may be sometimes uneasy to face the truth.
+- fr: La vérité sort de la bouche des enfants.
+  en: Truth comes out of the mouths of children.
+end_question: Alors l'assiduité c'est féminin ou masculin ?

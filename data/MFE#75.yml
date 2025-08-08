@@ -1,0 +1,29 @@
+---
+title: ce n'est pas ce que je voulais dire
+preview_text: Today, learn how to have plans and projects in French.
+color: "#acc6aa"
+goal: avoir des intentions
+challenge:
+  state: 'Votre ami vous demande quand vous commencez. Vous dites :'
+  options:
+  - option: Je pense commencer ce week-end.
+    correct: true
+  - option: Je pense à commencer ce week-end
+explanation:
+  fr: |-
+    Eh oui ! Comme en anglais, une préposition peut changer le sens d’un verbe.
+    Penser faire quelque chose, sans préposition après penser,
+    introduit une intention ou un projet.
+  en: |-
+    A preposition that follows a verb can change its meaning.
+    “Penser faire quelque chose”, without the ”à” preposition after “penser” means to plan or intent something.
+words:
+- fr: Penses-tu venir ce week-end ?
+  en: Do you plan to come this week-end?
+- fr: Désolé, je pensais bien faire.
+  en: Sorry, I thought I was doing the right thing.
+- fr: Il le fait dans une bonne intention.
+  en: He does it with good intentions.
+- fr: Pardon, ce n’est pas ce je voulais dire.
+  en: Sorry, I didn't mean to say that.
+end_question: Et vous, que pensez-vous faire aujourd’hui ?

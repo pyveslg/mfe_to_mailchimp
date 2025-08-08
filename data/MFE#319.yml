@@ -1,0 +1,29 @@
+---
+title: "c’est l’automne \U0001F342"
+preview_text: Today, learn how to get ready for season changes
+color: "#fad6d6"
+goal: changer de saison
+challenge:
+  state: 'Vous observez la météo qui change. Vous dites :'
+  options:
+  - option: En automne, il pleut souvent…
+    correct: true
+  - option: Au automne, il pleut souvent…
+explanation:
+  fr: |-
+    Eh oui ! Devant les saisons, la préposition généralement appropriée est en.
+    Sauf avec le printemps ! On utilise alors la préposition au.
+    Observez : en été, en automne, en hiver et au printemps.
+  en: |-
+    Seasons in French are generally preceded by ”en”, except Spring which is preceded by “au”
+    “en été” = in summer | “en automne” = in autumn | “en hiver” = in winter | ”au printemps” = in spring
+words:
+- fr: C’est l’automne !
+  en: It's fall!
+- fr: En automne, les arbres perdent leurs feuilles.
+  en: In autumn/fall, the trees shed their leaves.
+- fr: En novembre, il pleut à Paris.
+  en: November is a rainy month in Paris.
+- fr: Ça va tourner à l’orage.
+  en: Weather is going to turn stormy.
+end_question: Et vous, qu’aimez-vous faire en automne ?

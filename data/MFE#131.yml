@@ -1,0 +1,29 @@
+---
+title: vivement que tu me racontes
+preview_text: Today, learn how to be enthusiastic
+color: "#58dada"
+goal: être enthousiaste
+challenge:
+  state: 'Vous l’invitez à prendre un verre. Vous dites :'
+  options:
+  - option: J’ai hâte que tu me racontes ton voyage.
+    correct: true
+  - option: J’espère que tu me racontes ton voyage.
+explanation:
+  fr: |-
+    Eh oui ! avoir hâte exprime l’impatience et l’enthousiasme
+    concernant un événement à venir.
+  en: "“avoir hâte” is the correct French idiom to use when you're impatient and enthusiastic
+    about something that should happen in the future."
+words:
+- fr: J’attends ça avec impatience.
+  en: I can't wait for it.
+- fr: Vivement que tu me racontes!
+  en: Roll on the day you tell me!
+- fr: J’ai hâte d’y être.
+  en: I am looking forward to being there.
+- fr: Il me tarde d’en savoir plus.
+  en: I am anxious to get to know more.
+end_question: |-
+  Et vous,
+  de quoi avez-vous hâte ?

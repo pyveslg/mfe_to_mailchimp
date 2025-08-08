@@ -1,0 +1,31 @@
+---
+title: mon frère a l’esprit de famille
+preview_text: Today, learn how to be in family!
+color: "#0de2ea"
+goal: être en famille
+challenge:
+  state: 'Pour la Toussaint, vous retrouvez votre famille pour un dîner. Vous dites
+    :'
+  options:
+  - option: On se réunit en famille.
+    correct: true
+  - option: On réunit en famille.
+explanation:
+  fr: |-
+    Eh oui ! Si un verbe implique une réciprocité (ici : “les membres de la famille se réunissent les uns, les autres”) alors ce verbe doit être précédé du pronom se.
+    Attention, le pronom change selon le sujet. Observez :
+    “On se réunit.” | “Nous nous réunissons.” | “Vous vous réunissez.” | “Ils se réunissent.”
+  en: |-
+    When the verb suggests a reciprocity, it has to be preceded by the pronoun ”se”.
+    Watchout! This pronoun changes according to its subject :
+    “je me”, “tu te”, “il/elle/on se”, “nous nous”, “vous vous”, “ils/elles se” + conjugated verb.
+words:
+- fr: La vie de famille, c’est important pour moi.
+  en: Family life is an important thing for me.
+- fr: Mon frère a l’esprit de famille.
+  en: My brother is family-minded.
+- fr: C’est bon de se retrouver en famille !
+  en: It's so good to get together with family.
+- fr: La famille, ça passe avant tout !
+  en: Family always comes first!
+end_question: Et vous, serez-vous en famille aujourd'hui ?

@@ -1,0 +1,30 @@
+---
+title: regarde ce téléphone
+preview_text: "Today, learn how to go shopping \U0001F6CD"
+color: "#ffc1fa"
+goal: faire du shopping
+challenge:
+  state: 'Vous faites les soldes avec votre amie. Vous trouvez une robe et vous pensez
+    qu’elle doit l’essayer. Vous dites :'
+  options:
+  - option: L' essaye !
+  - option: Essaye-la !
+    correct: true
+explanation:
+  fr: "Eh oui ! Dans une phrase à l’impératif, les pronoms changent de place.\nIls
+    ne se placent plus avant le verbe mais après le verbe.\nQuand il y a deux pronoms,
+    les pronoms le / la / l’ / les\nsont toujours les plus proches du verbe. Exemples:\nTu
+    le prends > Prends-le \nTu lui donnes > Donne-lui\nTu me le donnes > Donne-le-moi"
+  en: 'Pronouns are usually placed before the verb, but the syntax changes when it’s
+    in the imperative form: they end up after the verb. When you must use two pronouns,
+    always place “le” / “la” / “l’ ”/ “les” closest to the verb.'
+words:
+- fr: Regarde ce téléphone !
+  en: Look at that phone!
+- fr: Prends-le !
+  en: Take it!
+- fr: Écoute-moi !
+  en: Listen to me!
+- fr: Donne-le-moi, s’il te plaît.
+  en: Give it to me, please.
+end_question: Et vous, vous allez faire les soldes d’été ?

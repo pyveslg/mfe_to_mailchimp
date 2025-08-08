@@ -1,0 +1,30 @@
+---
+title: tu ne veux pas noter avant d’oublier
+preview_text: Today, learn how to suggest
+color: "#ddf5f7"
+goal: suggérer
+challenge:
+  state: 'Votre collègue a un rhume et éternue régulièrement. Vous lui demandez :'
+  options:
+  - option: Est-ce que veux-tu un mouchoir ?
+    correct: true
+  - option: Est-ce que tu veux un mouchoir ?
+explanation:
+  fr: |-
+    Eh oui ! Après est-ce que l’ordre de la phrase est normal (c’est-à-dire : Sujet – Verbe – Complément). Il y a donc trois façons de poser cette question :
+    - Tu veux un mouchoir ? (très informel)
+    - Est-ce que tu veux un mouchoir ? (informel)
+    - Veux-tu un mouchoir ? (formel)
+  en: After ”est-ce-que”, you should build the sentence as usual (subject + verb +
+    complement). Look carefully at the 3 ways of asking a question in French above
+    depending on the social context.
+words:
+- fr: Tu voudrais un stylo ?
+  en: Would you like a pen?
+- fr: Tu ne veux pas noter avant d’oublier ?
+  en: Shouldn't you take notes before forgetting?
+- fr: Permets-moi de te rappeler notre rendez-vous ?
+  en: May I remind you of our appointment?
+- fr: Il serait judicieux de réserver avant.
+  en: It might be wise to book in advance.
+end_question: Et v Aaaaatchoum !

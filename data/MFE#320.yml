@@ -1,0 +1,31 @@
+---
+title: je voudrais bien rentrer à pied
+preview_text: Today, learn how to have preferences
+color: "#f1d6ab"
+goal: préférer
+challenge:
+  state: 'Vous quittez une soirée. Il est 1h30 du matin. Votre ami vous demande quel
+    transport vous préférez : le taxi ou le métro. Vous dites :'
+  options:
+  - option: Je préfère de prendre un taxi.
+  - option: Je préfère prendre un taxi.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Les verbes de cœur sont directs donc pas de préposition !
+    Autres exemples de verbes de cœur ❤️ :
+    aimer / adorer / détester / préférer / vouloir / désirer / souhaiter…
+  en: So-called “Verbs of the heart” (which are used to express feelings, wishes...)
+    are never followed by prepositions in French. So you will Aimer (like, love),
+    adorer (love), détester (hate), préférer (prefer), vouloir (want), désirer (want/wish),
+    souhaiter (wish) are directly followed by something/someone.
+words:
+- fr: J’adore faire du vélo à Paris !
+  en: I love cycling in Paris!
+- fr: Il déteste voyager en avion.
+  en: He hates flying.
+- fr: J’aimerais essayer les trottinettes électriques.
+  en: I would like to try the electric scooters.
+- fr: Je voudrais bien rentrer à pied.
+  en: I would like to walk back.
+end_question: Et vous, quel est votre moyen de transport préféré à Paris ?

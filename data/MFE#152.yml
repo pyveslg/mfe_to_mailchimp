@@ -1,0 +1,30 @@
+---
+title: puis-je te parler 2 minutes
+preview_text: Today, learn how to deal with someone
+color: "#bbded6"
+goal: vous addresser à quelqu'un
+challenge:
+  state: 'Votre chef vous demande de lui envoyer un document rapidement. Vous dites
+    :'
+  options:
+  - option: Je vous envoie le document cet après-midi.
+    correct: true
+  - option: Je vous envoyez le document cet après-midi.
+explanation:
+  fr: |-
+    Eh oui ! Ne confondez pas le sujet et le complément...
+    En français, ils sont tous les deux placés avant le verbe, la confusion est donc fréquente. Dans cette phrase, je est le sujet (“ j’envoie le document [...] ”), vous est le complément (“ [...] à vous ”).
+  en: In this sentence, “je” is the subject and “vous” is the complement. As both
+    are located before the verb, one can be sometimes confused when conjugating the
+    verb. When you've got similar situations, try to identify which element is the
+    subject to be able to conjugate the verb in the correct way.
+words:
+- fr: Puis-je te parler 2 minutes ?
+  en: Would you have 2 minutes to talk?
+- fr: Je lui ai écrit hier.
+  en: I wrote to him yesterday.
+- fr: Je vous contacte suite à notre conversation téléphonique.
+  en: I am contacting you following our phone call.
+- fr: Comme convenu, je t’envoie toutes les informations.
+  en: As agreed, I send you all the information.
+end_question: "Alors, vous nous disons à demain ou nous vous disons à demain ? \U0001F914"

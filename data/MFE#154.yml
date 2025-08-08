@@ -1,0 +1,27 @@
+---
+title: je reviens des Cévennes
+preview_text: Today, learn how to travel around
+color: "#f8f1e5"
+goal: voir du pays
+challenge:
+  state: 'Vous avez envie d’en profiter pour changer de région. Vous dites :'
+  options:
+  - option: Je vais découvrir la France !
+    correct: true
+  - option: Je vais découvrir le France !
+explanation:
+  fr: |-
+    Eh oui! Les pays ont un genre… et la France est un pays féminin !
+    Les pays qui terminent par la lettre -e sont  féminins. Par exemple : la Norvège, la Grèce... Attention à l’élision devant les voyelles : l’Italie, l’Allemagne, l’Espagne…
+  en: Countries have a gender in French. When the country ends by “-e”, then its gender
+    is feminine! When not, it's masculine.
+words:
+- fr: Bienvenue en France !
+  en: Welcome to France!
+- fr: Tu connais la Bretagne ?
+  en: Have ever gone to Brittany?
+- fr: Je reviens des Cévennes, c’est magnifique !
+  en: I was in the Cevennes. It's wonderful!
+- fr: On prend la route pour les Alpes demain.
+  en: We'll drive to the Alps tomorrow.
+end_question: Et vous, quelle est votre prochaine découverte en France ?

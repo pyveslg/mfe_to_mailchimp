@@ -1,0 +1,28 @@
+---
+title: c'était le bon vieux temps
+preview_text: ''
+color: "#f4e1e1"
+goal: dater un évènement
+challenge:
+  state: 'Pour parler de l''origine de notre espèce, vous dites :'
+  options:
+  - option: L'Homo sapiens existe depuis 300 000 ans.
+  - option: L'Homo sapiens existe depuis 300 000 années.
+explanation:
+  fr: "Eh oui ! Voici un moyen très simple de retenir quand il faut utiliser “an”
+    ou “année”. \nan désigne la quantité (le tout) tandis que année désigne la qualité
+    (l'expérience).\nOn dira ainsi : “J'habite à Paris depuis 10 ans.”\nMais : “J'ai
+    vécu 10 merveilleuses années à Paris.”"
+  en: |-
+    Here is an easy trick to remember when to use “an“ or “année”.
+    “an” refers to the quantity whereas “année” underlies the quality (the experience).
+words:
+- fr: C'était il y a 20 ans.
+  en: It was 20 years ago.
+- fr: Ça évolue avec le temps.
+  en: It evolves over time.
+- fr: De quand date la dernière révision ?
+  en: When was the latest revision?
+- fr: C'était le bon vieux temps.
+  en: Those were the good old days.
+end_question: Alors, depuis quand apprenez-vous le français ?

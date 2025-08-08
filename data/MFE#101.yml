@@ -1,0 +1,27 @@
+---
+title: j'allais oublier
+preview_text: Today, learn how to get ready to leave
+color: "#f3ecc8"
+goal: être prêt à partir
+challenge:
+  state: 'Vous êtes en train de partir de chez vous et un ami vous téléphone. Il demande
+    s’il ne dérange pas. Vous répondez :'
+  options:
+  - option: J’étais sur le point de partir.
+    correct: true
+  - option: J’étais sur le but de partir.
+explanation:
+  fr: Eh oui! “être sur le point de” introduit l’action que vous allez réaliser dans
+    l’instant.
+  en: "“être sur le point de” is the expression you should use when you're bound to
+    do something."
+words:
+- fr: Tu es prêt ?
+  en: Are you ready?
+- fr: C’est l’heure, on est parti !
+  en: It's time! Let's go!
+- fr: Ah merci, j’allais oublier…
+  en: Oh thanks, I was about to forget...
+- fr: Je m’apprête à l’appeler.
+  en: I am about to give him a call.
+end_question: Et vous, qu'allez-vous faire maintenant ?

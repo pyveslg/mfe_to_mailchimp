@@ -1,0 +1,31 @@
+---
+title: j’ai sauté dans le premier métro
+preview_text: Today, learn how to take public transports
+color: "#99fcc4"
+goal: prendre les transports
+challenge:
+  state: 'Vous travaillez à la Défense et vous allez au travail en voiture. Un ami
+    vous demande comment vos collègues viennent. Vous dites :'
+  options:
+  - option: En général, ils prendent le RER.
+  - option: En général, ils prennent le RER.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! prendre est un verbe à 3 bases.
+    Comme beaucoup de verbes récurrents, la 3ème personne du pluriel (ils / elles) a une base différente. Par exemple :
+    Prendre : je prends / nous prenons / ils prennent.
+    Boire : je bois / nous buvons / ils boivent.
+  en: |-
+    “prendre” (= to take) is a 3-basis verb. As many verbs, the plural form (ils / elles) has a different basis.
+    The 3 bases of “prendre” are : “prend”, “pren”, “prenn”.
+words:
+- fr: Je prends souvent le Transilien.
+  en: I often take the Transilien train.
+- fr: Je passe des heures dans les transports publics.
+  en: I spend hours in the public transports.
+- fr: Je me déplace en métro.
+  en: I navigate by metro.
+- fr: J’ai sauté dans le premier métro.
+  en: I hopped on the first available metro.
+end_question: Et vous, comment allez-vous au travail ?

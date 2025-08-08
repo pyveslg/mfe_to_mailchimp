@@ -1,0 +1,31 @@
+---
+title: d’abord, je dois manger
+preview_text: Today, learn how to have priorities
+color: "#f4ea8e"
+goal: avoir des priorités
+challenge:
+  state: 'Il est midi. Votre collègue veut partir manger mais vous n’avez pas fini
+    votre travail de la matinée. Vous dites :'
+  options:
+  - option: Je dois finir avant partant !
+    correct: true
+  - option: Je dois finir avant de partir !
+explanation:
+  fr: |-
+    Eh oui ! La structure avant de exprime une priorité.
+    Une action est accomplie avant une autre.
+    Cette structure est suivie de l’infinitif.
+    Par exemple : Je me douche toujours avant de dormir.
+  en: |-
+    The structure “avant de” underlies a priority. You do something before doing something else.
+    This structure is always followed by an infinitive verb.
+words:
+- fr: Appelle-moi avant d’arriver.
+  en: Call me before you arrive.
+- fr: Je dois vérifier avant de confirmer.
+  en: I must check before I can confirm.
+- fr: D’abord, je dois manger.
+  en: First, I’ve got to eat.
+- fr: C’est une question à traiter en priorité.
+  en: It is a priority issue.
+end_question: Et vous, quelle est votre priorité du jour ?

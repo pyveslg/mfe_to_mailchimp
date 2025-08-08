@@ -1,0 +1,28 @@
+---
+title: c’est un accident
+preview_text: "Today, learn how to remain innocent \U0001F607"
+color: "#f7e8f6"
+goal: rester innocent
+challenge:
+  state: 'Vous vous excusez et vous justifiez. Vous dites :'
+  options:
+  - option: Désolé, je ne l’ai pas fait exprès.
+    correct: true
+  - option: Désolé, je ne l’ai pas fait pour.
+explanation:
+  fr: Eh oui ! ne pas faire exprès signifie qu’une action n’est pas intentionnelle
+    ou délibérée. On utilise souvent cette expression pour justifier une erreur ou
+    une maladresse.
+  en: |-
+    “ne pas faire exprès” is a handy way
+    to say that you did not made or caused something on purpose (usually something wrong or awkward...).
+words:
+- fr: C’est un accident.
+  en: It was an accident.
+- fr: Tu l’as fait exprès ?
+  en: Did you do it on purpose?
+- fr: Il l’a fait intentionnellement.
+  en: He did it on purpose.
+- fr: Désolé, ce n’était pas volontaire !
+  en: Sorry, it was not intentional!
+end_question: Et vous, quelle est votre dernière maladresse ?

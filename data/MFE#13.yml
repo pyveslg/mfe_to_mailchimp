@@ -1,0 +1,30 @@
+---
+title: ça va aller... 
+preview_text: ''
+color: "#35d6ff"
+goal: "rassurer quelqu'un \nune bonne fois pour toute*"
+challenge:
+  state: 'Pour le rassurer, vous dites :'
+  options:
+  - option: Ne te préoccupe pas !
+  - option: Ne t’inquiète pas !
+    correct: true
+explanation:
+  fr: Eh oui ! Ne t'inquiète pas est une expression courante pour rassurer ou calmer
+    une personne qui manifeste de la crainte ou de l'appréhension.
+  en: |-
+    "ne t'inquiète pas" is a common idiom to calm down
+    or to reassure someone who obviously is feeling a bit anxious.
+    Bobby McFerrin may know it already...
+words:
+- fr: Ça va aller…
+  en: It's gonna be ok...
+- fr: Calme-toi, tout va bien !
+  en: Calm down, everything's fine!
+- fr: Tu t’inquiètes pour rien !
+  en: You worry for anything!
+- fr: Ne t’en fais pas, on va trouver une solution.
+  en: Don't worry, we'll find a solution.
+end_question: |-
+  Ohlala, j'ai mangé deux croissants
+  au petit-déjeuner !

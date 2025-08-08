@@ -1,0 +1,32 @@
+---
+title: c'est parti !
+preview_text: ''
+color: "#7b6d18"
+goal: |-
+  vous déplacer
+  une bonne fois pour toute*
+challenge:
+  state: 'Pour parler de votre moyen de transport préféré, vous dites :'
+  options:
+  - option: Je me déplace toujours en vélo.
+  - option: Je me déplace toujours à vélo.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Si vous êtes sur un véhicule, vous utilisez la préposition à.
+    Mais si vous êtes dans le véhicule, vous utilisez la préposition en !
+  en: |-
+    If you are on a vehicle, you must use “à”.
+    But if you are in the vehicle, “en” is the right preposition to use.
+words:
+- fr: C'est parti !
+  en: Let's go!
+- fr: Je rentre à pied.
+  en: I walk home.
+- fr: En voiture !
+  en: Get in the car!
+- fr: Je connais un raccourci.
+  en: I know a shortcut.
+- fr: Ça vaut le détour.
+  en: It's worth the trip.
+end_question: Et vous, comment aimez-vous vous déplacer?

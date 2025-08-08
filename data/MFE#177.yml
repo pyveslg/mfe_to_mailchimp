@@ -1,0 +1,29 @@
+---
+title: "croisons les doigts\U0001F91E"
+preview_text: Today, learn how to worry
+color: "#f2eba7"
+goal: être inquiet
+challenge:
+  state: 'Bon, c’est le printemps mais on a encore un temps d’hiver... Vous dites
+    :'
+  options:
+  - option: Pourvu qu’il fasse beau ce week-end !
+    correct: true
+  - option: Espérons qu’il fasse beau ce week-end !
+explanation:
+  fr: Eh oui ! La locution “pourvu que” introduit un espoir ou un souhait mêlé à de
+    l’inquiétude. Elle peut donc être paraphrasée par l’impératif “espérons que…”.
+    Attention, ces débuts de phrases sont suivis du subjonctif !
+  en: "”pourvu que...” is a much used locution when you hope for something with a
+    mixed feeling of wish and worry. “espérons que” is another way to say it. Watch
+    out as these phrases claim the subjonctive tense."
+words:
+- fr: Je l'espère !
+  en: I hope so!
+- fr: J'espère tellement qu'il viendra !
+  en: I really hope that he will come!
+- fr: Croisons les doigts pour qu'elle soit là.
+  en: Let's keep our fingers crossed that she can be here.
+- fr: Pourvu que ça dure !
+  en: Long may it last!
+end_question: Et vous, pour quoi croisez-vous les doigts ?

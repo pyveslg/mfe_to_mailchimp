@@ -1,0 +1,27 @@
+---
+title: ça se passe bien
+preview_text: Today, learn how to adapt
+color: "#f2f4b2"
+goal: bien vous adapter
+challenge:
+  state: 'Vous lui demandez si tout se passe bien. Vous dites :'
+  options:
+  - option: Tu t’en sors ?
+  - option: Tu t’en pars ?
+explanation:
+  fr: Eh oui ! s’en sortir est une expression idiomatique qui signifie bien s’adapter,
+    trouver des solutions dans une situation nouvelle.
+  en: "”s'en sortir” is a common way to mean that one deals successfully with a specific
+    situation or action."
+words:
+- fr: Ça se passe bien.
+  en: Everything goes well.
+- fr: J’y arrive !
+  en: I can do it!
+- fr: On s’en sort bien !
+  en: We're managing to do it!
+- fr: Il ne va jamais s’en sortir seul…
+  en: He won't be able to deal with it on his own.
+end_question: |-
+  Et vous,
+  comment vous vous en sortez en français ?

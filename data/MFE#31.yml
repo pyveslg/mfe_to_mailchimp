@@ -1,0 +1,27 @@
+---
+title: le temps est au beau fixe
+preview_text: ''
+color: "#22c4e8"
+goal: commenter la météo
+challenge:
+  state: 'Le soleil brille et vous êtes heureux, vous dites :'
+  options:
+  - option: Il fait beau aujourd’hui !
+  - option: Le temps est beau aujourd’hui !
+explanation:
+  fr: |-
+    Eh oui ! pour commenter le temps, on utilise "il fait".
+    On dira donc : "il fait beau" ou "il fait mauvais".
+    Mais aussi : "il fait chaud" ou "il fait froid".
+  en: To comment the weather or the temperature, we only use the French idiom “il
+    fait” (eq. to “it's”)
+words:
+- fr: Quel temps fait-il ?
+  en: What's the weather like?
+- fr: Il fait un froid de canard.
+  en: It's freezing cold.
+- fr: Il fait une de ces chaleurs !
+  en: It's boiling hot!
+- fr: Depuis lundi, le temps est au beau fixe.
+  en: The weather has been fine since Monday.
+end_question: Alors, quel temps fait-il chez vous ?

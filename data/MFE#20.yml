@@ -1,0 +1,33 @@
+---
+title: faites comme chez vous
+preview_text: ''
+color: "#ffa82e"
+goal: |-
+  parler local
+  une bonne fois pour toute*
+challenge:
+  state: 'Vous devez aller voir un médecin, vous dites :'
+  options:
+  - option: Je vais au médecin.
+  - option: Je vais chez le médecin.
+    correct: true
+explanation:
+  fr: "Eh oui ! Si vous parlez de la personne (le médecin), la préposition adéquate
+    est chez.\nMais si vous parlez du magasin ou du local, vous utilisez la préposition
+    à. \nObservez la différence entre \"je vais à l'épicerie\" et \"je vais chez l'épicier\"."
+  en: |-
+    If you speak about the owner of the store where you go, the right preposition is “chez".
+    But if you mean only the store where you go, you must use the "à" preposition.
+    In a nutshell : you go “chez” + person or “à” + store.
+words:
+- fr: Chez moi, c’est une habitude.
+  en: It's my habit.
+- fr: Faites comme chez vous !
+  en: Do as you wish!
+- fr: C’est un plat bien de chez nous.
+  en: It's a traditional local dish.
+- fr: Bienvenu dans mon chez-moi !
+  en: Welcome home!
+end_question: |-
+  Et vous, où êtes-vous
+  en ce moment ?

@@ -1,0 +1,31 @@
+---
+title: j’étudie le français.
+preview_text: Today, learn how to introduce yourself
+color: "#f2f4fb"
+goal: vous présenter
+challenge:
+  state: 'Vous rencontrez l’ami d’un ami. Vous vous présentez. Vous dites :'
+  options:
+  - option: J’habite à Paris.
+    correct: true
+  - option: J’habité à Paris.
+explanation:
+  fr: |-
+    Eh oui ! habiter est un verbe régulier. Comme tous les verbes réguliers qui finissent par -ER à l’infinitif, la terminaison au présent est :
+    -e / -es / -e / -ons / -ez / -ent.
+    Attention, le -e final est muet.
+  en: "“habiter” is a regular verb. This verb, like all the regular verbs ending in
+    ”er”, conjugates with the following terminations at the present tense : -e / -es
+    / -e / -ons / -ez / -ent. Be careful not to pronounce the final “-e”!"
+words:
+- fr: Je parle un peu français.
+  en: I can speak some French.
+- fr: Je travaille à la Défense.
+  en: I work in la Défense.
+- fr: J’étudie le français.
+  en: I study French.
+- fr: J’habite dans le 6ème arrondissement.
+  en: I live in the 6th arrondissement.
+end_question: |-
+  Et vous,
+  où habitez-vous à Paris ?

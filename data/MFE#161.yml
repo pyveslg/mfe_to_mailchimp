@@ -1,0 +1,29 @@
+---
+title: donc j'apprends le français
+preview_text: Today, learn how to adapt
+color: "#d2ea9b"
+goal: vous adapter
+challenge:
+  state: 'Des grèves importantes sont annoncées. Vous dites :'
+  options:
+  - option: Par conséquence, je préfère prendre l’Eurostar.
+    correct: true
+  - option: Par conséquent, je préfère prendre l’Eurostar.
+explanation:
+  fr: |-
+    Eh oui ! Attention à ne pas confondre ces deux locutions : par conséquent  et en conséquence. Par conséquent introduit une conséquence logique : “Je veux apprendre le français, par conséquent je lis Mon French Expresso tous les matins.”
+     En conséquence est un adverbe de manière signifiant “comme il est nécessaire” :
+    “Je veux apprendre le français et j’étudie en conséquence pour réussir.”
+  en: |-
+    “en conséquence” and ”par conséquent” looks very similar but unfortunately do not mean the same at all! “par conséquent” (therefore/hence) introduces a logical consequence of an action whereas ”en conséquence” relates to a way of doing something as it should be done (accordingly).
+    Watchout not to mix both expressions!
+words:
+- fr: J’habite à Paris donc j’apprends le français !
+  en: I live in Paris. Therefore, I learn French!
+- fr: Je révise, ainsi j’ai plus de chance de réussir le DELF.
+  en: I'm revising so that I have more chance of passing the DELF exam.
+- fr: Ce quartier est magnifique, c’est pour ça que nous l’avons choisi.
+  en: This district is wonderful. That's why we've chosen to live in here.
+- fr: Nous avions traversé la ville mais nous étions trop heureux pour être fatigués.
+  en: We had been crossing the whole city but we were way too happy to feel tired.
+end_question: Vous en voulez plus ? OK Par conséquent, on vous dit à demain !

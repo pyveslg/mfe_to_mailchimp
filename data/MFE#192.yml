@@ -1,0 +1,29 @@
+---
+title: je reçois de la famille
+preview_text: Today, learn how to receive family visits
+color: "#fef68e"
+goal: recevoir de la famille
+challenge:
+  state: 'Votre famille vient passer une semaine à Paris. Vous en parler à votre collègue.
+    Vous dites :'
+  options:
+  - option: Ma famille vient nous voir cette semaine.
+    correct: true
+  - option: Ma famille nous visite cette semaine.
+explanation:
+  fr: |-
+    Eh oui ! venir voir quelqu’un est la locution couramment utilisée pour dire que nous recevons une visite. Par exemple : Ma mère est venue me voir à Paris.
+    Attention, en français, le verbe visiter est uniquement utilisé pour parler d’un lieu, mais pas d’une personne… Par exemple : Ma mère veut visiter le musée du Louvre.
+  en: "“venir voir quelqu'un” is the usual way to say when you visit someone or are
+    visited by someone. Unlike in English, “visiter” can't be use in these cases but
+    should be used only when you visit a place."
+words:
+- fr: Mes amis viennent souvent me voir.
+  en: My friends often visit me.
+- fr: Je reçois de la famille.
+  en: I receive a family visit.
+- fr: Nous allons voir mes parents en mai.
+  en: We will visit my parents on May.
+- fr: Des amis nous ont rendu visite.
+  en: We had a visit from friends.
+end_question: Et vous, vous recevez de la visite pour les vacances ?

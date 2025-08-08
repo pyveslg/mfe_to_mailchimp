@@ -1,0 +1,30 @@
+---
+title: et pendant ce temps-là, je t’attendais
+preview_text: ''
+color: "#e8c639"
+goal: parler une bonne fois pour toute* d'un moment particulier
+challenge:
+  state: 'Pour parler de la durée de votre voyage, vous dites :'
+  options:
+  - option: On a voyagé pour 2 semaines.
+  - option: On a voyagé pendant 2 semaines.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! Pendant introduit une durée certaine ou effective
+    alors que pour indique une durée prévisionnelle.
+    Puisque le voyage est terminé, on sait combien de temps le voyage a duré.
+    Pendant est donc la seule possibilité !
+  en: "\"Pendant\" underlies a certain or actual duration whereas \"pour\" relates
+    to an expected duration.\nAs the travel is over, we definitely know how many times
+    it lasted.  \n\"Pendant\" is therefore the only possible choice"
+words:
+- fr: J’ai visité Toulouse pendant mes vacances.
+  en: I visited Toulouse on my holidays.
+- fr: Je me repose pendant que Louis étudie.
+  en: I'm relaxing while Louis is studying.
+- fr: Et pendant ce temps-là, je t’attendais.
+  en: Meanwhile, I was waiting for you.
+- fr: Pendant que j’y suis, je peux te demander un service ?
+  en: While I am on it, may I ask you a favor?
+end_question: Et vous, pour vos dernières vacances, êtes-vous parti longtemps ?

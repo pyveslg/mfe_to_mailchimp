@@ -1,0 +1,29 @@
+---
+title: L’enfant apprend par mimétisme
+preview_text: ''
+color: "#b8575f"
+goal: parler une bonne fois pour toute* au masculin
+challenge:
+  state: 'Pour parler de votre passion pour un célèbre courant artistique, vous dites
+    :'
+  options:
+  - option: J’adore le cubisme.
+    correct: true
+  - option: J’adore la cubisme.
+explanation:
+  fr: |-
+    Eh oui ! Tous les mots qui se terminent par -isme sont masculins.
+    Simple comme bonjour, non ?
+  en: |-
+    Every single French word finishing with "-isme" is masculine
+    Easy as pie, right ?!
+words:
+- fr: L’enfant apprend par mimétisme.
+  en: Children learn by mimicry.
+- fr: Martin est d’un égoïsme fou !
+  en: Martin is so damn selfish!
+- fr: Il fait preuve de réalisme.
+  en: He shows realism.
+- fr: Ça apporte toujours une touche de romantisme !
+  en: It always adds a touch of romanticism!
+end_question: Et vous, quel est votre courant artistique préféré ?

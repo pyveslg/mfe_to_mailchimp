@@ -1,0 +1,31 @@
+---
+title: "le printemps est là \U0001F490"
+preview_text: Today, learn how to welcome a new season
+color: "#f5ac78"
+goal: changer de saison
+challenge:
+  state: 'Vous observez la nature changer autour de vous. Vous dites :'
+  options:
+  - option: Au printemps, les arbres fleurissent…
+    correct: true
+  - option: En printemps, les arbres fleurissent…
+explanation:
+  fr: |-
+    Eh oui ! Devant les saisons, la préposition généralement appropriée est en.
+    Sauf avec le printemps ! Comme le mot commence par une consonne, on utilise la préposition au. Observez : “en été, en automne, en hiver et au printemps”.
+  en: "Before a season, the correct preposition to use is “en” except for the Spring
+    which has to be preceded by “au”. Why so you may want to ask? Because “printemps”
+    starts with a consonant ! Hum... but  “hiver” starts with a consonant as well...
+    Well noticed! But the latter is mute, so it's the ”i” sound which matters here...\nFortunately
+    there are only 4 seasons... \U0001F605"
+words:
+- fr: Le printemps est là !
+  en: Spring has come!
+- fr: C’est le moment de manger des concombres et autres légumes de printemps.
+  en: It's time to eat cucumbers and other seasonal vegetables.
+- fr: En avril, ne te découvre pas d’un fil !
+  en: till April's dead, change not a thread! | Never cast a clout till May is out
+- fr: En mai, fait ce qu’il te plaît !
+  en: "“In May, do whatever you like” (If you have a better one, please,  feel free
+    to share ! \U0001F609)"
+end_question: Et vous, que voulez-vous faire en ce début de printemps ?

@@ -1,0 +1,29 @@
+---
+title: j’ai bien profité de mes vacances
+preview_text: Today, learn how to go back to work
+color: "#dbeaf7"
+goal: revenir au bureau
+challenge:
+  state: 'Votre collègue revient au bureau après une semaine de vacances. Vous demandez
+    :'
+  options:
+  - option: Tu as passé de bonnes vacances ?
+    correct: true
+  - option: Tu as eu de bonnes vacances ?
+explanation:
+  fr: |-
+    Eh oui ! passer est le verbe approprié pour parler d’un moment vécu.
+    Par exemple : je passe un bon moment.
+  en: "“passer” is the right verb to use when you say that you're having a good time."
+words:
+- fr: Passe une bonne journée !
+  en: Have a good day!
+- fr: J’ai passé un bon week-end !
+  en: I had a great week-end!
+- fr: Merci pour cette soirée, on a passé un merveilleux moment !
+  en: Thanks for tonight, we had a lovely time!
+- fr: J’ai bien profité de mes vacances.
+  en: I enjoyed my holidays a lot.
+end_question: |-
+  Et vous
+  vous avez passé une bonne fin de semaine ?

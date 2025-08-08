@@ -1,0 +1,28 @@
+---
+title: volontiers
+preview_text: Today, learn how to accept politely
+color: "#ffcd19"
+goal: accepter poliment
+challenge:
+  state: 'Votre hôte vous propose un café. Vous répondez :'
+  options:
+  - option: Oui, je voudrais.
+  - option: Oui, je veux bien.
+    correct: true
+explanation:
+  fr: Eh oui ! La phrase “je veux bien” permet d’accepter poliment une offre ou une
+    invitation. Dans cette phrase, l’adverbe bien permet de renforcer l’affirmation.
+  en: |-
+    “je veux bien” is a useful sentence to say when accepting something you are offered to.
+    The adverb ”bien” stresses even more the affirmation.
+words:
+- fr: Oui, avec plaisir !
+  en: Yes, with pleasure !
+- fr: Non merci.
+  en: No thanks.
+- fr: Je veux bien, merci !
+  en: Yes, please!
+- fr: Oui, volontiers !
+  en: Yes, please!
+end_question: La Chandeleur, c'était vendredi Vous prendrez bien encore une crêpe
+  ?

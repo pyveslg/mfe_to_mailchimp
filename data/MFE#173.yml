@@ -1,0 +1,29 @@
+---
+title: besoin d'aide
+preview_text: Today, learn how to be helpful
+color: "#fce4b0"
+goal: rendre des services
+challenge:
+  state: 'Votre enfant a des difficultés avec un devoir de français. Votre conjoint(e)
+    vous demande de faire l’exercice avec lui. Vous dites :'
+  options:
+  - option: Oui, je lui aiderai dans 10 minutes.
+  - option: Oui, je l’aiderai dans 10 minutes.
+explanation:
+  fr: |-
+    Eh oui ! “Je l’aiderai” signifie “J’aiderai mon enfant”. Il n’y a pas de préposition après le verbe aider, les pronoms possibles sont donc le / l’ / la / les.
+    Observez : j’aide quelqu’un > je l’aide. / J’aide ces gens > je les aide…
+    C'est différent de : je demande à quelqu’un > je lui demande.
+  en: 'With verbs like “aider” (to help), which take no preposition behind, the only
+    possible pronouns are : “le / l'' / la / les”. For verbs which claim a preposition
+    behind (like “demander à quelqu''un”), the pronoun would be “lui”.'
+words:
+- fr: Besoin d’aide ?
+  en: You need some help? (informal)
+- fr: Je vais lui expliquer.
+  en: I will explain to him.
+- fr: Que puis-je faire pour toi ?
+  en: What can I do for you?
+- fr: En quoi puis-je vous aidez ?
+  en: How can I help you?
+end_question: Et vous, aidez-vous parfois vos amis à comprendre le français ?

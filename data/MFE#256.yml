@@ -1,0 +1,28 @@
+---
+title: je vais prendre un café
+preview_text: Today, learn how to do two things at once
+color: "#ddf516"
+goal: faire deux actions
+challenge:
+  state: 'Vous répondez :'
+  options:
+  - option: J’aime fais du vélo.
+    correct: true
+  - option: J’aime faire du vélo.
+explanation:
+  fr: |-
+    Eh oui ! Quand il y a deux verbes consécutifs, le deuxième est à l’infinitif :
+    [Sujet + Verbe 1 conjugué + Verbe 2 infinitif].
+  en: |-
+    When two verbs follow one another, the second verb is in its infinitive form.
+    The first verb keep conjugating according to the subject of the sentence.
+words:
+- fr: Je vais prendre un café.
+  en: I'll have a coffee.
+- fr: Je peux le faire !
+  en: I can do it!
+- fr: Je voudrais aller en Suisse un jour.
+  en: I would like to travel to Switzerland sometime.
+- fr: Puis-je avoir un verre d’eau ?
+  en: May I have a glass of water?
+end_question: Et vous, que voulez-vous faire cet après-midi ?

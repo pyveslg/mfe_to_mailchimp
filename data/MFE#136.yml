@@ -1,0 +1,30 @@
+---
+title: il reste du chocolat
+preview_text: "Today, learn how to be gourmand \U0001F36B"
+color: "#fda831"
+goal: être gourmand(e)
+challenge:
+  state: 'Un peu de sucre serait bienvenu ! Vous dites :'
+  options:
+  - option: J’ai envie de chocolat.
+    correct: true
+  - option: J’ai envie chocolat.
+explanation:
+  fr: |-
+    Eh oui ! Comme avoir besoin de / avoir peur de / avoir raison de...
+    Les locutions avec avoir se construisent régulièrement de la façon suivante :
+    avoir + nom + de.
+  en: |-
+    “avoir envie de” works the same as phrases such as :
+    “avoir besoin de” (to need), “avoir peur de” (to be afraid of) or “avoir raison de” (to be right).
+    Such phrases built with ”avoir” usually follow this pattern : avoir + noun + de.
+words:
+- fr: Il reste du chocolat ?
+  en: Is there any chocolate left?
+- fr: J’ai une petite envie de chocolat.
+  en: I have a craving for chocolate.
+- fr: Je mangerais bien un carré de chocolat !
+  en: I would fancy eating a piece of chocolate!
+- fr: Un peu de chocolat ferait du bien…
+  en: Some chocolate would be welcome.
+end_question: Allez, vous auriez raison de vous faire plaisir !

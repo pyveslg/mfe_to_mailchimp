@@ -1,0 +1,34 @@
+---
+title: il n'y a personne à la maison
+preview_text: Today, learn how to tell how lonely you feel
+color: "#ecebff"
+goal: dire votre solitude
+challenge:
+  state: 'À part votre hôte, vous ne connaissez pas les autres personnes. Vous dites
+    :'
+  options:
+  - option: Je ne connais pas personne.
+  - option: Je ne connais personne.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui! Dans une phrase négative, il y a toujours 2 éléments :
+    ne + adverbe de négation (exemple : pas / plus / rien / jamais / personne…).
+    Comme “personne” implique déjà la négation,
+    il n’est pas nécessaire de cumuler pas + personne.
+  en: |-
+    Be “thrifty” with the French negative adverbs!
+    If you already use a negative adverb (like “pas”, “personne”, “plus”, “jamais”),
+    there no need to add another one to it!
+words:
+- fr: Il n’y a personne à la maison.
+  en: Nobody is home.
+- fr: Il ne reste plus personne.
+  en: There is no one left.
+- fr: Rien ni personne ne pourra m’aider.
+  en: Nothing and no one can help me out
+- fr: Mieux vaut être seul que mal accompagné.
+  en: Better to be alone than in bad company.
+end_question: |-
+  Et vous,
+  connaissez-vous quelqu'un qui parle 8 langues ?

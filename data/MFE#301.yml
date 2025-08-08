@@ -1,0 +1,27 @@
+---
+title: je commence à lire en français
+preview_text: Today, learn how to speak about a beginning
+color: "#fcf9ec"
+goal: parler d’un début
+challenge:
+  state: 'Vous regardez par la fenêtre. Il pleut depuis quelques minutes. Vous dites
+    :'
+  options:
+  - option: Il se met à pleuvoir
+    correct: true
+  - option: Il commence à pleuvoir.
+explanation:
+  fr: Eh oui ! se mettre à est une locution courante, synonyme de commencer à.
+  en: |-
+    When you start to do/doing something, you can equally use either ”se mettre à” or ”commencer à”.
+    Both are very much used!
+words:
+- fr: Je commence à lire en français.
+  en: I start reading in French
+- fr: Je me mets au boulot !
+  en: I start working!
+- fr: Allez, on s’y met !
+  en: Come on, let's start!
+- fr: Je me suis mise au vélo !
+  en: I have started to ride bicycle!
+end_question: Et vous, quand avez-vous commencé à parler français ?

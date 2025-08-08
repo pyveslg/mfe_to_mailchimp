@@ -1,0 +1,30 @@
+---
+title: Ça ira, ne t’en fais pas.
+preview_text: Today, learn how to erase the problems.
+color: "#daeaf6"
+goal: effacer les problèmes
+challenge:
+  state: 'Votre copain a oublié de vous rendre un livre. Pour le rassurer, vous dites
+    :'
+  options:
+  - option: Pas de problème !
+    correct: true
+  - option: Pas problème !
+explanation:
+  fr: Eh oui ! pas de problème est une expression très utilisée pour minimiser un
+    problème ou répondre à un oubli ou une erreur sans importance.
+  en: |-
+    You did not understand? Pas de problème ! :)
+    You'll hear a lot this common French idiom which is used to minimize a problem or as a polite answer when someone forgot to give you back something or made a mistake of no real importance to you.
+words:
+- fr: Aucun souci !
+  en: No worries!
+- fr: Ce n'est pas grave.
+  en: It's all right.
+- fr: Ça ira, ne t'en fais pas.
+  en: It's gonna be fine, don't worry.
+- fr: Ça ne pose pas de problème !
+  en: That's no big deal !
+end_question: |-
+  Olala!
+  24 heures avant le prochain French Expresso!

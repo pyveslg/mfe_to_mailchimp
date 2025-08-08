@@ -1,0 +1,27 @@
+---
+title: c'est trop pour moi
+preview_text: Today, learn how to say stop
+color: "#ace288"
+goal: dire stop
+challenge:
+  state: 'Ce matin, un collègue vous propose un chocolat. Vous dites :'
+  options:
+  - option: Désolé, je n’en fais plus !
+  - option: Désolé, je n’en peux plus !
+    correct: true
+explanation:
+  fr: Eh oui ! n’en plus pouvoir est une expression couramment utilisée quand on a
+    un sentiment de trop plein par rapport à quelque chose ou à quelqu’un.
+  en: |-
+    “n'en plus pouvoir” is a common expression to say when you can't take it anymore
+    (when you get the feeling that it's too much for you)!
+words:
+- fr: Stop, ça suffit !
+  en: Stop! enough!
+- fr: C’est trop pour moi !
+  en: That's too much for me!
+- fr: J’en ai marre !
+  en: I'm fed up with it!
+- fr: Je n’en supporterai pas davantage.
+  en: I can't stand it anymore.
+end_question: Et vous, vous prendrez bien un petit chocolat ?

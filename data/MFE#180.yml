@@ -1,0 +1,28 @@
+---
+title: j’y suis du matin au soir
+preview_text: Today, learn how to only one thing
+color: "#f2e5e0"
+goal: faire une seule chose
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: Je ne fais que ça !
+    correct: true
+  - option: Je ne fais rien sauf ça !
+explanation:
+  fr: "Eh oui ! L’association ne + que \n(dans une phrase [sujet + ne + verbe + que
+    + complément]) exprime la restriction. Ainsi, la phrase “Je ne fais que ça !”
+    peut être paraphrasée par “je fais seulement ça”."
+  en: |-
+    “ne... que” is equivalent to “seulement” which means “only”.
+    It's used as following: subject + ne + conjugated verb + que + complement.
+words:
+- fr: On ne parle que l’anglais au travail.
+  en: We only speak in English at work.
+- fr: Il reste seulement à informer le client.
+  en: All we need to do is to inform the client.
+- fr: Je ne fais rien d’autre !
+  en: I don't do anything else!
+- fr: J’y suis du matin au soir !
+  en: I am there from dawn to dusk!
+end_question: Allez, il ne reste plus qu'à pratiquer !

@@ -1,0 +1,28 @@
+---
+title: quel froid
+preview_text: Today, learn how to be cold ☃️
+color: "#9ff2f2"
+goal: avoir froid
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: "Il fait un froid de canard ! \U0001F986"
+  - option: "Il fait un froid de poule ! \U0001F414"
+explanation:
+  fr: Eh oui ! il fait un froid de canard  est une expression courante qui signifie
+    qu’il fait très froid ! Mais quand il fait très froid, on peut avoir la chair
+    de poule...
+  en: "When it's freezing cold, we blame ducks for it in France.  \nDucks are usually
+    hunted in the beginning of the winter season. Hunters can wait for long before
+    shooting at them and they might catch a cold and get goosebumps (=“chair de poule”)...\nPoor
+    hunters or poor ducks and gooses, that's up to you ! \U0001F609"
+words:
+- fr: Quel froid !
+  en: It's freezing cold!
+- fr: Je meurs de froid !
+  en: I'm dying of cold!
+- fr: J’ai la chair de poule.
+  en: I've got goosebumps.
+- fr: Ça caille aujourd’hui !
+  en: It's freezing today!
+end_question: Et vous, il ne fait pas trop froid chez vous ?

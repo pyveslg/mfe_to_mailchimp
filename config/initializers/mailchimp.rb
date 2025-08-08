@@ -1,0 +1,3 @@
+Gibbon::Request.api_key = ENV.fetch("MC_API_KEY")
+Gibbon::Request.timeout = 15
+Gibbon::Request.symbolize_keys = true

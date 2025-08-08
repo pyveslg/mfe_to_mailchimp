@@ -1,0 +1,32 @@
+---
+title: voilà pourquoi c’est important
+preview_text: Today, learn how to justify yourself
+color: "#ffcdcd"
+goal: vous justifier
+challenge:
+  state: 'Vous dites :'
+  options:
+  - option: C’est la raison pour laquelle j’évite le vélib.
+    correct: true
+  - option: C’est la raison pourquoi j’évite le vélib.
+explanation:
+  fr: |-
+    Eh oui ! laquelle connecte deux phrases
+    et s’utilise après une préposition (pour, sur, sous, avec, sans, dans…).
+    Attention, la forme change selon le contexte :
+    le pont sur lequel | les outils avec lesquels
+     la raison pour laquelle | les tables sur lesquelles
+  en: |-
+    “laquelle” (or “lequel, lesquels, lesquelles” according to the context)
+    connects two sentences and is used after a preposition.
+words:
+- fr: Voilà pourquoi c’est important.
+  en: That's why it's important.
+- fr: C’est pour ça que je suis là !
+  en: That's why I'm here!
+- fr: C’est bien pour ça que je fais appel à vous.
+  en: That's the reason why I am calling on you.
+- fr: J’attends ce document, sans lequel je ne peux rien faire.
+  en: I am waiting for this document without which I can't do anything.
+end_question: Et vous, que faites-vous à Paris ? Pourquoi apprenez-vous le français
+  ?

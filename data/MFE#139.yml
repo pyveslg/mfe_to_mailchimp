@@ -1,0 +1,27 @@
+---
+title: c'est le Jour J
+preview_text: Today, learn how to date...
+color: "#ffbbbb"
+goal: donner la date
+challenge:
+  state: 'Votre voisin vous demande la date du jour. Vous dites :'
+  options:
+  - option: C’est le 30 janvier.
+  - option: On est le 30 janvier.
+    correct: true
+explanation:
+  fr: |-
+    Eh oui ! En français, la date est introduite par “on est le …”
+    ou “nous sommes le …” dans un contexte formel.
+  en: In French, we use ”on est le...” or “nous sommes le...”  in a more formal context
+    to give the date of the day.
+words:
+- fr: C’est le jour J !
+  en: It's D-Day!
+- fr: Aujourd’hui, nous sommes le 30 janvier.
+  en: Today is the 30th of January.
+- fr: Le contrat est daté du 5 décembre.
+  en: The contract dates from the 5th of Decembre.
+- fr: Je vous contacte suite à votre mail du 28 janvier.
+  en: I am contacting you following the email dated 28 January.
+end_question: Alors, quel jour on est aujourd'hui ?

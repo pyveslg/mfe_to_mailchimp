@@ -1,0 +1,26 @@
+---
+title: il fait 40º
+preview_text: "Today, learn how to be hot\U0001F321️"
+color: "#f0d8ef"
+goal: avoir très chaud
+challenge:
+  state: 'Il n’y a pas de nuage et le soleil est très intense. Vous dites :'
+  options:
+  - option: Il fait un soleil de plomb !
+    correct: true
+  - option: Il fait un soleil d’or !
+explanation:
+  fr: Eh oui ! un soleil de plomb est une expression pour décrire un soleil intense
+    et particulièrement chaud.
+  en: "”un soleil de plomb” is a common way to describe a blazing and baking sun.
+    ☀️\U0001F60E"
+words:
+- fr: Il fait 40º.
+  en: It's 40º warm.
+- fr: C’est la canicule.
+  en: The sun is at its hottest.
+- fr: Ça tape aujourd’hui !
+  en: The sun beats down today!
+- fr: Ça risque de tourner à l’orage.
+  en: A storm is brewing.
+end_question: Alors, ça tape aujourd’hui de votre côté ?

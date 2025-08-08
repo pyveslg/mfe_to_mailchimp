@@ -1,0 +1,27 @@
+---
+title: j'arrive
+preview_text: Today, learn how to be on the scene
+color: "#f9989f"
+goal: arriver
+challenge:
+  state: 'Vous êtes dans le métro et avez un peu de retard. Vous dites :'
+  options:
+  - option: Je suis en route.
+    correct: true
+  - option: Je suis sur la route.
+explanation:
+  fr: Eh oui ! être en route est une expression courante pour dire que vous avancez
+    en direction de votre point de rendez-vous.
+  en: |-
+    “être en route” is a common idiom to mean that
+    you are heading to the place at where you are being awaited.
+words:
+- fr: J’arrive !
+  en: I am coming!
+- fr: Je suis là dans 2 minutes.
+  en: I am here in a couple of minutes.
+- fr: Je suis en chemin.
+  en: I am on my way.
+- fr: Je suis en route pour notre rendez-vous.
+  en: I am on my way to our meeting.
+end_question: Allô, où êtes-vous ?

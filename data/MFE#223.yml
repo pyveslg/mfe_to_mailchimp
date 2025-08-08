@@ -1,0 +1,26 @@
+---
+title: c’est un boulot alimentaire
+preview_text: Today, learn how to get richer
+color: "#99f2fc"
+goal: vous enrichir
+challenge:
+  state: 'Vous n’aimez pas votre travail actuel. Votre ami vous demande pourquoi vous
+    continuer. Vous dites :'
+  options:
+  - option: Pour gagner ma vie.
+    correct: true
+  - option: Pour toucher ma vie.
+explanation:
+  fr: Eh oui ! gagner sa vie est une expression courante pour parler de l’argent que
+    l’on touche pour assurer sa subsistance.
+  en: "“gagner sa vie” is a common French idiom that means “to earn one's living”."
+words:
+- fr: Je touche un salaire correct.
+  en: I earn a reasonable salary.
+- fr: Il faut bien gagner sa vie.
+  en: One must earn one's living.
+- fr: C’est un boulot alimentaire.
+  en: It's a day job.
+- fr: Je gagne tout juste de quoi vivre.
+  en: I earn just enough to survive
+end_question: Et vous, aimez-vous votre travail ?

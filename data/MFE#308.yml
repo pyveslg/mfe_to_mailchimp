@@ -1,0 +1,26 @@
+---
+title: ça marche super bien
+preview_text: Today, learn how to become aware of insider best addresses
+color: "#ffb6b9"
+goal: connaître les bonnes adresses
+challenge:
+  state: 'Vous précisez qu’il est très populaire. Vous dites :'
+  options:
+  - option: Ça cartonne en ce moment !
+    correct: true
+  - option: Ça emballe en ce moment !
+explanation:
+  fr: Eh oui ! cartonner est une expression informelle pour indiquer qu’une chose
+    est très populaire ou une réussite.
+  en: "“cartonner” is an informal verb that you can use to stress that something is
+    very popular or successful."
+words:
+- fr: Ça marche super bien !
+  en: It's going very well!
+- fr: Ce bar cartonne en ce moment !
+  en: This bar is a massive hit!
+- fr: Il assure !
+  en: He's the man!
+- fr: Ça marche du tonnerre !
+  en: It works perfectly well!
+end_question: Alors, la playlist, elle vous plaît ?

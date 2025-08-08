@@ -1,0 +1,33 @@
+---
+title: Ton colis vient tout juste d'arriver
+preview_text: Today, learn to speak about what's just happened...
+color: "#ffa8b8"
+goal: à parler de l’instant… passé
+challenge:
+  state: 'Vous êtes arrivé à un rendez-vous juste avant votre ami. Vous dites :'
+  options:
+  - option: Je suis arrivé juste.
+  - option: Je viens d'arriver.
+    correct: true
+explanation:
+  fr: "Eh oui ! venir de + infinitif vous permet\nde parler de quelque chose qui s’est
+    passé récemment.\nOn appelle ça le passé récent. Au présent, la conjugaison de
+    venir est : \nje viens / tu viens / il vient / nous venons / vous venez / ils
+    viennent"
+  en: |-
+    To speak about something that just happened, you should use the “venir de” + infinitive verb structure.
+    If you know how to conjugate “venir” in the present time, you can talk then about the recent past! Congrats!
+words:
+- fr: Elle n’est pas là, elle vient de partir.
+  en: She's not here, she has just left.
+- fr: Tiens, ton colis vient tout juste d’arriver.
+  en: |-
+    Hey, your parcel has just
+    arrived.
+- fr: La secrétaire m’a appelé à l’instant.
+  en: The secretary just called me.
+- fr: Il a à peine terminé ses devoirs qu’il regarde déjà la télé.
+  en: He' s scarcely finished his homework and already is watching TV.
+end_question: |-
+  C’est bon!
+  Vous venez de lire votre French expresso !

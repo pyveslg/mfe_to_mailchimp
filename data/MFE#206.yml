@@ -1,0 +1,28 @@
+---
+title: je prépare des repas équilibrés
+preview_text: "Today, learn how to eat \U0001F37D️"
+color: "#f7efdb"
+goal: vous nourrir
+challenge:
+  state: 'Vous avez préparé une salade composée de graines, d’agrumes, d’avocat… Plein
+    de vitamines ! Vous dites :'
+  options:
+  - option: C’est bon pour la santé.
+    correct: true
+  - option: C’est bon pour le corps.
+explanation:
+  fr: Eh oui ! bon pour la santé est une expression couramment utilisée pour qualifier
+    un aliment ou une activité qui a un impact positif sur l’organisme.
+  en: "”bon pour la santé” is a very common idiom that qualifies healthy food and
+    activities."
+words:
+- fr: Il a une alimentation saine.
+  en: He has a healthy diet.
+- fr: Je prépare des repas équilibrés.
+  en: I cook balanced meals.
+- fr: J’essaye de manger sain.
+  en: I try to eat a balanced diet.
+- fr: Attention à ne pas abuser du sucre.
+  en: Watch out not to overindulge in sugar.
+end_question: "Le saviez-vous ?\nMon French Expresso est excellent pour la santé !
+  \U0001F609"

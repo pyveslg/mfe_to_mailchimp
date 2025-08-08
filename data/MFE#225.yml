@@ -1,0 +1,30 @@
+---
+title: vous êtes très clair
+preview_text: Today, learn how to know how to do
+color: "#f4f9f5"
+goal: savoir faire
+challenge:
+  state: 'Vous lui demandez plus d’informations. Vous dites :'
+  options:
+  - option: Vous faites ça souvent ?
+    correct: true
+  - option: Vous faisez ça souvent ?
+explanation:
+  fr: |-
+    Eh oui ! Le verbe faire est un verbe vraiment irrégulier ! Comme être et dire, la base change entre la 1ère et la 2ème personne du pluriel (nous et vous) :
+    Faire : nous faisons > vous faites
+    Dire : nous disons > vous dites
+    Être : nous sommes > vous êtes
+  en: |-
+    “faire” (= to do/to make) conjugates in such an unusual way!
+    As for “être” (= to be) and “dire” (= to say), the verb basis changes between the “nous” (= we) and the “vous” (= the plural you). Have look at the examples above!
+words:
+- fr: Mais vous en êtes sûr ?
+  en: But are you sure about it ?
+- fr: Comment faites-vous ?
+  en: How do you make it ?
+- fr: N’en dites pas plus !
+  en: Don't say any more!
+- fr: Ne vous en faites pas, c’est simple.
+  en: Don't worry, it's easy as pie.
+end_question: Et vous, comment faites-vous pour apprendre vos conjugaisons ?

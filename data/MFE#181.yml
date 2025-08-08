@@ -1,0 +1,29 @@
+---
+title: je me fais du souci pour lui
+preview_text: Today, learn how to be careful
+color: "#f9fec4"
+goal: faire attention
+challenge:
+  state: 'Votre enfant obtient des résultats irréguliers à l’école. Vous êtes un peu
+    inquiet. Vous dites :'
+  options:
+  - option: Je suis préoccupé par ses notes.
+    correct: true
+  - option: Je suis concerné par ses notes.
+explanation:
+  fr: |-
+    Eh oui ! L’adjectif concerné est un faux ami.
+    Pour exprimer l’inquiétude et l’appréhension, l’expression couramment utilisée est être préoccupé [par quelque chose]. Être concerné signifie être intéressé par ou avoir un rapport avec [quelque chose ou quelqu’un].
+  en: "“concerné” is not equivalent to the English “concerned”. When you are concerned,
+    “vous êtes préoccupé”. But when you are interested in something/someone or involved
+    in something, “vous êtes concerné”."
+words:
+- fr: Ne t’inquiète pas !
+  en: Don't worry!
+- fr: Je me préoccupe trop de l’opinion des autres.
+  en: I worry too much about people's mind.
+- fr: Je me fais du souci pour lui.
+  en: I worry for him.
+- fr: Ne te laisse pas miner par cette nouvelle.
+  en: Don't let this news make you feel down.
+end_question: Et vous, quelque chose vous préoccupe en ce moment ?
