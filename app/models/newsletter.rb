@@ -14,7 +14,7 @@ class Newsletter
   end
 
   def color
-    generate_pastel_color
+    data[:color] || generate_pastel_color
   end
 
   def goal
