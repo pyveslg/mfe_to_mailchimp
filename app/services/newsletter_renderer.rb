@@ -5,7 +5,7 @@ class NewsletterRenderer
 
   def render
     ApplicationController.render(
-      template: "newsletters/_plain_template",
+      template: "newsletters/_insta_template",
       locals: { newsletter: @newsletter },
       layout: "layouts/newsletter"
     )

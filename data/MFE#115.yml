@@ -1,29 +1,35 @@
 ---
-title: "je partage complètement ton avis \U0001F44D"
+title: |
+  OK pour moi ✅
 preview_text: Today, learn how to admit the truth
-color: "#e9d2b3"
+color: "#C5D3ED"
 goal: admettre la vérité
 challenge:
-  state: 'Votre ami vous dit que Paris est la plus belle ville du monde. Vous dites
-    :'
+  state: |
+    Vous programmez vos visites pour la journée du patrimoine. Votre ami commente que Paris est la plus belle ville du monde. Vous dites :
   options:
-  - option: Je d’accord avec toi !
+  - option: Je d'accord avec toi !
+  - option: Je suis d'accord avec toi !
     correct: true
-  - option: Je suis d’accord avec toi !
 explanation:
-  fr: "Eh oui! Paris est la plus belle ville du monde !\nOh pardon… \U0001F643  \n\nEh
-    oui! être d’accord signifie donner son consentement ou son approbation.\nD’accord
-    n’est pas un verbe : \nêtre est donc nécessaire pour construire cette courte phrase."
+  fr: |
+    Eh oui! **Paris est la plus belle ville du monde !** 😜
+    Plus sérieusement, **_être d'accord_** signifie **donner son consentement ou son approbation**. **_D'accord_ n'est pas un verbe** :
+    **_être_ est donc nécessaire** pour construire cette courte phrase.
   en: |-
-    Paris might be the most beautiful city in the world but that's not the topic right now... “être d'accord” means “to agree”. ”D'accord” is not a verb. So in a conjugated sentence, “être” is absolutely necessary!
-    “D'accord” can be used alone to just say “OK”.
+    Paris may well be the most beautiful city in the world, but that's another story…
+    “Être d'accord” means “to agree.” “D'accord” by itself isn't a verb — you need “être” to make a complete sentence. On its own, “D'accord” simply means “OK.”
 words:
-- fr: D’accord !
-  en: All right!
-- fr: On est d’accord sur tout.
+- fr: |
+    **D'accord** !
+  en: Alright!
+- fr: |
+    On **est d'accord sur** tout.
   en: We agree on everything.
-- fr: J’ai besoin de ton accord.
-  en: I need your consent.
-- fr: On attend d’avoir l’aval du responsable.
-  en: We're waiting for the manager to give his endorsement.
-end_question: Paris, la plus belle ville du monde ? Êtes-vous d’accord ?
+- fr: |
+    J'ai besoin de ton **accord**.
+  en: I need your approval.
+- fr: |
+    On attend d'**avoir l'aval d**u responsable.
+  en: We're waiting for the manager's approval.
+end_question: Paris, la plus belle ville du monde ? Êtes-vous d'accord ?
