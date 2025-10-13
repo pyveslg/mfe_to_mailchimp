@@ -38,14 +38,24 @@ class Newsletter
     end
   end
 
-  def correct_option_label(options)
-    correct = options.find { |opt| opt[:correct] }
-    correct ? correct[:label] : nil
+  def correct_options(options)
+    options.select { |opt| opt[:correct] == true }
   end
-
-  def correct_option
-    challenge_options.find { |opt| opt[:correct] == true }
+  
+  def correct_option_labels(options)
+    correct = correct_options(options)
+    return nil if correct.empty?
+  
+    labels = correct.map { |opt| opt[:label] }
+  
+    case labels.size
+    when 1
+      "#{labels.first} #{correct.first[:option]}"
+    when 2
+      "#{labels.join(' et ')} sont correctes !"
+    end
   end
+  
 
   def explanation_fr
     data.dig(:explanation, :fr)

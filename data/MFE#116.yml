@@ -1,30 +1,35 @@
 ---
-title: je suis rentré
+title: le secret des verbes qui se déplacent
 preview_text: Today, learn how to explain your movements
 color: "#87dfd6"
 goal: expliquer vos déplacements
 challenge:
-  state: 'Vous répondez :'
+  state: |
+    Vous êtes invité à une soirée.
+    Un autre invité vous demande ce qui vous a motivé à venir en France.
+    Vous répondez :
   options:
-  - option: Je suis venu pour l’amour.
+  - option: Je suis venu pour l'amour.
     correct: true
-  - option: J’ai venu pour l’amour.
+  - option: J'ai venu pour l'amour.
 explanation:
   fr: |-
-    Eh oui! venir est un verbe de direction (comme aller, partir, arriver …).
-    Au passé composé, ces verbes se construisent toujours avec être :
-    je suis venu / tu es venu / il est venu / elle est venue / nous sommes venus /
-    vous êtes venus / ils sont venus / elles sont venues.
+    Eh oui! **_venir_** est un **verbe de direction** (comme _aller_, _partir_, _arriver_…).
+    **Au passé composé, ces verbes se construisent toujours avec _être_** :
+    _je suis venu_ / _tu es venu_ / _il est venu_ / _elle est venue_ / _nous sommes venus_ /
+    _vous êtes venus_ / _ils sont venus_ / _elles sont venues_.
   en: |-
-    “venir” is a direction verb like “aller”, “partir”, “arriver”.
-    At the perfect tense, those verbs always conjugate with the “être” verb.
+    “Venir” is a movement verb, just like “aller”, “partir”, or “arriver”.
+    At the perfect tense, these verbs always team up with “être”, not “avoir”:
+    “je suis venu”, “tu es venu”, “elle est venue”... You get the idea.
+    Think of “être” as the travel buddy for all your moving-around verbs!
 words:
 - fr: Je suis rentré !
-  en: I'm home!
-- fr: Je suis arrivé à l’heure prévue.
+  en: I'm back home!
+- fr: Je suis arrivé à l'heure prévue.
   en: I arrived on time.
 - fr: Tu es passé à la poste ?
-  en: Did you go to the Post office?
-- fr: J’y suis allé pour rien !
-  en: I went down there for nothing!
-end_question: Et vous, qu’est-ce qui vous a amené à Paris ?
+  en: Did you stop by the post office?
+- fr: J'y suis allé pour rien !
+  en: I went there for nothing!
+end_question: Et vous, qu'est-ce qui vous a amené à Paris ?

@@ -354,8 +354,14 @@
                                     
                                     <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #202020;font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 15px;line-height: 150%;text-align: left;">
                                     
-                                        <div style="text-align: right;"><span style="font-size:11px"><span style="font-family:roboto,helvetica neue,helvetica,arial,sans-serif"><strong>Réponse : </strong><br>
-                                        <%= newsletter.correct_option_label(shuffled_challenge_options) %> <%= newsletter.correct_option[:option] %></span></span></div>
+                                        <div style="text-align: right;">
+                                          <span style="font-size:11px">
+                                            <span style="font-family:roboto,helvetica neue,helvetica,arial,sans-serif">
+                                              <strong>Réponse : </strong><br>
+                                              <%= newsletter.correct_option_labels(shuffled_challenge_options) %>
+                                            </span>
+                                          </span>
+                                        </div>
 
                                     </td>
                                   </tr>
