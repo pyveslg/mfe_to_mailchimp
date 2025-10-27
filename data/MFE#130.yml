@@ -1,30 +1,31 @@
 ---
-title: Grosso modo, c’est tout droit
+title: L'art de dire beaucoup… en peu de mots
 preview_text: Today, learn how to summarize
-color: "#f5ffcb"
+color: "#E9E3B5"
 goal: dire l'essentiel
 challenge:
-  state: 'Il vous demande la recette des croissants. Vous dites :'
+  state: |
+    Les vacances de la Toussaint commencent. À cette occasion, un ami est venu vous voir à Paris. Il vous demande la recette des croissants. Vous dites :
   options:
-  - option: Basiquement, c’est de la farine et du beurre !
-  - option: En gros, c’est de la farine et du beurre !
+  - option: Basiquement, c'est de la farine et du beurre !
+  - option: En gros, c'est de la farine et du beurre !
     correct: true
 explanation:
   fr: |-
-    Eh oui ! en gros annonce l’essentiel d’une information complexe.
-    Il s’emploie dans un contexte informel.
-    Le terme basiquement est incorrect en français.
-  en: "Basically, “en gros” means ”basically” \U0001F609 \n“basiquement” does not
-    sound French."
+    Eh oui ! **_en gros_** annonce **l'essentiel d'une information complexe**.
+    Il s'emploie **dans un contexte informel**.
+    Le terme _basiquement_ est incorrect en français.
+  en: |
+    “En gros” is what you say when you want to give the gist of something — the main idea, without the details. It's used in casual, everyday French. And forget “basiquement”: it just doesn't sound French!
 words:
 - fr: En bref, tout est réglé !
-  en: In a nutshell, everything's fine!
-- fr: Grosso modo, c’est tout droit.
+  en: In short, everything’s sorted!
+- fr: Grosso modo, c'est tout droit.
   en: It's basically straight on.
 - fr: En un mot, c'était top!
-  en: In a word, that's was awesome!
+  en: In a word, it was awesome!
 - fr: Pourquoi faire simple quand on peut faire compliqué ?  (ironique)
-  en: Why get complicated? (ironic)
+  en: Why make it simple when you can make it complicated? (ironic)
 end_question: |-
   Et vous, en gros,
   comment apprenez-vous le français ?
