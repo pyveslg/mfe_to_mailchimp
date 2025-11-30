@@ -1,29 +1,33 @@
 ---
-title: en vous remerciant
+title: l'art de dire merci avant l'heure
 preview_text: Today, learn how to thank by email
-color: "#cf1b1b"
+color: "#DFCCF0"
 goal: remercier par mail
 challenge:
-  state: 'Pour conclure, vous écrivez :'
+  state: |
+    Vous demandez un document à un collègue par mail. Pour conclure, vous écrivez :
   options:
   - option: Merci en avance.
   - option: Merci d'avance.
     correct: true
 explanation:
   fr: |-
-    Eh oui ! merci d’avance est une formule de politesse courante dans les mails.
-    Elle s’utilise dans un contexte informel.
-  en: "“merci d'avance” is a very usual way to thank in advance someone you're asking
-    by email to do something for you. You can use it in a rather informal context."
+    Eh oui ! **_merci d'avance_** est une **formule de politesse courante dans les mails**.
+    Elle s'utilise dans un contexte ~informel~.
+  en: |
+    In French emails, “merci d'avance” is the go to way to thank someone before they actually do the thing you're asking for. It's friendly, polite, and perfectly fine for everyday work messages.
 words:
-- fr: Je vous remercie.
-  en: I thank you.
-- fr: En vous remerciant.
+- fr: |
+    **Je vous remercie**.
+  en: Thank you.
+- fr: |
+    **En** vous **remerciant**.
   en: With thanks.
-- fr: Je vous remercie d’avance pour votre aide.
-  en: I thank you in advance for your help.
-- fr: Je vous remercie pour le temps que vous accorderez à ma demande.
+- fr: |
+    Je vous remercie **d'avance pour votre aide**.
+  en: Thank you in advance for your help.
+- fr: |
+    **Je vous remercie pour le temps** que vous accorderez à ma demande.
   en: Thank you for your time and consideration.
 end_question: |-
-  Merci d'avance de
-  nous lire demain !
+  Merci de nous lire ! 😊

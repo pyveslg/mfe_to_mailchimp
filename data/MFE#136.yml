@@ -1,30 +1,31 @@
 ---
-title: il reste du chocolat
-preview_text: "Today, learn how to be gourmand \U0001F36B"
-color: "#fda831"
-goal: être gourmand(e)
+title: Un petit carré pour la route ? 🍫
+preview_text: |
+  Today, learn how to indulge yourself
+color: "#E2C3BC"
+goal: être gourmand
 challenge:
-  state: 'Un peu de sucre serait bienvenu ! Vous dites :'
+  state: |
+    Il fait gris et il pleut... C'est un peu la déprime.
+    Un peu de sucre serait bienvenu ! Vous dites : 
   options:
-  - option: J’ai envie de chocolat.
+  - option: J'ai envie de chocolat.
     correct: true
-  - option: J’ai envie chocolat.
+  - option: J'ai envie chocolat.
 explanation:
   fr: |-
-    Eh oui ! Comme avoir besoin de / avoir peur de / avoir raison de...
-    Les locutions avec avoir se construisent régulièrement de la façon suivante :
-    avoir + nom + de.
+    Eh oui ! Comme **_avoir besoin de_** / **_avoir peur_** / **_avoir raison de_**…
+    Les locutions avec **_avoir_** se construisent régulièrement de la façon suivante :
+    **_avoir_ + nom + _de_**
   en: |-
-    “avoir envie de” works the same as phrases such as :
-    “avoir besoin de” (to need), “avoir peur de” (to be afraid of) or “avoir raison de” (to be right).
-    Such phrases built with ”avoir” usually follow this pattern : avoir + noun + de.
+    “avoir envie de” follows the same logic as “avoir besoin de” (to need), “avoir peur de” (to be afraid of), or “avoir raison de” (to be right). Whenever “avoir” is part of an expression like this, it's usually built this way: avoir + noun + de.
 words:
 - fr: Il reste du chocolat ?
   en: Is there any chocolate left?
-- fr: J’ai une petite envie de chocolat.
-  en: I have a craving for chocolate.
+- fr: J'ai une petite envie de chocolat.
+  en: I'm craving a bit of chocolate.
 - fr: Je mangerais bien un carré de chocolat !
-  en: I would fancy eating a piece of chocolate!
+  en: I'd love a square of chocolate!
 - fr: Un peu de chocolat ferait du bien…
-  en: Some chocolate would be welcome.
+  en: A little chocolate would do some good.
 end_question: Allez, vous auriez raison de vous faire plaisir !
