@@ -1,30 +1,32 @@
 ---
-title: passe de très belles fêtes
-preview_text: "Today, learn how to start a new year \U0001F386"
-color: "#fddd8a"
+title: une règle parfaite pour bien commencer l’année ✨
+preview_text: Today, learn how to start a new year
+color: "#F5F0FF"
 goal: |-
-  commencer
-  une nouvelle année
+  commencer une nouvelle année
 challenge:
-  state: 'Votre collègue vous demande ce que vous faites le 1er janvier. Vous répondez
-    :'
+  state: |
+    Votre collègue vous demande ce que vous faites le 1er janvier. Vous répondez :
   options:
   - option: Je fête le nouvel an en famille.
     correct: true
   - option: Je fête le nouveau an en famille.
 explanation:
   fr: |-
-    Eh oui ! Pour des raisons de phonétique, nouveau devient nouvel devant un nom masculin qui commence par une voyelle.
-    Par exemple : “j’ai un nouveau téléphone.” vs “j’ai un nouvel ordinateur”.
-  en: For phonetic reasons, “nouveau” (=new) becomes “nouvel” when placed before a
-    masculine noun starting with a vowel.
+    Eh oui ! Pour des **raisons de phonétique**, **_nouveau_** devient **_nouvel_** **devant un nom masculin qui commence par une ~voyelle~**.
+    _j'ai un **nouveau t**éléphone._ vs. _j'ai un **nouvel o**rdinateur._
+  en: |
+    Yes, French likes things to sound smooth. For phonetic reasons, “nouveau” turns into “nouvel” before a masculine noun that starts with a vowel. It avoids the awkward clash of sounds.
 words:
-- fr: Bonne année !
+- fr: |
+    **Bonne année !**
   en: Happy new year!
-- fr: Qu’est-ce que tu fais le 31 décembre ?
+- fr: |
+    Qu'est-ce que tu fais **le 31** ?
   en: What are you doing New Year's Eve?
-- fr: Passe de très belles fêtes !
-  en: Have a happy festive season!
-- fr: Je te souhaite d’excellentes fêtes.
+- fr: |
+    Passe de très **belles fêtes** !
+  en: Have a lovely holiday season!
+- fr: Je te souhaite **d'excellentes fêtes**.
   en: I wish you a wonderful holiday season.
 end_question: Et vous, que faites-vous pour le nouvel an ?

@@ -1,28 +1,29 @@
 ---
-title: vivement Noël
+title: Vivement quelque chose… mais quoi ? 🎄
 preview_text: Today, learn how to be impatient
-color: "#55b3f3"
+color: "#CADBF1"
 goal: être impatient
 challenge:
-  state: 'Noël arrive et vous êtes impatient. Vous dites :'
+  state: |
+    Noël arrive et vous êtes impatient. Vous dites :
   options:
-  - option: J’espère Noël avec impatience.
+  - option: J'espère Noël avec impatience.
+  - option: J'attends Noël avec impatience.
     correct: true
-  - option: J’attends Noël avec impatience.
 explanation:
   fr: |-
-    Eh oui ! Ne confondez pas attendre et espérer.
-    Attendre implique la patience. Par exemple : “J’attends que les vacances arrivent.”
-    Espérer implique l’espoir et le désir. Par exemple : “J’espère qu’il neigera à Noël.”
-  en: Be careful of not mixing up “attendre” and “espérer”. “attendre” underlies patience
-    (to wait) whereas “espérer” underlies hope and wish.
+    Eh oui ! Ne confondez pas **_attendre_** et **_espérer_**.
+    **_Attendre_** implique **la patience**. Par exemple : _J'**attends** que les vacances arrivent._
+    **_Espérer_** implique **l'espoir et le désir**. Par exemple : _J'**espère** qu'il neigera à Noël._
+  en: |
+    Watch out, “attendre” and “espérer” are false friends in disguise. “attendre” is about waiting, with patience involved. Think of standing in line, maybe checking your phone every 30 seconds. “espérer” is about hope or a wish, something you want to happen but can't control. So you “attendez” Christmas, but you “espérez” snow.
 words:
 - fr: Vivement Noël !
   en: I can't wait for Christmas!
-- fr: Chaque Noël, j’attends l’arrivée du Père-Noël.
-  en: Every Christmas, I wait for Santa.
+- fr: Chaque Noël, j'attends l'arrivée du Père-Noël.
+  en: Every Christmas, I wait for Santa to arrive.
 - fr: Il va arriver, il se fait un peu désirer.
-  en: He's on his way. He's getting expected a bit.
-- fr: Tout vient à point à qui sait attendre.
+  en: He's on his way. He's making us wait a bit.
+- fr: Tout vient à point à qui sait attendre. 
   en: All things come to those who wait.
-end_question: Et vous, attendez-vous encore le Père Noël ?
+end_question: Et vous, fêtez-vous Noël ?

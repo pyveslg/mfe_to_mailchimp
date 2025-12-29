@@ -1,29 +1,33 @@
 ---
-title: ce serait bien que tu prennes des infos
+title: donner un bon conseil
 preview_text: Today, learn how to give some good advice
-color: "#f7f6e7"
+color: "#AFEACA"
 goal: donner des conseils
 challenge:
-  state: 'Votre collègue arrive au travail avec de la fièvre. Vous dites :'
+  state: |
+    Pour la semaine du climat, vous échangez des conseils sur les gestes éco-responsables. Vous dites : 
   options:
-  - option: Tu devrais aller chez le médecin.
+  - option: Vous devriez venir au bureau en vélo.
     correct: true
-  - option: Tu devais aller chez le médecin.
+  - option: Vous devez venir au bureau en vélo.
 explanation:
   fr: |-
-    Eh oui ! devoir au conditionnel est le verbe idéal pour introduire un conseil.
-    Pour rappel, voici la conjugaison : je devrais / tu devrais / il devrait / elle devrait / nous devrions / vous devriez / ils devraient / elles devraient.
-  en: "We definitely recommend you to use the verb ”devoir” at the conditional tense
-    next time you would like to give some good advice. That's our best piece of advice
-    today ! \U0001F609"
+    Eh oui ! **_devoir_ au conditionnel** est le **verbe idéal pour introduire un conseil**.
+    Pour rappel, voici la conjugaison :
+    _je devrais_ / _tu devrais_ / _il devrait_ / _elle devrait_ / _nous devrions_ / vous _devriez_ / ils _devraient_ / _elles devraient_.
+  en: |
+    In French, the conditional form of “devoir” is your best friend for giving advice. It's the French way of saying you should probably do this... without sounding like your boss or your mom.
 words:
-- fr: Prends un médicament.
-  en: Take a medicine/drug.
-- fr: Nous devrions y aller.
+- fr: |
+    **Prends** un médicament.
+  en: Take some medicine.
+- fr: |
+    **Nous devrions** y aller.
   en: We should go.
-- fr: Tu devrais vraiment préparer tes affaires.
-  en: You really should start packing your stuff.
-- fr: Ce serait bien que tu prennes des infos.
-  en: You should inquire.
-end_question: Et vous, ne devriez-vous pas donner un conseil aujourd'hui pour vous
-  entraîner ?
+- fr: |
+    **Tu devrais vraiment** préparer tes affaires.
+  en: You really should start getting your things ready.
+- fr: |
+    **Ce serait bien que** tu prennes des infos.
+  en: You should get some information.
+end_question: Et vous, quelle habitude écologique devriez-vous introduire dans votre quotidien ? 
